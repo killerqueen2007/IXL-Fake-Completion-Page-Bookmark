@@ -1,4 +1,4 @@
-# How to Use This
+# How to Use This, CODE DOES NOT WORK AT THIS TIME
 
 This code is designed for **Safari** and **Google Chrome**.
 
