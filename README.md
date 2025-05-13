@@ -1,5 +1,4 @@
 # How to Use This, CODE DOES NOT WORK AT THIS TIME
-# I have no internet to fix it at this time
 
 This code is designed for **Safari** and **Google Chrome**.
 
