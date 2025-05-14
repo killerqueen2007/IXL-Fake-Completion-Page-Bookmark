@@ -12,7 +12,7 @@ For Ipad - Safari
 
 2. **Save the Code**
    - A. Open `main.js`.
-   - B. Click **Raw** at this URL: [Raw URL](https://raw.githubusercontent.com/killerqueen2007/IXL-100-EDITOR-BOOKMARK/refs/heads/main/main.js).
+   - B. Click **Raw**.
    - C. Select all the code (Ctrl + A or Cmd + A), then **copy** it.
 
 3. **Edit the Bookmark**
