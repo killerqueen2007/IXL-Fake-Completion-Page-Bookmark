@@ -6841,7 +6841,2503 @@ function GetStats() {
 		</div>
 		<iframe style="position: absolute; top: 0; height: 0; width: 100%; border: 0px;" id="responsive-info-higher-order-component-iframe" aria-hidden="true"></iframe>
 	</body>
+</html>`,
+      `<html lang="en-US" class="yui3-js-enabled" id="yui_3_18_1_1_1747242527609_330">
+	<script type="text/javascript">window.script1747242528427=1;</script>
+	<head>
+		<link rel="icon" href="/ixl-favicon.png">
+		<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-RNEMW9Y64Y&amp;cx=c&amp;gtm=45He55d0v6221932za200&amp;tag_exp=101509157~103116025~103130495~103130497~103200001~103233427~103252644~103252646~103301114~103301116"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/Hi8UmRMnhdOBM3IuViTkapUP/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-aGxp+HH8FgFuELd3pkXNsuU+C2DWD2dZ5rIBbAgjFAotQmvvcElD2kghHpW7U/Kl"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MQKK9F&amp;gtm_auth=rVfbE8en3IxbGbyIWqZqog&amp;gtm_preview=env-36&amp;gtm_cookies_win=x"></script><script type="text/javascript" async="" src="//www.google-analytics.com/analytics.js"></script><script src="/dv3/zeyzJp_xIi5ITRc4JU9PrloOEik/yui3/prepage/preventDefault-min.js"></script>
+		<script src="/dv3/zeyzJp_xIi5ITRc4JU9PrloOEik/yui3/prepage/polyfill-min.js"></script>
+		<meta name="com.silverpop.brandeddomains" content="www.pages02.net,email.ixl.com,www.ixl.com,au.ixl.com,ca.ixl.com,eu.ixl.com,in.ixl.com,ie.ixl.com,nz.ixl.com,sg.ixl.com,za.ixl.com,uk.ixl.com">
+		<meta name="com.silverpop.cothost" content="pod2.ibmmarketingcloud.com">
+		<script type="text/javascript" src="/frontend/runtime/runtime.1c5902abaa756ccc2697.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js.2e3196cd73053f26dc7b.bundle.js"></script><script type="text/javascript" src="/frontend/sunshineGlobals/sunshineGlobals.39e85724b2f043a5c0fd.bundle.js"></script>
+		<title>IXL | ${skillName} | ${grade} language arts</title>
+		<meta name="description" content="Improve your language arts knowledge with free questions in &quot;Choose the short o word that matches the picture: lowercase&quot; and thousands of other language arts skills.">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="robots" content="noarchive">
+		<link rel="stylesheet" href="/dv3/_WE0Ue32g-6-dWJhWEXP5hywP-8/yui3/crisp/crisp-css-base-min.css">
+		<link rel="stylesheet" href="/dv3/_WE0Ue32g-6-dWJhWEXP5hywP-8/yui3/crisp/crisp-css-buttons-min.css">
+		<link rel="stylesheet" href="/dv3/_WE0Ue32g-6-dWJhWEXP5hywP-8/yui3/crisp/crisp-css-forms-min.css">
+		<link rel="preconnect" href="https://www.googletagmanager.com">
+		<link rel="preconnect" href="https://www.google-analytics.com">
+		<link rel="prefetch" href="/yui2.9.0/yuiloader/yuiloader-min.js">
+		<link rel="prefetch" href="/yui2.9.0/cookie/cookie-min.js">
+		<link rel="prefetch" href="/yui2.9.0/utilities/utilities.js">
+		<link rel="prefetch" href="/yui2.9.0/container/container-min.js">
+		<link rel="prefetch" href="/yui2.9.0/menu/assets/skins/sam/menu.css">
+		<link rel="prefetch" href="/yui2.9.0/menu/menu-min.js">
+		<link rel="prefetch" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/common/ixlloader.js">
+		<link rel="prefetch" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/common/utils.js">
+		<link rel="prefetch" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/common/flowdialog.js">
+		<link rel="prefetch" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/account/login.js">
+		<link rel="prefetch" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/marketing/marketing.js">
+		<link rel="prefetch" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/navigation/international/international.js">
+		<link rel="prefetch" href="/yui2.9.0/carousel/assets/skins/sam/carousel.css">
+		<link rel="prefetch" href="/yui2.9.0/carousel/carousel-min.js">
+		<link rel="prefetch" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/account/profile.js">
+		<link rel="stylesheet" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/css/style.css ">
+		<link rel="stylesheet" href="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/site-nav-css-min.css">
+		<link rel="stylesheet" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/marketing/css/marketing.css ">
+		<link rel="stylesheet" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/ixl/practice/ixl-practice-crate.css ">
+		<link rel="stylesheet" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/ixl/practice/ixl-html-crate.css ">
+		<link rel="stylesheet" href="/combo/dv3/TS9gELgZJsR5r_uq3nvBxLQYw-4/yui3/practice/?modules=practice-css-audio-min.css,practice-css-practice-min.css,practice-css-stats-min.css,practice-css-multipart-min.css,practice-css-toggle-spanish-button-min.css">
+		<link rel="stylesheet" href="/combo/dv3/gY9w33cEP7-89Rcp9GEOLehnMVw/yui3/webfont/?modules=webfont-css-robotoslab-min.css,webfont-css-roboto-min.css">
+		<link rel="stylesheet" href="/dv3/aT-AN7eUI2PJWm1vICLJ7CLd6jQ/yui3/marketing/marketing-css-mobile-app-banner-min.css">
+		<link rel="stylesheet" href="/frontend/sunrise/sunrise.2f96f85ea6a0d25ecb1b.bundle.css">
+		<link rel="stylesheet" href="/frontend/translationPopover/translationPopover.832e7f71e8a3a541570b.bundle.css">
+		<script>
+			window.__NAVIGATION_DIRECT_LINKS_PROPS__ = {
+			  isSignedIn: true,
+			};
+		</script>
+		<style type="text/css" id="operaUserStyle"></style>
+		<script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js.2e3196cd73053f26dc7b.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_redux_lib_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_redux_lib_index_js.407b8449553f6bd4061e.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_header_navigation_quickLoginForm_features_signin_signinSlice_js/commons-ixl_header_navigation_quickLoginForm_features_signin_signinSlice_js.6eed882c7300a96d8953.bundle.js"></script><script type="text/javascript" src="/frontend/navigationDirectLinks/navigationDirectLinks.c8f595b87035bc5dbb49.bundle.js"></script>
+		<script charset="utf-8" id="yui_3_18_1_1_1747242527609_2" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=util/YUA-min.js,util/YLang-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_3" src="/combo/dv3/xXJ_FBA7JnkwS-9xZcmkp3cjulo/yui3/util/?modules=util-UAPatch-min.js,util-StaticResources/lang/util-StaticResources.js,util-StaticResources-min.js,util-DateTimeFormat-min.js,util-NumberFormat-min.js,util-GrammarFunctions-min.js,util-PluralRules-min.js,util-ErrorTracking-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_4" src="/combo/yui/3.18.1?modules=oop/oop-min.js,event-custom-base/event-custom-base-min.js,event-base/event-base-min.js,dom-core/dom-core-min.js,dom-base/dom-base-min.js,selector-native/selector-native-min.js,selector/selector-min.js,node-core/node-core-min.js,dom-style/dom-style-min.js,node-base/node-base-min.js,event-delegate/event-delegate-min.js,node-event-delegate/node-event-delegate-min.js,pluginhost-base/pluginhost-base-min.js,pluginhost-config/pluginhost-config-min.js,node-pluginhost/node-pluginhost-min.js,dom-screen/dom-screen-min.js,node-screen/node-screen-min.js,node-style/node-style-min.js,querystring-stringify-simple/querystring-stringify-simple-min.js,io-base/io-base-min.js,datatype-xml-parse/datatype-xml-parse-min.js,io-xdr/io-xdr-min.js,io-form/io-form-min.js,io-upload-iframe/io-upload-iframe-min.js,queue-promote/queue-promote-min.js,io-queue/io-queue-min.js,event-custom-complex/event-custom-complex-min.js,intl/intl-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_5" src="/combo/dv3/jtBfMoh64IpiLjxoYdjEAQaOpNo/yui3/transfer-rosters/?modules=transfer-rosters-TransferRosters/lang/transfer-rosters-TransferRosters.js,transfer-rosters-TransferRosters-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_6" src="/combo/dv3/rPz2vMaEltwLJFlAa6kS5dizrBI/yui3/util-commonjs/?modules=ixl_util-commonjs_DateTimeFormat/lang/ixl_util-commonjs_DateTimeFormat.js,CheckBrowser-min.js,YEscape-min.js,Intl-min.js,YMerge-min.js,DateTimeFormat-min.js,NumberFormat-min.js,ixl_util-commonjs_GrammarFunctions/lang/ixl_util-commonjs_GrammarFunctions.js,GrammarFunctions-min.js,PluralRules-min.js,Request-min.js,ErrorTracking-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_7" src="/combo/dv3/EjNw0dlr4wr7nxV-hGcbq23zcKk/yui3/external/?modules=moment/dist-2.18.1/moment-min.js,moment/moment-min.js,Promise-min.js,fetch-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_8" src="/combo/dv3/hF44VgsiQQ2WpVWywXT9PEaRh94/yui3/signin-commonjs/?modules=utils/signinConstants-min.js,utils/recordSignin-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_9" src="/combo/dv3/gjyg6SpgYJv96UGFkPc4n9uqU70/yui3/tracking-utils/?modules=snakeCaseUtils-min.js,dataLayer-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_11" src="/yui2.9.0/yuiloader/yuiloader-min.js"></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_13" src="/combo/dv3/xXJ_FBA7JnkwS-9xZcmkp3cjulo/yui3/util/?modules=util-Intl-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_12" src="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/common/ixlloader.js"></script>
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747242527609_29" href="/combo/yui/3.18.1?modules=widget-base/assets/skins/sam/widget-base.css">
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747242527609_30" href="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=util/audio/TranslationButtonDisplay-min.css">
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747242527609_31" href="/combo/dv3/mneDNmc8mLkT6r5llbM-h3pDTNI/yui3/product-components/?modules=IxlModal-min.css">
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747242527609_32" href="/combo/dv3/lo0cgcGqMkYPhNEw3BL1WJFAOro/yui3/qgen/?modules=q-css-Bundle-min.css,q-css-Expression-min.css,q-css-QMTypicalBinaryOperator-min.css,q-css-Section-min.css">
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747242527609_33" href="/combo/dv3/SMXBn-rwYek5FUigHigtLrhTbo4/yui3/qela/?modules=qela-css-ExplainedDictionaryEntry-min.css,qela-css-WordSumEquationView-min.css">
+		<script charset="utf-8" id="yui_3_18_1_1_1747242527609_34" src="/combo/yui/3.18.1?modules=array-extras/array-extras-min.js,attribute-core/attribute-core-min.js,attribute-observable/attribute-observable-min.js,attribute-extras/attribute-extras-min.js,attribute-base/attribute-base-min.js,base-core/base-core-min.js,base-observable/base-observable-min.js,base-base/base-base-min.js,base-pluginhost/base-pluginhost-min.js,base-build/base-build-min.js,querystring-parse/querystring-parse-min.js,querystring-stringify/querystring-stringify-min.js,event-touch/event-touch-min.js,event-synthetic/event-synthetic-min.js,event-move/event-move-min.js,json-parse/json-parse-min.js,json-stringify/json-stringify-min.js,matrix/matrix-min.js,classnamemanager/classnamemanager-min.js,graphics/graphics-min.js,graphics-svg-default/graphics-svg-default-min.js,graphics-svg/graphics-svg-min.js,view/view-min.js,attribute-complex/attribute-complex-min.js,event-focus/event-focus-min.js,widget-base/widget-base-min.js,widget-htmlparser/widget-htmlparser-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_35" src="/combo/yui/3.18.1?modules=widget-skin/widget-skin-min.js,widget-uievents/widget-uievents-min.js,arraylist/arraylist-min.js,widget-parent/widget-parent-min.js,swfdetect/swfdetect-min.js,escape/escape-min.js,swf/swf-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_36" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=util/CustomEventFactory-min.js,util/AudioEventManager-min.js,util/get-window-min.js,util/get-document-min.js,util/audio-translation-text-util-min.js,util/has-class-min.js,util/add-class-min.js,util/join-classes-min.js,util/remove-class-min.js,util/ClassNameUtils-min.js,util/ContentContext-min.js,util/ancestor-any-min.js,util/InnerTranslationButtonFallbackUtil-min.js,util/audio-button-utils-min.js,util/ReactAudioWrapper-min.js,util/audio/AudioPolicyConstants-min.js,util/audio/AudioIndicatorEvents-min.js,util/getDisplayName-min.js,util/hoc/withAudioPlaying-min.js,util/audio/TEXT_REGEX-min.js,util/debounce-min.js,util/get-min-screen-side-min.js,util/is-mobile-device-min.js,util/ScreenOrientation-min.js,util/get-raw-screen-dimensions-min.js,util/is-mobile-app-min.js,util/get-available-screen-dimensions-min.js,util/browser-resize-listener-min.js,util/orientation-change-listener-min.js,components/introBox/IntroBoxConstants-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_37" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=fauxcus/withTabFocus-min.js,util/dragAndDrop/practice-agent-scroll-controller-min.js,util/html-order-comparator-min.js,util/fillIn/FillInNavigationController-min.js,util/int-to-hex-color-min.js,util/IXLContentColorUtils-min.js,color/QG3ColorSetting-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_38" src="/combo/dv3/TS9gELgZJsR5r_uq3nvBxLQYw-4/yui3/practice/?modules=practice-AudioManager-min.js,practice-AudioManagerInitializerUtils-min.js,practice-AudioManagerInitializer-min.js,practice-IncompleteAnswerPopover/lang/practice-IncompleteAnswerPopover.js,practice-IncompleteAnswerPopoverButton-min.js,practice-IncompleteAnswerPopover-min.js,practice-AudioButtonDelegate-min.js,practice-FlashAudio-min.js,practice-HTML5Audio-min.js,practice-PracticeAudioBackends-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_39" src="/combo/dv3/EjNw0dlr4wr7nxV-hGcbq23zcKk/yui3/external/?modules=react/react-17-0-2/react-devprod-min.js,react/react-min.js,snap/eve-min.js,snap/snap.svg-min.js,react/prop-types-15-6-0/prop-types-min.js,react/prop-types-min.js,react/react-17-0-2/react-dom-devprod-min.js,react/reactDom-min.js,react/create-react-class-15-6-2/create-react-class-min.js,react/create-react-class-min.js,snap/Snap-min.js,snap/SnapUtil-min.js,CSSColorParser-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_40" src="/combo/dv3/mneDNmc8mLkT6r5llbM-h3pDTNI/yui3/product-components/?modules=IxlModal-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_41" src="/combo/dv3/lo0cgcGqMkYPhNEw3BL1WJFAOro/yui3/qgen/?modules=q-Lang-min.js,q-AudioButtonVerticalAlignTileComponents-min.js,q-AudioHTMLUtils-min.js,q-ComponentSimple-min.js,q-DOMAttachAware-min.js,q-TranslationAPI-min.js,q-RavenTranslationButton-min.js,q-AudioWrapper-min.js,q-CSSClassNames-min.js,q-ContextAware-min.js,q-Component-min.js,q-GC-min.js,q-QMDelegate-min.js,q-QMTypicalBinaryOperator-min.js,q-GradingGroup-min.js,q-Guessable-min.js,q-ObjectUtils-min.js,q-StabilizerBase-min.js,q-SubmitStabilizer-min.js,q-Question-min.js,q-ColorUtils/lang/q-ColorUtils.js,q-ColorDirective-min.js,q-ColorSetting-min.js,q-ContentColorWithBrightness-min.js,q-MathUtils-min.js,q-ColorUtils-min.js,q-HTMLUtils-min.js,q-Section-min.js,q-AudioUtils-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_42" src="/combo/dv3/is474p-ADNHFE62tlRcvpS0FrfM/yui3/global/?modules=global-React-min.js,global-Snap-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_43" src="/combo/dv3/93mliL_YD8Ewvj40lVtkysZ5ikY/yui3/yui-gallery/?modules=yui-gallery-object-extras-min.js,yui-gallery-funcprog-min.js,yui-gallery-nodelist-extras-min.js,yui-gallery-nodelist-extras2-min.js,yui-gallery-svg-focus-patch-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_44" src="/combo/dv3/SMXBn-rwYek5FUigHigtLrhTbo4/yui3/qela/?modules=qela-DictionaryEntryDefinitionView-min.js,qela-DictionaryEntryExplanationView-min.js,qela-WordSumEquationView-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_106" src="/combo/yui/3.18.1?modules=cookie/cookie-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_107" src="/combo/dv3/aT-AN7eUI2PJWm1vICLJ7CLd6jQ/yui3/marketing/?modules=marketing-mobileAppBanner-min.js" async=""></script>
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747242527609_109" href="/combo/dv3/hN-k0BBpqDENA7779wkm1EnJrTk/yui3/customizable-delay-tooltips/?modules=customizable-delay-tooltips-css-tooltip-min.css">
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747242527609_110" href="/combo/yui/3.18.1?modules=widget-stack/assets/skins/sam/widget-stack.css">
+		<script charset="utf-8" id="yui_3_18_1_1_1747242527609_111" src="/combo/dv3/0vf-Fix6RE4FqmyrjyYOec5HHAM/yui3/suggested-skills/?modules=ixl_suggested-skills_utils_SuggestionIconTooltipUtils/lang/ixl_suggested-skills_utils_SuggestionIconTooltipUtils.js,utils/SuggestionIconTooltipUtils-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_112" src="/combo/dv3/hN-k0BBpqDENA7779wkm1EnJrTk/yui3/customizable-delay-tooltips/?modules=customizable-delay-tooltips-Tooltip-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_113" src="/combo/yui/3.18.1?modules=event-mouseenter/event-mouseenter-min.js,event-hover/event-hover-min.js,widget-position/widget-position-min.js,widget-stack/widget-stack-min.js,selector-css2/selector-css2-min.js,selector-css3/selector-css3-min.js" async=""></script>
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747242527609_168" href="/combo/dv3/6vZlGiWF1tdlXWyfR1crTHmSIRE/yui3/recaptcha-commonjs/?modules=css/GoogleRecaptchaClient-min.css">
+		<script charset="utf-8" id="yui_3_18_1_1_1747242527609_169" src="/combo/dv3/rPz2vMaEltwLJFlAa6kS5dizrBI/yui3/util-commonjs/?modules=Cookie-min.js,Websocket-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_170" src="/combo/dv3/qWG1J4dR8eZKjmiGnMC-BPI0G8M/yui3/site-nav-commonjs/?modules=set-up-site-nav-banner-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_171" src="/combo/dv3/7V6dbvO5kffrWmEVq2MzvSLP2zI/yui3/ab-testing-commonjs/?modules=FirstTimeOnIXLCookieHelper-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_172" src="/combo/dv3/EjNw0dlr4wr7nxV-hGcbq23zcKk/yui3/external/?modules=socket.io/socket.io-4.7.5/socket.io-4.7.5-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_173" src="/combo/dv3/6vZlGiWF1tdlXWyfR1crTHmSIRE/yui3/recaptcha-commonjs/?modules=GoogleRecaptchaClient-min.js" async=""></script>
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747242527609_207" href="/combo/dv3/lo0cgcGqMkYPhNEw3BL1WJFAOro/yui3/qgen/?modules=q-css-min.css">
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747242527609_208" href="/combo/dv3/TS9gELgZJsR5r_uq3nvBxLQYw-4/yui3/practice/?modules=practice-css-GCDisabler-min.css,practice-css-audio-min.css">
+		<script charset="utf-8" id="yui_3_18_1_1_1747242527609_209" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=infrastructure/isObjectOrArray-min.js,infrastructure/convertWalk-min.js,infrastructure/findTypes-min.js,util/AutoFocusVersion-min.js,util/fire-custom-event-min.js,util/GCDisabler-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_210" src="/combo/dv3/lo0cgcGqMkYPhNEw3BL1WJFAOro/yui3/qgen/?modules=q-Q-min.js,q-DOMAfterAttached-min.js,q-DelayedRendering-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_211" src="/combo/yui/3.18.1?modules=timers/timers-min.js,promise/promise-min.js,event-key/event-key-min.js,model/model-min.js,widget-stdmod/widget-stdmod-min.js,array-invoke/array-invoke-min.js,event-tap/event-tap-min.js,widget-child/widget-child-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_212" src="/combo/dv3/TS9gELgZJsR5r_uq3nvBxLQYw-4/yui3/practice/?modules=practice-FillInNavigationControllerBridge-min.js,practice-FeedbackAudio-min.js,practice-QuestionWidget/lang/practice-QuestionWidget.js,practice-CrateModel-min.js,practice-CrateView/lang/practice-CrateView.js,practice-CrateView-min.js,practice-CrateWidget-min.js,practice-Focusable-min.js,practice-GCDisabler-min.js,practice-QuestionWidget-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_213" src="/combo/dv3/93mliL_YD8Ewvj40lVtkysZ5ikY/yui3/yui-gallery/?modules=yui-gallery-soon-min.js" async=""></script>
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747242527609_214" href="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=util/audio/AudioButtonDisplay-min.css,util/audio/AudioEnabledComponent-min.css,components/GCTileMultipleChoices/TileMultipleChoices-min.css,components/layout/TileLayout-min.css,components/Tiles/AudioForSelectableTile-min.css,components/Tiles/SelectableTile-min.css,components/Tiles/TileSkinCheckMark-min.css,components/Tiles/TileSkinBare-min.css,components/Tiles/TileSkinClassic-min.css,util/css/withHorizontalScrollIndicator-min.css,components/image/DCImage-min.css">
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747242527609_215" href="/combo/dv3/SMXBn-rwYek5FUigHigtLrhTbo4/yui3/qela/?modules=qela-css-RichText-min.css">
+		<script charset="utf-8" id="yui_3_18_1_1_1747242527609_216" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=components/semantic/Stylizer-min.js,text/_Ellipsis-min.js,text/_ParagraphSpan-min.js,text/_Rogue-min.js,text/_Word-min.js,util/lang/is-string-min.js,text/utext/UText-min.js,text/utext/UTextPropType-min.js,util/KeyCodes-min.js,util/audio/AudioButtonConstants-min.js,util/get-values-min.js,util/audio/AudioButtonDisplay-min.js,util/audio/AudioNodeIteration-min.js,util/audio/audio-playing-utils-min.js,propTypes/audioPathsPropType-min.js,util/audio/propTypes/enableAudioPropTypes-min.js,util/audio/AudioButton-min.js,util/audio/AudioButtonCfg-min.js,util/audio/AudioSystemNumberConstants-min.js,util/audio/createAudioSources-min.js,util/audio/enableAudio-min.js,util/lang/is-function-min.js,util/request-css-module-for-page-min.js,text/Paragraph-min.js,util/audio/generate-audio-info-min.js,util/Rand-min.js,util/convert-to-value-min.js,util/is-DOM-min.js,util/hash-min.js,util/invoke-if-defined-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_217" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=util/supports-passive-event-listeners-min.js,util/unwrap-position-info-min.js,components/ClickToSelect/ClickToSelectController-min.js,components/ClickToSelect/ClickToSelectControllerReactMixin-min.js,components/GCTileMultipleChoices/TileMultipleChoiceConstants-min.js,components/Tiles/TilePropEnum-min.js,fauxcus/FauxcusManagerEnums-min.js,fauxcus/FauxcusManager-min.js,components/layout/GriddyLayout-min.js,components/Tiles/TileDimensionsMap-min.js,util/get-tile-size-map-min.js,components/layout/TileSizingUtils-min.js,components/layout/VerticalLayout-min.js,util/query-selector-array-min.js,components/GCTileMultipleChoices/withTileMultipleChoice-min.js,components/Tiles/TileSkinCheckMarkBottom-min.js,components/Tiles/TileSkinCheckMarkLeft-min.js,components/Tiles/withSelectableTile-min.js,components/Tiles/SelectableCheckedTile-min.js,components/Tiles/SelectableTile-min.js,components/GCFillInMultipleChoiceUpgrade/FIMCConstants-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_218" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=components/Tiles/SelectableTileMobile-min.js,components/Tiles/TileSkinBare-min.js,components/Tiles/TileSkinClassic-min.js,responsive/ResponsiveHocConstants-min.js,responsive/getCustomizedResponsiveHoc-min.js,util/hoc/horizontalScrollFadeSize-min.js,util/hoc/withAudio-min.js,util/hoc/withDelayedRendering-min.js,util/hoc/HorizontalScrollConstants-min.js,util/hoc/withHorizontalScrollIndicator-min.js,components/GCTileMultipleChoices/TileMultipleChoicesController-min.js,util/tiles/tile-auto-resize-min.js,components/image/interfaceHOCs/withOnLoadProp-min.js,util/srcset-utils-min.js,components/image/ImageBase-min.js,components/image/ImageInfoPropType-min.js,components/image/interfaceHOCs/withImageInfoProp-min.js,components/image/interfaceHOCs/withSizableProp-min.js,components/image/RasterImage-min.js,components/image/VectorImage-min.js,components/image/DCImage-min.js,components/image/DCImageResponsiveCfg-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_219" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=components/image/ImageInfo-min.js,responsive/getCustomizedResponsivePropType-min.js,components/image/ResponsiveImage-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_220" src="/combo/dv3/EjNw0dlr4wr7nxV-hGcbq23zcKk/yui3/external/?modules=query-string/queryString-min.js,classnames-min.js,MersenneTwister-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_221" src="/combo/dv3/lo0cgcGqMkYPhNEw3BL1WJFAOro/yui3/qgen/?modules=q-PlainText-min.js,q-Rand-min.js,q-ContextHelper-min.js,q-GeneticRender-min.js,q-QuestionFocus-min.js,q-GCTileMultipleChoice-min.js,q-GCTextTileMultipleChoice-min.js,q-DCImageBridge-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_222" src="/combo/dv3/SMXBn-rwYek5FUigHigtLrhTbo4/yui3/qela/?modules=qela-RichTextEnrichmentToHTMLMap-min.js,qela-RichText-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_1051" src="/combo/dv3/lo0cgcGqMkYPhNEw3BL1WJFAOro/yui3/qgen/?modules=q-QMMultipleSourceAudioWrapper-min.js" async=""></script>
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747242527609_1125" href="/combo/dv3/SMXBn-rwYek5FUigHigtLrhTbo4/yui3/qela/?modules=qela-css-ExampleImagesTable-min.css">
+		<script charset="utf-8" id="yui_3_18_1_1_1747242527609_1126" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=util/responsive-design-listener-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747242527609_1127" src="/combo/dv3/SMXBn-rwYek5FUigHigtLrhTbo4/yui3/qela/?modules=qela-ExampleImagesTableRow-min.js,qela-ExampleImagesTable-min.js" async=""></script><script src="https://www.recaptcha.net/recaptcha/api.js?render=6Lcq04AUAAAAAGSiB3-3J5ZSQZSTARc4GfabojnP&amp;hl=en"></script><script type="text/javascript" charset="utf8" async="" src="https://cdnapi.kaltura.com/p/4764982/sp/476498200/embedIframeJs/uiconf_id/50822372/partner_id/4764982"></script>
+		<style type="text/css"></style>
+		<link id="yui__dyn_0" type="text/css" rel="stylesheet" href="/yui2.9.0/menu/assets/skins/sam/menu.css" charset="utf-8">
+		<link id="yui__dyn_1" type="text/css" rel="stylesheet" href="/yui2.9.0/carousel/assets/skins/sam/carousel.css" charset="utf-8">
+		<script id="yui__dyn_2" type="text/javascript" src="/yui2.9.0/cookie/cookie-min.js" charset="utf-8"></script><script id="yui__dyn_3" type="text/javascript" src="/yui2.9.0/utilities/utilities.js" charset="utf-8"></script><script id="yui__dyn_0" type="text/javascript" src="/yui2.9.0/container/container-min.js" charset="utf-8"></script><script id="yui__dyn_1" type="text/javascript" src="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/common/utils.js" charset="utf-8"></script><script id="yui__dyn_2" type="text/javascript" src="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/common/flowdialog.js" charset="utf-8"></script><script id="yui__dyn_3" type="text/javascript" src="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/account/login.js" charset="utf-8"></script><script id="yui__dyn_4" type="text/javascript" src="/yui2.9.0/menu/menu-min.js" charset="utf-8"></script><script id="yui__dyn_5" type="text/javascript" src="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/marketing/marketing.js" charset="utf-8"></script><script id="yui__dyn_6" type="text/javascript" src="/yui2.9.0/carousel/carousel-min.js" charset="utf-8"></script><script id="yui__dyn_7" type="text/javascript" src="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/account/profile.js" charset="utf-8"></script>
+	</head>
+	<body class="ixl-skin practice-jsp flush-footer sunrise responsive edition-us>" id="yui_3_18_1_1_1747242527609_329">
+		<link rel="stylesheet" href="/frontend/header/header.27e4a82733805a3dcb01.bundle.css">
+		<link rel="stylesheet" href="/dv3/SSgqFPnxb3k-ioRg-AIacjbVIO0/yui3/common/common-css-cta-btn-min.css">
+		<link rel="stylesheet" href="/combo/dv3/gY9w33cEP7-89Rcp9GEOLehnMVw/yui3/webfont/?modules=webfont-css-opensans-min.css,webfont-css-roboto-min.css,webfont-css-robotoslab-min.css">
+		<script>
+			window.__SSO_CLIENT_ID__ = '116858415990-0ib16tvd7bg1sn25f7m3641vsaf2tfkn.apps.googleusercontent.com';
+		</script>
+		<a href="#maincontent" class="skip-to-main-content js-skip-to-main-content" data-cy="skip-to-main-content">
+		SKIP TO CONTENT
+		</a>
+		<script>
+			var CTAs = document.querySelectorAll('.trial-banner-cta');
+			
+			// track clicks by Google Analytics
+			function onClick(event) {
+			  var id = event.target.id;
+			  window['gaq'] = window['gaq'] || function() {
+			    (window['gaq'].q = window['gaq'].q || []).push(arguments);
+			  };
+			  var gaq = window['gaq'];
+			  gaq('send', 'event', 'Trial banner interactions', 'Link clicked', id + ' clicked');
+			}
+			
+			Array.prototype.forEach.call(CTAs, function(cta) {
+			  cta.addEventListener('click', onClick);
+			});
+			
+			// BPD-1478: Track clicking on the merge invite banner.
+			const mergeInviteButtonLink = document.querySelector('[data-tracking-class="merge-invite-btn"]');
+			if (mergeInviteButtonLink) {
+			  mergeInviteButtonLink.addEventListener('click', function() {
+			    if (gaq) {
+			      gaq('send', 'event', 'TeacherMerge', 'Click', 'AcceptInviteFromBanner');
+			    }
+			  });
+			}
+			
+			// DISC-4682: AU Webinar Banner click tracking
+			
+			
+			// DISC-4491: CA Webinar Banner click tracking
+			
+			
+			// DISC-4587: UK Webinar Banner click tracking
+			
+		</script>
+		<div id="banners-wrapper" class="banners-wrapper">
+			<div id="banner-carousel" class="banner-carousel"></div>
+		</div>
+		<style>
+			.banners-placeholder {
+			visibility: hidden;
+			box-sizing: border-box;
+			font: 13px/18px Open Sans, sans-serif;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			text-align: center;
+			padding: 7px 67px 7px 42px;
+			&.single-banner-sent {
+			padding-left: 20px;
+			}
+			}
+			@media screen and (min-width: 800px) {
+			.banners-placeholder {
+			padding: 15px 67px 15px 42px;
+			text-align: left;
+			flex-direction: row;
+			}
+			.banners-placeholder-cta {
+			min-width: 140px;
+			}
+			}
+		</style>
+		<div class="site-nav-header add-to-zindex-calculation site-nav-2022 consolidated with-sub-nav" data-has-user-nav-and-quick-login="true">
+			<input type="hidden" id="current_nav_category" value="learning">
+			<input type="checkbox" id="header-menu-state">
+			<input type="checkbox" id="mobile-search-state">
+			<div class="background-anchor">
+				<div class="sub-nav-background"></div>
+			</div>
+			<div class="category-menu-mask js-category-menu-mask" style="height: 0px;"></div>
+			<div id="hd" class="site-nav-header-container">
+				<div class="box-site-nav-func">
+					<div class="box-site-nav-func-left">
+						<a class="site-nav-ixl-logo" href="/" id="hd-logo" role="banner">IXL Learning</a>
+					</div>
+					<form id="searchBar" data-cy="search-form" class="skill-search-box crisp-form" method="get" action="/search">
+						<div class="box-search-input-btn ">
+							<input type="search" autocomplete="off" class="skill-search-input" maxlength="200" name="q" placeholder="Search topics, skills, and more" aria-label="Search topics, skills, and more" data-cy="search-input" value=""><input type="hidden" name="resultPageOrigin" value="searchbar">
+							<div class="skill-search-icon"></div>
+							<button type="submit" class="skill-search-button site-nav-header-button" aria-label="Search topics, skills, and more"></button>
+						</div>
+					</form>
+					<div class="box-site-nav-func-right">
+						<div class="mobile-search-state-label-container">
+							<button id="mobile-search-toggle-btn" class="mobile-search-state-label" aria-controls="searchBar" aria-haspopup="true">
+							<img src="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/assets/icon-mag-glass-white.svg" alt="Search for skill">
+							</button>
+						</div>
+						<div id="student-live-messages-container-hamburger" class="student-live-messages-container" data-cy="student-live-messages-container"></div>
+						<button id="header-menu-toggle-btn" class="header-menu-state-label" aria-label="Open navigation menu" aria-controls="mobile-nav-content" aria-haspopup="true" data-cy="header-menu-toggle-btn"></button>
+					</div>
+				</div>
+				<div id="mobile-nav-content" class="box-site-nav-content">
+					<div class="visible-content">
+						<div class="site-nav-ixl-logo-container">
+							<a class="site-nav-ixl-logo" href="/" id="hd-logo" role="banner">IXL Learning</a>
+						</div>
+						<nav id="ixl-nav-categories" class="box-site-nav-categories has-site-nav-category-selected" role="navigation" data-cy="ixl-nav-categories">
+							<ul class="box-site-nav-categories-left category-menus" data-cy="category-menu-list">
+								<li class="ixl-nav-category-entry
+									no-category-menu" data-cy="my-ixl-category-entry">
+									<a data-cy="site-nav-category" class="site-nav-category
+										" href="/dashboard" data-google-analytics="Main navigation.Category clicked.My IXL">My IXL</a>
+								</li>
+								<li class="ixl-nav-category-entry
+									" data-cy="learning-category-entry">
+									<a data-cy="site-nav-category" class="site-nav-category site-nav-category-selected" href="/recommendations" data-google-analytics="Main navigation.Category clicked.Learning">Learning</a>
+									<nav class="category-menu hover-active" style="left: -290px; width: 1074px;">
+										<ul class="category-menu-list">
+											<div class="grid-item x-0 y-0" data-cy="category-menu-column">
+												<li class="menu-list-item" data-cy="category-menu-item">
+													<div class="subcategory-header">
+														<a href="/math" class="subcategory-header-link category-menu-link category-menu-subcat-math" data-google-analytics="Main navigation.Header in hover menu clicked.Learning - Math" data-cy="category-menu-subcategory-header-link">
+															<svg aria-hidden="true" class="subcategory-icon" width="21" height="19" viewBox="0 0 21 19" xmlns="http://www.w3.org/2000/svg">
+																<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M9.34502 17.8062C9.94256 17.6134 19.0496 14.5511 19.0496 14.5511C19.0496 14.5511 11.359 10.3532 11.261 10.3829C9.40807 10.9511 1.27571 12.8535 1.08301 12.8535L9.34502 17.8062Z"></path>
+																<path fill-rule="evenodd" clip-rule="evenodd" d="M9.5407 0.326042L9.81481 0.00167847L10.0583 0.348429C10.0597 0.350447 10.0612 0.352482 10.0626 0.354534L20.1478 14.7174L9.47294 18.146C9.46815 18.1476 9.4633 18.1492 9.45841 18.1506L9.3256 18.1933L9.20427 18.1223C9.20063 18.1203 9.19703 18.1182 9.19348 18.116L0.118164 12.808L0.341253 12.5123L0.735778 11.9893L1.77593 10.6107L4.93261 6.4271C7.80505 2.62064 9.34189 0.585122 9.52164 0.350451C9.52762 0.342011 9.53398 0.333866 9.5407 0.326042ZM9.43622 1.55449C8.67112 2.56733 7.23777 4.46612 5.46051 6.82129L2.30186 11.0075L1.26172 12.3861L1.18249 12.4911L9.21415 10.5749L9.43622 1.55449ZM9.19738 11.2562L1.7911 13.0233L9.04936 17.2685L9.19738 11.2562ZM9.70566 17.3793L9.86029 11.098L11.3929 10.7324L18.5818 14.5284L9.70566 17.3793ZM9.87707 10.4167L10.0565 3.12804C10.109 3.14776 10.1672 3.15433 10.2265 3.14441C10.4059 3.11439 10.527 2.94459 10.497 2.76515L10.3552 1.91772L18.7489 13.8716L11.7358 10.1684L11.5517 9.0681C11.5217 8.88867 11.3519 8.76755 11.1724 8.79758C10.993 8.8276 10.8719 8.9974 10.9019 9.17684L11.0621 10.134L9.87707 10.4167ZM11.3408 7.80751L11.1298 6.54692C11.0998 6.36749 10.93 6.24637 10.7506 6.2764C10.5711 6.30642 10.45 6.47622 10.48 6.65566L10.691 7.91625C10.721 8.09568 10.8908 8.2168 11.0702 8.18677C11.2497 8.15675 11.3708 7.98695 11.3408 7.80751ZM10.7079 4.02574L10.9189 5.28633C10.9489 5.46577 10.8278 5.63557 10.6484 5.66559C10.4689 5.69562 10.2991 5.5745 10.2691 5.39507L10.0582 4.13448C10.0281 3.95504 10.1492 3.78524 10.3287 3.75521C10.5081 3.72519 10.6779 3.84631 10.7079 4.02574Z"></path>
+															</svg>
+															<span class="subcategory-header-label"><span data-cy="category-menu-subcategory-header-link-label">Math</span></span>
+														</a>
+													</div>
+													<ul class="subcategory-list horizontal">
+														<li class="subcategory-item">
+															<a href="/math" class="subcategory-item-link category-menu-link category-menu-page-math-skills" data-google-analytics="Main navigation.Link in hover menu clicked.Math - Skills" data-cy="category-menu-subcategory-item-link">
+															Skills
+															</a>
+														</li>
+														<img src="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/assets/ellipse.svg" alt="" class="ellipse">
+														<li class="subcategory-item">
+															<a href="/math/lessons" class="subcategory-item-link category-menu-link category-menu-page-math-lessons" data-google-analytics="Main navigation.Link in hover menu clicked.Math - Lessons" data-cy="category-menu-subcategory-item-link">
+															Lessons
+															</a>
+														</li>
+														<img src="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/assets/ellipse.svg" alt="" class="ellipse">
+														<li class="subcategory-item">
+															<a href="/math/videos" class="subcategory-item-link category-menu-link category-menu-page-math-videos" data-google-analytics="Main navigation.Link in hover menu clicked.Math - Videos" data-cy="category-menu-subcategory-item-link">
+															Videos
+															</a>
+														</li>
+														<img src="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/assets/ellipse.svg" alt="" class="ellipse">
+														<li class="subcategory-item">
+															<a href="/math/games" class="subcategory-item-link category-menu-link category-menu-page-math-games" data-google-analytics="Main navigation.Link in hover menu clicked.Math - Games" data-cy="category-menu-subcategory-item-link">
+															Games
+															</a>
+														</li>
+													</ul>
+												</li>
+												<li class="menu-list-item" data-cy="category-menu-item">
+													<div class="subcategory-header">
+														<a href="/ela" class="subcategory-header-link category-menu-link category-menu-subcat-ela" data-google-analytics="Main navigation.Header in hover menu clicked.Learning - Language arts" data-cy="category-menu-subcategory-header-link">
+															<svg aria-hidden="true" class="subcategory-icon" width="20" height="19" viewBox="0 0 20 19" xmlns="http://www.w3.org/2000/svg">
+																<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M16.2289 5.28529V4.39341H13.4371C13.1135 4.39341 12.8491 4.70882 12.8491 5.09753V12.3932C12.8491 12.7819 13.1135 13.0973 13.4371 13.0973C13.7624 13.0973 14.0251 13.4119 14.0251 13.8006V15.3348C14.0251 15.7235 14.2887 16.0381 14.6131 16.0381H17.8446C18.1691 16.0381 18.4326 15.7235 18.4326 15.3348V5.98859C18.4326 5.59988 18.1691 5.28529 17.8446 5.28529H16.2289Z"></path>
+																<path fill-rule="evenodd" clip-rule="evenodd" d="M4.71714 3.86314V11.4263C4.71714 11.5915 4.84709 11.7274 5.01209 11.7349C7.97259 11.8679 9.54651 13.0898 9.87322 14.8762C9.7533 14.7791 9.63279 14.6978 9.50043 14.6247C8.92506 14.3063 8.22317 14.2405 7.43783 14.3671C7.14683 14.4136 6.91482 14.4673 6.4215 14.594C5.98865 14.7051 5.80181 14.7496 5.56973 14.7924C4.74153 14.9441 3.9076 14.9365 3.12829 14.7643V3.86314H4.71714ZM4.71714 3.23396H2.81371H2.79917C2.63332 3.23396 2.49887 3.37481 2.49887 3.54855L2.49912 3.56143V4.28989H1.86574C1.35518 4.28989 0.940918 4.70415 0.940918 5.21471V16.2311C0.940918 16.7416 1.35515 17.1551 1.86574 17.1551H8.27822C8.35721 17.6708 8.77951 18.0412 9.28739 18.0412H11.058C11.5765 18.0412 12.0058 17.6551 12.0739 17.1551H18.4788C18.99 17.1551 19.4044 16.7418 19.4044 16.2311V5.21471C19.4044 4.70396 18.99 4.28989 18.4788 4.28989H18.0901V3.44075C18.0901 3.42757 18.0893 3.41458 18.0877 3.40182C18.0887 3.37174 18.0853 3.34101 18.0771 3.31044C18.0322 3.1426 17.8597 3.04294 17.6919 3.08785C16.8466 3.31403 15.9281 3.33984 15.017 3.17212C14.7835 3.12943 14.596 3.08484 14.1727 2.97633C13.6694 2.84733 13.4396 2.79412 13.1485 2.74758C12.3636 2.62104 11.6617 2.68692 11.0862 3.00531C10.8202 3.15233 10.602 3.33224 10.3404 3.60742C9.41583 1.91125 7.16852 0.137718 5.02596 0.137718C4.8554 0.137718 4.71714 0.275983 4.71714 0.446542V3.23396ZM10.5554 4.30681V15.0136C10.7301 14.8519 10.8959 14.7299 11.0862 14.6247C11.6617 14.3063 12.3636 14.2405 13.1485 14.367C13.4399 14.4136 13.6719 14.4673 14.1769 14.597C14.5981 14.7051 14.7849 14.7496 15.0167 14.7923C15.8935 14.9529 16.7148 14.963 17.4609 14.8032V3.78711C16.6363 3.95045 15.7653 3.94961 14.9034 3.79097C14.6511 3.74482 14.454 3.69796 14.0089 3.58387C13.5318 3.46158 13.3148 3.41134 13.0488 3.3688C12.3903 3.26264 11.8248 3.31572 11.3907 3.5559C11.1246 3.70295 10.9018 3.91087 10.5595 4.30216L10.5554 4.30681ZM17.8342 15.3608C16.9354 15.5975 15.9495 15.6028 14.903 15.4111C14.6519 15.3649 14.4557 15.3181 14.0088 15.2034C13.5341 15.0815 13.3151 15.0308 13.0488 14.9882C12.3903 14.8821 11.8248 14.9351 11.3907 15.1753C11.1246 15.3224 10.9018 15.5303 10.5595 15.9216C10.4904 16.0006 10.3905 16.0367 10.2934 16.0277C10.1963 16.0367 10.0963 16.0006 10.0272 15.9216C9.68498 15.5303 9.4621 15.3224 9.19595 15.1753C8.76193 14.9351 8.19648 14.8821 7.53756 14.9883C7.27163 15.0308 7.05261 15.0815 6.56633 15.2064C6.13105 15.3181 5.9348 15.3649 5.6834 15.4112C4.68526 15.594 3.67582 15.5661 2.74062 15.3173C2.60212 15.2844 2.49912 15.1598 2.49912 15.0113V4.91907H1.86574C1.70266 4.91907 1.57009 5.05163 1.57009 5.21471V16.2311C1.57009 16.3939 1.70237 16.5259 1.86574 16.5259H8.60056C8.79117 16.5259 8.93799 16.6941 8.91228 16.8829L8.89127 17.0159C8.89127 17.2341 9.06913 17.412 9.28739 17.412H11.058C11.2762 17.412 11.4541 17.2341 11.4568 16.9749L11.4798 16.7995C11.5004 16.6429 11.6338 16.5259 11.7917 16.5259H18.4788C18.6429 16.5259 18.7753 16.3939 18.7753 16.2311V5.21471C18.7753 5.05157 18.6426 4.91907 18.4788 4.91907L18.0901 4.8984V15.0517C18.0901 15.2054 17.9799 15.3333 17.8342 15.3608ZM9.93772 13.3573V4.18445C9.26793 2.68236 7.25085 0.943558 5.33478 0.769578V11.1349C7.61639 11.2968 9.15179 12.1186 9.93772 13.3573ZM12.7824 6.25416C12.4232 6.16227 12.0258 6.22362 11.7131 6.41929C11.5904 6.49599 11.4288 6.45877 11.3521 6.33615C11.2754 6.21353 11.3127 6.05195 11.4353 5.97525C11.8697 5.70349 12.4144 5.61939 12.9134 5.74703C13.1019 5.79615 13.2427 5.85495 13.5423 5.9972C13.6634 6.05467 13.7174 6.07975 13.7835 6.10826C14.4338 6.38827 15.1734 6.46189 15.8676 6.31571C16.0091 6.28591 16.148 6.37648 16.1778 6.51801C16.2076 6.65954 16.1171 6.79843 15.9755 6.82824C15.1757 6.99667 14.3259 6.91209 13.5762 6.58924C13.5022 6.55735 13.4444 6.5305 13.3116 6.46747C13.0475 6.34211 12.9274 6.29195 12.7824 6.25416ZM11.7372 9.28921C12.0501 9.09349 12.4472 9.03233 12.8052 9.12475C12.953 9.16276 13.0727 9.21264 13.3413 9.34007C13.4698 9.40102 13.527 9.42752 13.6003 9.45916C14.3501 9.782 15.1998 9.86661 15.9989 9.69814C16.1404 9.66831 16.231 9.52939 16.2011 9.38787C16.1713 9.24635 16.0324 9.15581 15.8909 9.18564C15.1975 9.33181 14.4579 9.25817 13.8076 8.97818C13.7421 8.94989 13.6887 8.92514 13.5681 8.86797C13.267 8.72512 13.1266 8.66659 12.9358 8.61755C12.4391 8.48929 11.8942 8.57321 11.4594 8.84516C11.3368 8.92187 11.2996 9.08345 11.3763 9.20607C11.453 9.32869 11.6146 9.36591 11.7372 9.28921ZM12.782 12.1366C12.4232 12.0441 12.026 12.1053 11.7131 12.301C11.5904 12.3777 11.4288 12.3405 11.3521 12.2179C11.2754 12.0953 11.3127 11.9337 11.4353 11.857C11.8701 11.585 12.4149 11.5011 12.9127 11.6294C13.1016 11.6781 13.2434 11.7372 13.5362 11.876L13.5441 11.8798C13.6641 11.9367 13.7179 11.9617 13.7835 11.99C14.4338 12.27 15.1734 12.3436 15.8676 12.1974C16.0091 12.1676 16.148 12.2582 16.1778 12.3997C16.2076 12.5413 16.1171 12.6802 15.9755 12.71C15.1757 12.8784 14.3259 12.7938 13.5762 12.471C13.5028 12.4393 13.4452 12.4126 13.3195 12.353L13.3116 12.3492C13.0487 12.2245 12.928 12.1742 12.782 12.1366Z"></path>
+															</svg>
+															<span class="subcategory-header-label"><span data-cy="category-menu-subcategory-header-link-label">Language arts</span></span>
+														</a>
+													</div>
+													<ul class="subcategory-list horizontal">
+														<li class="subcategory-item">
+															<a href="/ela" class="subcategory-item-link category-menu-link category-menu-page-ela-skills" data-google-analytics="Main navigation.Link in hover menu clicked.Language arts - Skills" data-cy="category-menu-subcategory-item-link">
+															Skills
+															</a>
+														</li>
+														<img src="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/assets/ellipse.svg" alt="" class="ellipse">
+														<li class="subcategory-item">
+															<a href="/ela/videos" class="subcategory-item-link category-menu-link category-menu-page-ela-videos" data-google-analytics="Main navigation.Link in hover menu clicked.Language arts - Videos" data-cy="category-menu-subcategory-item-link">
+															Videos
+															</a>
+														</li>
+														<img src="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/assets/ellipse.svg" alt="" class="ellipse">
+														<li class="subcategory-item">
+															<a href="/ela/games" class="subcategory-item-link category-menu-link category-menu-page-ela-games" data-google-analytics="Main navigation.Link in hover menu clicked.Language arts - Games" data-cy="category-menu-subcategory-item-link">
+															Games
+															</a>
+														</li>
+													</ul>
+												</li>
+											</div>
+											<div class="grid-item x-1 y-0" data-cy="category-menu-column">
+												<li class="menu-list-item" data-cy="category-menu-item">
+													<div class="subcategory-header">
+														<a href="/recommendations" class="subcategory-header-link category-menu-link category-menu-subcat-recommendations" data-google-analytics="Main navigation.Header in hover menu clicked.Learning - Recommendations" data-cy="category-menu-subcategory-header-link">
+															<svg aria-hidden="true" class="subcategory-icon" width="21" height="18" viewBox="0 0 21 18" xmlns="http://www.w3.org/2000/svg">
+																<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M12.6455 14.6454H2.91876C2.86688 14.6454 2.81829 14.6207 2.7837 14.577L0.672171 12.9399C0.61123 12.8625 0.61123 12.7455 0.672171 12.6689L2.7837 11.0309C2.81829 10.9881 2.86688 10.9626 2.91876 10.9626H12.6117"></path>
+																<path fill-rule="evenodd" clip-rule="evenodd" d="M11.6698 1.63701C11.6698 2.4034 11.1431 3.04649 10.4321 3.22446V4.09113H17.768C17.8612 4.09113 17.9505 4.12873 18.0156 4.19541L20.1642 6.39671C20.2968 6.53257 20.2951 6.74994 20.1604 6.88372L18.0118 9.01749C17.947 9.08184 17.8594 9.11795 17.768 9.11795H10.4321V9.72786H12.6292C12.8202 9.72786 12.9751 9.88271 12.9751 10.0737V14.4648C12.9751 14.6558 12.8202 14.8107 12.6292 14.8107H10.4316L10.4241 17.294H15.2373C15.4284 17.294 15.5832 17.4489 15.5832 17.6399C15.5832 17.8309 15.4284 17.9858 15.2373 17.9858H5.32699C5.13596 17.9858 4.9811 17.8309 4.9811 17.6399C4.9811 17.4489 5.13596 17.294 5.32699 17.294H9.73235L9.73986 14.8107H2.65875C2.56738 14.8107 2.47972 14.7745 2.41491 14.7101L0.220208 12.5286C0.0847606 12.3939 0.0840626 12.175 0.218649 12.0395L2.41335 9.82999C2.47829 9.76462 2.56662 9.72786 2.65875 9.72786H9.74036V9.11795H6.93287C6.74184 9.11795 6.58699 8.96309 6.58699 8.77207V4.43701C6.58699 4.24598 6.74184 4.09113 6.93287 4.09113H9.74036V3.24727C8.97559 3.10937 8.39628 2.44137 8.39628 1.63701C8.39628 0.732556 9.12868 -0.000167847 10.0335 -0.000167847C10.937 -0.000167847 11.6698 0.732968 11.6698 1.63701ZM10.0335 0.691597C10.5549 0.691597 10.978 1.11495 10.978 1.63701C10.978 2.15884 10.5551 2.5816 10.0335 2.5816C9.51058 2.5816 9.08805 2.15925 9.08805 1.63701C9.08805 1.11454 9.5108 0.691597 10.0335 0.691597ZM19.4296 6.63451L17.6255 8.42618H15.5736L17.6213 6.56634L15.5839 4.78289H17.6223L19.4296 6.63451ZM14.8398 8.15813C14.7615 8.22927 14.7233 8.32812 14.7267 8.42618H7.27875V4.78289H14.7276C14.7239 4.88332 14.7639 4.98448 14.8454 5.05583L16.5819 6.57587L14.8398 8.15813ZM12.2833 10.4196V14.1189H5.6147C5.61232 14.0278 5.57419 13.9379 5.50141 13.8718L3.72964 12.2635L5.49318 10.7522C5.59212 10.6674 5.6314 10.5388 5.60691 10.4196H12.2833ZM4.81815 10.4196L2.68398 12.2485L4.74443 14.1189H2.80141L0.953109 12.2817L2.8027 10.4196H4.81815ZM2.24699 17.294H3.05322C3.24425 17.294 3.39911 17.4489 3.39911 17.6399C3.39911 17.8309 3.24425 17.9858 3.05322 17.9858H2.24699C2.05596 17.9858 1.9011 17.8309 1.9011 17.6399C1.9011 17.4489 2.05596 17.294 2.24699 17.294Z"></path>
+															</svg>
+															<span class="subcategory-header-label"><span data-cy="category-menu-subcategory-header-link-label">Recommendations</span></span>
+														</a>
+													</div>
+													<ul class="subcategory-list">
+														<li class="subcategory-item">
+															<a href="/recommendations" class="subcategory-item-link category-menu-link category-menu-page-recommendations-wall" data-google-analytics="Main navigation.Link in hover menu clicked.Recommendations - Recommendations wall" data-cy="category-menu-subcategory-item-link">
+															Recommendations wall
+															</a>
+														</li>
+													</ul>
+												</li>
+											</div>
+											<div class="grid-item x-2 y-0" data-cy="category-menu-column">
+												<li class="menu-list-item" data-cy="category-menu-item">
+													<div class="subcategory-header">
+														<a href="/skill-plans" class="subcategory-header-link category-menu-link category-menu-subcat-skill-plans" data-google-analytics="Main navigation.Header in hover menu clicked.Learning - Skill plans" data-cy="category-menu-subcategory-header-link">
+															<svg aria-hidden="true" class="subcategory-icon" width="18" height="19" viewBox="0 0 18 19" xmlns="http://www.w3.org/2000/svg">
+																<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M13.5014 16.7859H13.3934C12.4237 16.7827 11.6384 15.9974 11.6353 15.0277V6.948C11.6384 5.97845 12.4238 5.19337 13.3934 5.19059H13.5014C14.4708 5.19338 15.256 5.97857 15.2588 6.948V15.0277C15.256 15.9973 14.4709 16.7827 13.5014 16.7859Z"></path>
+																<path fill-rule="evenodd" clip-rule="evenodd" d="M4.59536 0.709472C4.77777 0.923166 4.89676 1.1734 4.95565 1.44146C5.90259 1.10649 6.90209 1.18961 7.63612 1.73969L7.76049 1.8396H7.77047L7.89109 1.95998C8.3786 2.44653 8.61189 3.09487 8.61013 3.78095H16.7572C17.158 3.78095 17.4826 4.1228 17.4834 4.54486V17.4707C17.4834 17.8927 17.1587 18.2353 16.7579 18.2353H5.16336C4.7626 18.2353 4.43793 17.8927 4.43793 17.4707V7.47459C3.91481 7.39627 3.43168 7.17081 3.04906 6.78895C2.41322 6.15583 2.20948 5.24686 2.39515 4.33753C1.96891 4.31453 1.56822 4.15476 1.25954 3.84655C0.494348 3.08346 0.642149 1.75745 1.52579 0.876234C2.37352 0.0324977 3.62964 -0.138522 4.40596 0.520591L4.50443 0.611283L4.59536 0.709472ZM4.23774 3.58131C4.1205 3.69823 3.9954 3.80224 3.86481 3.89292L4.16732 4.1944C4.37616 4.40146 4.71348 4.40146 4.92233 4.1944L5.03948 4.07683C5.24712 3.86856 5.24712 3.53289 5.04023 3.32537L4.69396 2.97982C4.57512 3.19366 4.4225 3.39724 4.23774 3.58131ZM3.63127 6.20812C3.18987 5.76861 3.05713 5.09817 3.22129 4.41265L3.58594 4.77606C4.08553 5.27139 4.8733 5.30053 5.40616 4.86409L5.50468 4.77508L5.62354 4.65583C6.15049 4.12726 6.15049 3.27419 5.6235 2.74559L5.12952 2.25263C5.94102 1.9309 6.78678 2.02047 7.30782 2.54049L7.33619 2.5688L7.41981 2.66435C8.05412 3.453 7.85793 4.81105 6.88253 5.78377C5.85464 6.80884 4.39504 6.97038 3.63127 6.20812ZM5.1235 17.4707V7.4953C5.82095 7.43741 6.54158 7.14608 7.15942 6.64062L8.16091 7.63937L8.74324 7.05864L7.74177 6.05992C8.1342 5.58303 8.39799 5.04494 8.52419 4.50367H16.7572C16.7789 4.50367 16.7963 4.52246 16.7963 4.54486V17.4707C16.7963 17.4945 16.7789 17.5126 16.7572 17.5126H5.16263C5.14162 17.5126 5.1235 17.4945 5.1235 17.4707ZM6.32076 11.5613C6.48149 11.4009 6.74221 11.4008 6.90308 11.561L7.45765 12.1136L8.85736 10.7178C9.01816 10.5574 9.27888 10.5574 9.43968 10.7178C9.60048 10.8781 9.60048 11.1381 9.43968 11.2985L7.4579 13.2748L6.32101 12.142C6.16014 11.9817 6.16002 11.7217 6.32076 11.5613ZM6.61205 9.56269H8.06146V8.83997H6.61205V9.56269ZM15.3085 9.56269H10.2356V8.83997H15.3085V9.56269ZM10.2356 12.4536H15.3085V11.7308H10.2356V12.4536ZM15.3085 15.3444H10.2356V14.6217H15.3085V15.3444ZM6.61205 15.3444H8.06146V14.6217H6.61205V15.3444ZM3.84534 1.12462L3.92229 1.19219C4.33355 1.60181 4.2427 2.41549 3.65556 3.00044C3.06841 3.58598 2.25318 3.67652 1.84204 3.266C1.43045 2.85554 1.52108 2.04238 2.10783 1.45725C2.66102 0.906659 3.41587 0.793918 3.84534 1.12462Z"></path>
+															</svg>
+															<span class="subcategory-header-label"><span data-cy="category-menu-subcategory-header-link-label">Skill plans</span></span>
+														</a>
+													</div>
+													<ul class="subcategory-list">
+														<li class="subcategory-item">
+															<a href="/skill-plans#spotlight-skill-plans" class="subcategory-item-link category-menu-link category-menu-page-ixl-plans" data-google-analytics="Main navigation.Link in hover menu clicked.Skill plans - IXL plans" data-cy="category-menu-subcategory-item-link">
+															IXL plans
+															</a>
+														</li>
+														<li class="subcategory-item">
+															<a href="/skill-plans#standards-skill-plans" class="subcategory-item-link category-menu-link category-menu-page-region-standards" data-google-analytics="Main navigation.Link in hover menu clicked.Skill plans - ${stateText}" data-cy="category-menu-subcategory-item-link">
+															${stateText}
+															</a>
+														</li>
+														<li class="subcategory-item">
+															<a href="/skill-plans#textbook-skill-plans" class="subcategory-item-link category-menu-link category-menu-page-textbooks" data-google-analytics="Main navigation.Link in hover menu clicked.Skill plans - Textbooks" data-cy="category-menu-subcategory-item-link">
+															Textbooks
+															</a>
+														</li>
+														<li class="subcategory-item">
+															<a href="/skill-plans#test-preparation-skill-plans" class="subcategory-item-link category-menu-link category-menu-page-test-prep" data-google-analytics="Main navigation.Link in hover menu clicked.Skill plans - Test prep" data-cy="category-menu-subcategory-item-link">
+															Test prep
+															</a>
+														</li>
+													</ul>
+												</li>
+											</div>
+											<div class="grid-item x-3 y-0" data-cy="category-menu-column">
+												<li class="menu-list-item" data-cy="category-menu-item">
+													<div class="subcategory-header">
+														<a href="/awards" class="subcategory-header-link category-menu-link category-menu-subcat-awards-educator-and-student" data-google-analytics="Main navigation.Header in hover menu clicked.Learning - Awards" data-cy="category-menu-subcategory-header-link">
+															<svg aria-hidden="true" class="subcategory-icon" width="20" height="18" viewBox="0 0 20 18" xmlns="http://www.w3.org/2000/svg">
+																<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M6.57888 7.34208C7.41312 6.73926 8.87818 7.75549 9.47029 8.38385C10.0624 9.0122 10.3729 9.9922 9.97677 10.7597C9.75441 11.1913 5.127 15.1401 4.11653 15.7849C3.49888 16.1777 2.73959 15.5584 3.01135 14.8782C4.049 12.2898 6.2643 7.6262 6.57888 7.34208Z"></path>
+																<path fill-rule="evenodd" clip-rule="evenodd" d="M10.5871 2.93802C11.3985 2.93802 12.0563 2.28052 12.0563 1.46884C12.0563 0.657735 11.3982 -0.000335693 10.5871 -0.000335693C9.77591 -0.000335693 9.1171 0.657818 9.1171 1.46884C9.1171 2.28044 9.77566 2.93802 10.5871 2.93802ZM1.03713 16.4368C1.06633 16.3611 1.12582 16.2078 1.2094 15.9933C1.34865 15.636 1.50453 15.2379 1.6733 14.8091C2.15555 13.584 2.64456 12.3589 3.11052 11.2152C3.17147 11.0656 3.23171 10.9182 3.29118 10.773C4.46756 7.903 5.21975 6.22398 5.52639 5.91693L5.79503 5.6483C6.07994 5.36379 6.54122 5.32839 7.1106 5.4947C7.78068 3.66441 7.68913 2.01936 6.63524 1.72231C5.76286 1.47625 5.15419 1.87247 5.15419 2.54503C5.15419 3.06917 5.81889 3.36459 6.11126 3.07222L6.57712 3.53808C5.86207 4.25313 4.49537 3.64571 4.49537 2.54503C4.49537 1.41094 5.5422 0.729486 6.81403 1.08821C8.39431 1.53363 8.533 3.56531 7.72766 5.73312C8.65142 6.16696 9.75463 6.99332 10.8272 8.06635C12.8905 10.1296 14.0412 12.3025 13.2451 13.0987L13.245 13.0988L13.2451 13.0988L13.2379 13.106C13.2004 13.1438 13.1224 13.222 12.9766 13.3671C12.6697 13.674 10.9912 14.4263 8.12186 15.6026C7.97645 15.6622 7.82872 15.7226 7.67879 15.7837C6.53516 16.2497 5.31012 16.7388 4.08512 17.221C3.6564 17.3898 3.2583 17.5457 2.90099 17.685C2.68654 17.7685 2.5333 17.828 2.45662 17.8576C2.02664 18.0324 1.53019 17.9657 1.22922 17.666C0.927929 17.3647 0.86084 16.8667 1.03713 16.4368ZM6.2608 6.11424C6.36524 6.01006 6.5782 6.00587 6.86839 6.08983C6.78618 6.27341 6.69673 6.45758 6.60023 6.64122L7.18345 6.94767C7.28957 6.74571 7.38829 6.5426 7.47924 6.33949C8.27611 6.7395 9.33857 7.509 10.3613 8.53216C12.1564 10.3273 13.1703 12.2417 12.7792 12.6328L12.7749 12.6372C12.3746 13.0161 10.4663 12.0027 8.67861 10.2151C6.88398 8.42048 5.87014 6.50562 6.26089 6.11433L6.2608 6.11424ZM5.6483 6.98851C5.95466 8.00776 6.89862 9.36683 8.21275 10.681C9.52661 11.9948 10.886 12.9389 11.9053 13.2453C11.1404 13.6202 9.71698 14.2366 7.87195 14.993C7.72698 15.0525 7.57968 15.1127 7.43018 15.1736C6.28924 15.6385 5.06653 16.1266 3.84378 16.608C3.41579 16.7765 3.01838 16.9321 2.66175 17.0711C2.44784 17.1545 2.29512 17.2138 2.21378 17.2452C2.00961 17.3281 1.79465 17.2993 1.6946 17.1996C1.59449 17.0995 1.56554 16.8846 1.64915 16.6806C1.68061 16.5992 1.73989 16.4465 1.82325 16.2326C1.96224 15.8759 2.11785 15.4785 2.28634 15.0504C2.7677 13.8276 3.25578 12.6048 3.72065 11.4638C3.78143 11.3146 3.84149 11.1676 3.90079 11.0229C4.65724 9.17737 5.27369 7.75357 5.6483 6.98851ZM11.3975 1.46884C11.3975 1.02159 11.0343 0.658488 10.5871 0.658488C10.1396 0.658488 9.77592 1.02182 9.77592 1.46884C9.77592 1.91636 10.1393 2.27919 10.5871 2.27919C11.0347 2.27919 11.3975 1.91659 11.3975 1.46884ZM13.4251 10.3108C13.3261 10.381 13.2578 10.4344 13.2246 10.4625L12.7995 9.95908C12.8462 9.91967 12.929 9.85505 13.0436 9.7736C13.2322 9.63968 13.4443 9.50609 13.6759 9.38129C14.614 8.8759 15.5823 8.65648 16.508 8.89961C16.7759 8.96998 17.034 9.07896 17.2802 9.22847C18.9627 10.2512 18.6499 12.2413 17.1289 12.4789C16.0372 12.6501 15.0845 11.7198 15.2695 10.953L15.9099 11.1074C15.8395 11.3996 16.3818 11.9292 17.027 11.828C17.9239 11.6879 18.11 10.5039 16.9382 9.79154C16.7467 9.67529 16.5475 9.59114 16.3406 9.53682C15.6051 9.34365 14.7934 9.5276 13.9884 9.96129C13.782 10.0725 13.5926 10.1918 13.4251 10.3108ZM18.5426 1.92688L18.0309 3.68483L19.1993 5.1406L17.2455 5.27194L16.2634 6.6951L15.5099 5.06418L13.8155 4.39192L15.245 3.32628L15.307 1.37232L16.8011 2.49425L18.5426 1.92688ZM15.9253 2.66049L16.6794 3.22679L17.5617 2.93934L17.3026 3.82986L17.8949 4.56797L16.8839 4.63593L16.3771 5.37041L15.9975 4.54887L15.1554 4.21478L15.8934 3.66465L15.9253 2.66049ZM10.4811 6.31148C12.3199 5.67746 13.2961 3.67135 12.6605 1.83301L13.2831 1.61773C14.0377 3.80013 12.8789 6.18161 10.6959 6.93432L10.4811 6.31148Z"></path>
+															</svg>
+															<span class="subcategory-header-label"><span data-cy="category-menu-subcategory-header-link-label">Awards</span></span>
+														</a>
+													</div>
+													<ul class="subcategory-list">
+														<li class="subcategory-item">
+															<a href="/awards/math" class="subcategory-item-link category-menu-link category-menu-page-math-awards" data-google-analytics="Main navigation.Link in hover menu clicked.Awards - Math awards" data-cy="category-menu-subcategory-item-link">
+															Math awards
+															</a>
+														</li>
+														<li class="subcategory-item">
+															<a href="/awards/ela" class="subcategory-item-link category-menu-link category-menu-page-ela-awards" data-google-analytics="Main navigation.Link in hover menu clicked.Awards - Language arts awards" data-cy="category-menu-subcategory-item-link">
+															Language arts awards
+															</a>
+														</li>
+														<li class="subcategory-item">
+															<a href="/awards/certificates" class="subcategory-item-link category-menu-link category-menu-page-certificates-center" data-google-analytics="Main navigation.Link in hover menu clicked.Awards - Certificates center" data-cy="category-menu-subcategory-item-link">
+															Certificates center
+															</a>
+														</li>
+													</ul>
+												</li>
+											</div>
+										</ul>
+									</nav>
+								</li>
+								<li class="ixl-nav-category-entry
+									no-category-menu" data-cy="assessment-category-entry">
+									<a data-cy="site-nav-category" class="site-nav-category
+										" href="/diagnostic/student-stats" data-google-analytics="Main navigation.Category clicked.Assessment">Assessment</a>
+								</li>
+								<li class="ixl-nav-category-entry
+									no-category-menu" data-cy="analytics-category-entry">
+									<a data-cy="site-nav-category" class="site-nav-category
+										" href="/analytics" data-google-analytics="Main navigation.Category clicked.Analytics">Analytics</a>
+								</li>
+							</ul>
+							<ul class="box-site-nav-categories-left hamburger category-list">
+								<li class="ixl-nav-category-entry" data-cy="hamburger-category-item">
+									<a class="category-hamburger link" href="/dashboard" data-google-analytics="Hamburger menu.Category link clicked.My IXL"><span class="link-text">My IXL</span></a>
+								</li>
+								<li class="ixl-nav-category-entry" data-cy="hamburger-category-item">
+									<button class="hamburger-button category-hamburger" aria-expanded="false" aria-controls="cat_learning-nav">
+										<span class="button-text">Learning</span>
+										<svg aria-hidden="true" class="right" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+											<path fill-rule="evenodd" clip-rule="evenodd" d="M0 1.29936L1.39726 0L10 8L1.39726 16L0 14.7006L7.2047 7.99908L0 1.29936Z"></path>
+										</svg>
+									</button>
+									<nav id="cat_learning-nav" class="category-nav hamburger-nav">
+										<button class="back-button category-hamburger" aria-expanded="true" aria-controls="cat_learning-nav" data-cy="hamburger-category-back-button">
+											<svg aria-hidden="true" class="left" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+												<path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.29936L8.60274 0L0 8L8.60274 16L10 14.7006L2.7953 7.99908L10 1.29936Z"></path>
+											</svg>
+											<span class="back-button-text">All</span>
+										</button>
+										<h2 class="category-hamburger-title">Learning</h2>
+										<ul class="subcategory-list hamburger-nav-list">
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_math" class="subcategory-hamburger link hamburger-subcat-math" href="/math" data-google-analytics="Hamburger menu.Subcategory link clicked.Learning - Math"><span class="link-text">Math</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_ela" class="subcategory-hamburger link hamburger-subcat-ela" href="/ela" data-google-analytics="Hamburger menu.Subcategory link clicked.Learning - Language arts"><span class="link-text">Language arts</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_recommendations" class="subcategory-hamburger link hamburger-subcat-recommendations" href="/recommendations" data-google-analytics="Hamburger menu.Subcategory link clicked.Learning - Recommendations"><span class="link-text">Recommendations</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<button class="hamburger-button subcategory-hamburger" aria-expanded="false" aria-controls="subcat_skill_plans-nav">
+													<span class="button-text">Skill plans</span>
+													<svg aria-hidden="true" class="right" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+														<path fill-rule="evenodd" clip-rule="evenodd" d="M0 1.29936L1.39726 0L10 8L1.39726 16L0 14.7006L7.2047 7.99908L0 1.29936Z"></path>
+													</svg>
+												</button>
+												<nav id="subcat_skill_plans-nav" class="hamburger-nav">
+													<button class="back-button subcategory-hamburger" aria-expanded="true" aria-controls="subcat_skill_plans-nav" data-cy="hamburger-subcategory-back-button">
+														<svg aria-hidden="true" class="left" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+															<path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.29936L8.60274 0L0 8L8.60274 16L10 14.7006L2.7953 7.99908L10 1.29936Z"></path>
+														</svg>
+														<span class="back-button-text">Learning</span>
+													</button>
+													<h2 class="category-hamburger-title">Skill plans</h2>
+													<ul class="pages-list hamburger-nav-list">
+														<li data-cy="hamburger-page-item">
+															<a class="link page-hamburger" href="/skill-plans#spotlight-skill-plans" data-google-analytics="Hamburger menu.Page link clicked.Skill plans - IXL plans"><span class="link-text">IXL plans</span></a>
+														</li>
+														<li data-cy="hamburger-page-item">
+															<a class="link page-hamburger" href="/skill-plans#standards-skill-plans" data-google-analytics="Hamburger menu.Page link clicked.Skill plans - ${stateText}"><span class="link-text">${stateText}</span></a>
+														</li>
+														<li data-cy="hamburger-page-item">
+															<a class="link page-hamburger" href="/skill-plans#textbook-skill-plans" data-google-analytics="Hamburger menu.Page link clicked.Skill plans - Textbooks"><span class="link-text">Textbooks</span></a>
+														</li>
+														<li data-cy="hamburger-page-item">
+															<a class="link page-hamburger" href="/skill-plans#test-preparation-skill-plans" data-google-analytics="Hamburger menu.Page link clicked.Skill plans - Test prep"><span class="link-text">Test prep</span></a>
+														</li>
+													</ul>
+												</nav>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<button class="hamburger-button subcategory-hamburger" aria-expanded="false" aria-controls="subcat_awards_educator_and_student-nav">
+													<span class="button-text">Awards</span>
+													<svg aria-hidden="true" class="right" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+														<path fill-rule="evenodd" clip-rule="evenodd" d="M0 1.29936L1.39726 0L10 8L1.39726 16L0 14.7006L7.2047 7.99908L0 1.29936Z"></path>
+													</svg>
+												</button>
+												<nav id="subcat_awards_educator_and_student-nav" class="hamburger-nav">
+													<button class="back-button subcategory-hamburger" aria-expanded="true" aria-controls="subcat_awards_educator_and_student-nav" data-cy="hamburger-subcategory-back-button">
+														<svg aria-hidden="true" class="left" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+															<path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.29936L8.60274 0L0 8L8.60274 16L10 14.7006L2.7953 7.99908L10 1.29936Z"></path>
+														</svg>
+														<span class="back-button-text">Learning</span>
+													</button>
+													<h2 class="category-hamburger-title">Awards</h2>
+													<ul class="pages-list hamburger-nav-list">
+														<li data-cy="hamburger-page-item">
+															<a class="link page-hamburger" href="/awards/math" data-google-analytics="Hamburger menu.Page link clicked.Awards - Math awards"><span class="link-text">Math awards</span></a>
+														</li>
+														<li data-cy="hamburger-page-item">
+															<a class="link page-hamburger" href="/awards/ela" data-google-analytics="Hamburger menu.Page link clicked.Awards - Language arts awards"><span class="link-text">Language arts awards</span></a>
+														</li>
+														<li data-cy="hamburger-page-item">
+															<a class="link page-hamburger" href="/awards/certificates" data-google-analytics="Hamburger menu.Page link clicked.Awards - Certificates center"><span class="link-text">Certificates center</span></a>
+														</li>
+													</ul>
+												</nav>
+											</li>
+										</ul>
+									</nav>
+								</li>
+								<li class="ixl-nav-category-entry" data-cy="hamburger-category-item">
+									<a class="category-hamburger link" href="/diagnostic/student-stats" data-google-analytics="Hamburger menu.Category link clicked.Assessment"><span class="link-text">Assessment</span></a>
+								</li>
+								<li class="ixl-nav-category-entry" data-cy="hamburger-category-item">
+									<button class="hamburger-button category-hamburger" aria-expanded="false" aria-controls="cat_analytics_student-nav">
+										<span class="button-text">Analytics</span>
+										<svg aria-hidden="true" class="right" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+											<path fill-rule="evenodd" clip-rule="evenodd" d="M0 1.29936L1.39726 0L10 8L1.39726 16L0 14.7006L7.2047 7.99908L0 1.29936Z"></path>
+										</svg>
+									</button>
+									<nav id="cat_analytics_student-nav" class="category-nav hamburger-nav">
+										<button class="back-button category-hamburger" aria-expanded="true" aria-controls="cat_analytics_student-nav" data-cy="hamburger-category-back-button">
+											<svg aria-hidden="true" class="left" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+												<path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.29936L8.60274 0L0 8L8.60274 16L10 14.7006L2.7953 7.99908L10 1.29936Z"></path>
+											</svg>
+											<span class="back-button-text">All</span>
+										</button>
+										<h2 class="category-hamburger-title">Analytics</h2>
+										<ul class="subcategory-list hamburger-nav-list">
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_usage_anl" class="subcategory-hamburger link hamburger-subcat-usage-anl" href="/analytics/student-usage" data-google-analytics="Hamburger menu.Subcategory link clicked.Analytics - Usage"><span class="link-text">Usage</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_trouble_spots_anl" class="subcategory-hamburger link hamburger-subcat-trouble-spots-anl" href="/analytics/trouble-spots" data-google-analytics="Hamburger menu.Subcategory link clicked.Analytics - Trouble Spots"><span class="link-text">Trouble Spots</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_scores_anl" class="subcategory-hamburger link hamburger-subcat-scores-anl" href="/analytics/score-grid" data-google-analytics="Hamburger menu.Subcategory link clicked.Analytics - Scores"><span class="link-text">Scores</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_questions_anl" class="subcategory-hamburger link hamburger-subcat-questions-anl" href="/analytics/questions-log" data-google-analytics="Hamburger menu.Subcategory link clicked.Analytics - Questions"><span class="link-text">Questions</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_progress_improvement_anl" class="subcategory-hamburger link hamburger-subcat-progress-improvement-anl" href="/analytics/progress-and-improvement" data-google-analytics="Hamburger menu.Subcategory link clicked.Analytics - Progress"><span class="link-text">Progress</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_student_summary" class="subcategory-hamburger link hamburger-subcat-student-summary" href="/analytics/student-summary" data-google-analytics="Hamburger menu.Subcategory link clicked.Analytics - Summary"><span class="link-text">Summary</span></a>
+											</li>
+										</ul>
+									</nav>
+								</li>
+							</ul>
+						</nav>
+						<div class="consolidated-rhs-container">
+							<div class="consolidated-search-trigger-container" id="consolidated-search-trigger" data-cy="search-popover-trigger-container">
+								<div class="skill-search-popover-container"></div>
+							</div>
+							<div id="student-live-messages-container-consolidated" class="student-live-messages-container">
+								<div></div>
+							</div>
+							<button aria-haspopup="true" class="user-nav-wrapper icon-and-name-button" href="#" id="user-nav-wrapper" data-cy="user-nav-wrapper">
+								<div class="user-avatar-container js-user-avatar-container custom-user-avatar-container">
+									<img alt="" class="user-avatar js-user-avatar" src="${profilePicUrl}" title="Drag award here" data-draggable="true">
+								</div>
+								<span class="display-name js-display-name" data-cy="${nameElement}">${name}</span>
+							</button>
+							<input type="hidden" name="" value="2" id="userType">
+						</div>
+						<nav class="box-site-nav-links">
+							<div aria-hidden="true" class="user-nav-popover-mask js-user-nav-popover-mask"></div>
+							<div id="user-nav-container" data-cy="user-nav-container" class="user-nav-container icon-and-name-button-container">
+								<button class="js-close-user-nav-button icon-and-name-button">
+									<div class="user-avatar-container js-user-avatar-container custom-user-avatar-container">
+										<img alt="" class="user-avatar js-user-avatar" src="${profilePicUrl}" title="Drag award here" data-draggable="true">
+									</div>
+									<span class="display-name js-display-name">${name}</span>
+								</button>
+								<div class="user-nav-box" id="user-nav">
+									<div class="user-nav-arrow-up"></div>
+									<ul class="user-nav-group mobile-layout-only" data-for-dev="display block in mobile layout; a flag in UserNav.js">
+										<li class="user-nav-item current-user">
+											<span class="user-nav-current-user mobile">
+											Welcome, ${name}!
+											</span>
+										</li>
+									</ul>
+									<ul class="user-nav-group" role="none">
+										<li class="user-nav-item" role="none">
+											<a class="user-nav-item-link" id="profileLink" data-cy="profile-settings-link" href="/profile" name="Profile">Profile &amp; settings</a>
+										</li>
+									</ul>
+									<ul class="user-nav-group user-nav-group-last" role="none">
+										<li class="user-nav-item signout" role="none">
+											<a class="user-nav-item-link" href="/signout" data-cy="sign-out-link">
+											Sign out</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</nav>
+					</div>
+				</div>
+				<nav class="sub-navigation js-sub-navigation" role="navigation" aria-label="Learning Navigation" data-cy="sub-navigation">
+					<ul class="sub-nav-subcategories">
+						<li class="sub-nav-subcategory hover-active" data-cy="subnav-subcategory">
+							<a class="subcategory-link sub-nav-subcat-math
+								" href="/math" data-google-analytics="Subnavigation.Header clicked.Math">
+								<svg aria-hidden="true" class="subcategory-icon" width="21" height="19" viewBox="0 0 21 19" xmlns="http://www.w3.org/2000/svg">
+									<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M9.34502 17.8062C9.94256 17.6134 19.0496 14.5511 19.0496 14.5511C19.0496 14.5511 11.359 10.3532 11.261 10.3829C9.40807 10.9511 1.27571 12.8535 1.08301 12.8535L9.34502 17.8062Z"></path>
+									<path fill-rule="evenodd" clip-rule="evenodd" d="M9.5407 0.326042L9.81481 0.00167847L10.0583 0.348429C10.0597 0.350447 10.0612 0.352482 10.0626 0.354534L20.1478 14.7174L9.47294 18.146C9.46815 18.1476 9.4633 18.1492 9.45841 18.1506L9.3256 18.1933L9.20427 18.1223C9.20063 18.1203 9.19703 18.1182 9.19348 18.116L0.118164 12.808L0.341253 12.5123L0.735778 11.9893L1.77593 10.6107L4.93261 6.4271C7.80505 2.62064 9.34189 0.585122 9.52164 0.350451C9.52762 0.342011 9.53398 0.333866 9.5407 0.326042ZM9.43622 1.55449C8.67112 2.56733 7.23777 4.46612 5.46051 6.82129L2.30186 11.0075L1.26172 12.3861L1.18249 12.4911L9.21415 10.5749L9.43622 1.55449ZM9.19738 11.2562L1.7911 13.0233L9.04936 17.2685L9.19738 11.2562ZM9.70566 17.3793L9.86029 11.098L11.3929 10.7324L18.5818 14.5284L9.70566 17.3793ZM9.87707 10.4167L10.0565 3.12804C10.109 3.14776 10.1672 3.15433 10.2265 3.14441C10.4059 3.11439 10.527 2.94459 10.497 2.76515L10.3552 1.91772L18.7489 13.8716L11.7358 10.1684L11.5517 9.0681C11.5217 8.88867 11.3519 8.76755 11.1724 8.79758C10.993 8.8276 10.8719 8.9974 10.9019 9.17684L11.0621 10.134L9.87707 10.4167ZM11.3408 7.80751L11.1298 6.54692C11.0998 6.36749 10.93 6.24637 10.7506 6.2764C10.5711 6.30642 10.45 6.47622 10.48 6.65566L10.691 7.91625C10.721 8.09568 10.8908 8.2168 11.0702 8.18677C11.2497 8.15675 11.3708 7.98695 11.3408 7.80751ZM10.7079 4.02574L10.9189 5.28633C10.9489 5.46577 10.8278 5.63557 10.6484 5.66559C10.4689 5.69562 10.2991 5.5745 10.2691 5.39507L10.0582 4.13448C10.0281 3.95504 10.1492 3.78524 10.3287 3.75521C10.5081 3.72519 10.6779 3.84631 10.7079 4.02574Z"></path>
+								</svg>
+								<span class="subcategory-name">Math</span>
+							</a>
+						</li>
+						<li class="sub-nav-subcategory active hover-active" data-cy="subnav-subcategory">
+							<a class="subcategory-link sub-nav-subcat-ela
+								" href="/ela" data-google-analytics="Subnavigation.Header clicked.Language arts">
+								<svg aria-hidden="true" class="subcategory-icon" width="20" height="19" viewBox="0 0 20 19" xmlns="http://www.w3.org/2000/svg">
+									<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M16.2289 5.28529V4.39341H13.4371C13.1135 4.39341 12.8491 4.70882 12.8491 5.09753V12.3932C12.8491 12.7819 13.1135 13.0973 13.4371 13.0973C13.7624 13.0973 14.0251 13.4119 14.0251 13.8006V15.3348C14.0251 15.7235 14.2887 16.0381 14.6131 16.0381H17.8446C18.1691 16.0381 18.4326 15.7235 18.4326 15.3348V5.98859C18.4326 5.59988 18.1691 5.28529 17.8446 5.28529H16.2289Z"></path>
+									<path fill-rule="evenodd" clip-rule="evenodd" d="M4.71714 3.86314V11.4263C4.71714 11.5915 4.84709 11.7274 5.01209 11.7349C7.97259 11.8679 9.54651 13.0898 9.87322 14.8762C9.7533 14.7791 9.63279 14.6978 9.50043 14.6247C8.92506 14.3063 8.22317 14.2405 7.43783 14.3671C7.14683 14.4136 6.91482 14.4673 6.4215 14.594C5.98865 14.7051 5.80181 14.7496 5.56973 14.7924C4.74153 14.9441 3.9076 14.9365 3.12829 14.7643V3.86314H4.71714ZM4.71714 3.23396H2.81371H2.79917C2.63332 3.23396 2.49887 3.37481 2.49887 3.54855L2.49912 3.56143V4.28989H1.86574C1.35518 4.28989 0.940918 4.70415 0.940918 5.21471V16.2311C0.940918 16.7416 1.35515 17.1551 1.86574 17.1551H8.27822C8.35721 17.6708 8.77951 18.0412 9.28739 18.0412H11.058C11.5765 18.0412 12.0058 17.6551 12.0739 17.1551H18.4788C18.99 17.1551 19.4044 16.7418 19.4044 16.2311V5.21471C19.4044 4.70396 18.99 4.28989 18.4788 4.28989H18.0901V3.44075C18.0901 3.42757 18.0893 3.41458 18.0877 3.40182C18.0887 3.37174 18.0853 3.34101 18.0771 3.31044C18.0322 3.1426 17.8597 3.04294 17.6919 3.08785C16.8466 3.31403 15.9281 3.33984 15.017 3.17212C14.7835 3.12943 14.596 3.08484 14.1727 2.97633C13.6694 2.84733 13.4396 2.79412 13.1485 2.74758C12.3636 2.62104 11.6617 2.68692 11.0862 3.00531C10.8202 3.15233 10.602 3.33224 10.3404 3.60742C9.41583 1.91125 7.16852 0.137718 5.02596 0.137718C4.8554 0.137718 4.71714 0.275983 4.71714 0.446542V3.23396ZM10.5554 4.30681V15.0136C10.7301 14.8519 10.8959 14.7299 11.0862 14.6247C11.6617 14.3063 12.3636 14.2405 13.1485 14.367C13.4399 14.4136 13.6719 14.4673 14.1769 14.597C14.5981 14.7051 14.7849 14.7496 15.0167 14.7923C15.8935 14.9529 16.7148 14.963 17.4609 14.8032V3.78711C16.6363 3.95045 15.7653 3.94961 14.9034 3.79097C14.6511 3.74482 14.454 3.69796 14.0089 3.58387C13.5318 3.46158 13.3148 3.41134 13.0488 3.3688C12.3903 3.26264 11.8248 3.31572 11.3907 3.5559C11.1246 3.70295 10.9018 3.91087 10.5595 4.30216L10.5554 4.30681ZM17.8342 15.3608C16.9354 15.5975 15.9495 15.6028 14.903 15.4111C14.6519 15.3649 14.4557 15.3181 14.0088 15.2034C13.5341 15.0815 13.3151 15.0308 13.0488 14.9882C12.3903 14.8821 11.8248 14.9351 11.3907 15.1753C11.1246 15.3224 10.9018 15.5303 10.5595 15.9216C10.4904 16.0006 10.3905 16.0367 10.2934 16.0277C10.1963 16.0367 10.0963 16.0006 10.0272 15.9216C9.68498 15.5303 9.4621 15.3224 9.19595 15.1753C8.76193 14.9351 8.19648 14.8821 7.53756 14.9883C7.27163 15.0308 7.05261 15.0815 6.56633 15.2064C6.13105 15.3181 5.9348 15.3649 5.6834 15.4112C4.68526 15.594 3.67582 15.5661 2.74062 15.3173C2.60212 15.2844 2.49912 15.1598 2.49912 15.0113V4.91907H1.86574C1.70266 4.91907 1.57009 5.05163 1.57009 5.21471V16.2311C1.57009 16.3939 1.70237 16.5259 1.86574 16.5259H8.60056C8.79117 16.5259 8.93799 16.6941 8.91228 16.8829L8.89127 17.0159C8.89127 17.2341 9.06913 17.412 9.28739 17.412H11.058C11.2762 17.412 11.4541 17.2341 11.4568 16.9749L11.4798 16.7995C11.5004 16.6429 11.6338 16.5259 11.7917 16.5259H18.4788C18.6429 16.5259 18.7753 16.3939 18.7753 16.2311V5.21471C18.7753 5.05157 18.6426 4.91907 18.4788 4.91907L18.0901 4.8984V15.0517C18.0901 15.2054 17.9799 15.3333 17.8342 15.3608ZM9.93772 13.3573V4.18445C9.26793 2.68236 7.25085 0.943558 5.33478 0.769578V11.1349C7.61639 11.2968 9.15179 12.1186 9.93772 13.3573ZM12.7824 6.25416C12.4232 6.16227 12.0258 6.22362 11.7131 6.41929C11.5904 6.49599 11.4288 6.45877 11.3521 6.33615C11.2754 6.21353 11.3127 6.05195 11.4353 5.97525C11.8697 5.70349 12.4144 5.61939 12.9134 5.74703C13.1019 5.79615 13.2427 5.85495 13.5423 5.9972C13.6634 6.05467 13.7174 6.07975 13.7835 6.10826C14.4338 6.38827 15.1734 6.46189 15.8676 6.31571C16.0091 6.28591 16.148 6.37648 16.1778 6.51801C16.2076 6.65954 16.1171 6.79843 15.9755 6.82824C15.1757 6.99667 14.3259 6.91209 13.5762 6.58924C13.5022 6.55735 13.4444 6.5305 13.3116 6.46747C13.0475 6.34211 12.9274 6.29195 12.7824 6.25416ZM11.7372 9.28921C12.0501 9.09349 12.4472 9.03233 12.8052 9.12475C12.953 9.16276 13.0727 9.21264 13.3413 9.34007C13.4698 9.40102 13.527 9.42752 13.6003 9.45916C14.3501 9.782 15.1998 9.86661 15.9989 9.69814C16.1404 9.66831 16.231 9.52939 16.2011 9.38787C16.1713 9.24635 16.0324 9.15581 15.8909 9.18564C15.1975 9.33181 14.4579 9.25817 13.8076 8.97818C13.7421 8.94989 13.6887 8.92514 13.5681 8.86797C13.267 8.72512 13.1266 8.66659 12.9358 8.61755C12.4391 8.48929 11.8942 8.57321 11.4594 8.84516C11.3368 8.92187 11.2996 9.08345 11.3763 9.20607C11.453 9.32869 11.6146 9.36591 11.7372 9.28921ZM12.782 12.1366C12.4232 12.0441 12.026 12.1053 11.7131 12.301C11.5904 12.3777 11.4288 12.3405 11.3521 12.2179C11.2754 12.0953 11.3127 11.9337 11.4353 11.857C11.8701 11.585 12.4149 11.5011 12.9127 11.6294C13.1016 11.6781 13.2434 11.7372 13.5362 11.876L13.5441 11.8798C13.6641 11.9367 13.7179 11.9617 13.7835 11.99C14.4338 12.27 15.1734 12.3436 15.8676 12.1974C16.0091 12.1676 16.148 12.2582 16.1778 12.3997C16.2076 12.5413 16.1171 12.6802 15.9755 12.71C15.1757 12.8784 14.3259 12.7938 13.5762 12.471C13.5028 12.4393 13.4452 12.4126 13.3195 12.353L13.3116 12.3492C13.0487 12.2245 12.928 12.1742 12.782 12.1366Z"></path>
+								</svg>
+								<span class="subcategory-name">Language arts</span>
+							</a>
+						</li>
+						<li class="sub-nav-subcategory hover-active" data-cy="subnav-subcategory">
+							<a class="subcategory-link sub-nav-subcat-recommendations
+								has-divider " href="/recommendations" data-google-analytics="Subnavigation.Header clicked.Recommendations">
+								<svg aria-hidden="true" class="subcategory-icon" width="21" height="18" viewBox="0 0 21 18" xmlns="http://www.w3.org/2000/svg">
+									<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M12.6455 14.6454H2.91876C2.86688 14.6454 2.81829 14.6207 2.7837 14.577L0.672171 12.9399C0.61123 12.8625 0.61123 12.7455 0.672171 12.6689L2.7837 11.0309C2.81829 10.9881 2.86688 10.9626 2.91876 10.9626H12.6117"></path>
+									<path fill-rule="evenodd" clip-rule="evenodd" d="M11.6698 1.63701C11.6698 2.4034 11.1431 3.04649 10.4321 3.22446V4.09113H17.768C17.8612 4.09113 17.9505 4.12873 18.0156 4.19541L20.1642 6.39671C20.2968 6.53257 20.2951 6.74994 20.1604 6.88372L18.0118 9.01749C17.947 9.08184 17.8594 9.11795 17.768 9.11795H10.4321V9.72786H12.6292C12.8202 9.72786 12.9751 9.88271 12.9751 10.0737V14.4648C12.9751 14.6558 12.8202 14.8107 12.6292 14.8107H10.4316L10.4241 17.294H15.2373C15.4284 17.294 15.5832 17.4489 15.5832 17.6399C15.5832 17.8309 15.4284 17.9858 15.2373 17.9858H5.32699C5.13596 17.9858 4.9811 17.8309 4.9811 17.6399C4.9811 17.4489 5.13596 17.294 5.32699 17.294H9.73235L9.73986 14.8107H2.65875C2.56738 14.8107 2.47972 14.7745 2.41491 14.7101L0.220208 12.5286C0.0847606 12.3939 0.0840626 12.175 0.218649 12.0395L2.41335 9.82999C2.47829 9.76462 2.56662 9.72786 2.65875 9.72786H9.74036V9.11795H6.93287C6.74184 9.11795 6.58699 8.96309 6.58699 8.77207V4.43701C6.58699 4.24598 6.74184 4.09113 6.93287 4.09113H9.74036V3.24727C8.97559 3.10937 8.39628 2.44137 8.39628 1.63701C8.39628 0.732556 9.12868 -0.000167847 10.0335 -0.000167847C10.937 -0.000167847 11.6698 0.732968 11.6698 1.63701ZM10.0335 0.691597C10.5549 0.691597 10.978 1.11495 10.978 1.63701C10.978 2.15884 10.5551 2.5816 10.0335 2.5816C9.51058 2.5816 9.08805 2.15925 9.08805 1.63701C9.08805 1.11454 9.5108 0.691597 10.0335 0.691597ZM19.4296 6.63451L17.6255 8.42618H15.5736L17.6213 6.56634L15.5839 4.78289H17.6223L19.4296 6.63451ZM14.8398 8.15813C14.7615 8.22927 14.7233 8.32812 14.7267 8.42618H7.27875V4.78289H14.7276C14.7239 4.88332 14.7639 4.98448 14.8454 5.05583L16.5819 6.57587L14.8398 8.15813ZM12.2833 10.4196V14.1189H5.6147C5.61232 14.0278 5.57419 13.9379 5.50141 13.8718L3.72964 12.2635L5.49318 10.7522C5.59212 10.6674 5.6314 10.5388 5.60691 10.4196H12.2833ZM4.81815 10.4196L2.68398 12.2485L4.74443 14.1189H2.80141L0.953109 12.2817L2.8027 10.4196H4.81815ZM2.24699 17.294H3.05322C3.24425 17.294 3.39911 17.4489 3.39911 17.6399C3.39911 17.8309 3.24425 17.9858 3.05322 17.9858H2.24699C2.05596 17.9858 1.9011 17.8309 1.9011 17.6399C1.9011 17.4489 2.05596 17.294 2.24699 17.294Z"></path>
+								</svg>
+								<span class="subcategory-name">Recommendations</span>
+							</a>
+						</li>
+						<li class="sub-nav-subcategory hover-active" data-cy="subnav-subcategory">
+							<a class="subcategory-link sub-nav-subcat-skill-plans
+								has-divider " href="/skill-plans" data-google-analytics="Subnavigation.Header clicked.Skill plans">
+								<svg aria-hidden="true" class="subcategory-icon" width="18" height="19" viewBox="0 0 18 19" xmlns="http://www.w3.org/2000/svg">
+									<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M13.5014 16.7859H13.3934C12.4237 16.7827 11.6384 15.9974 11.6353 15.0277V6.948C11.6384 5.97845 12.4238 5.19337 13.3934 5.19059H13.5014C14.4708 5.19338 15.256 5.97857 15.2588 6.948V15.0277C15.256 15.9973 14.4709 16.7827 13.5014 16.7859Z"></path>
+									<path fill-rule="evenodd" clip-rule="evenodd" d="M4.59536 0.709472C4.77777 0.923166 4.89676 1.1734 4.95565 1.44146C5.90259 1.10649 6.90209 1.18961 7.63612 1.73969L7.76049 1.8396H7.77047L7.89109 1.95998C8.3786 2.44653 8.61189 3.09487 8.61013 3.78095H16.7572C17.158 3.78095 17.4826 4.1228 17.4834 4.54486V17.4707C17.4834 17.8927 17.1587 18.2353 16.7579 18.2353H5.16336C4.7626 18.2353 4.43793 17.8927 4.43793 17.4707V7.47459C3.91481 7.39627 3.43168 7.17081 3.04906 6.78895C2.41322 6.15583 2.20948 5.24686 2.39515 4.33753C1.96891 4.31453 1.56822 4.15476 1.25954 3.84655C0.494348 3.08346 0.642149 1.75745 1.52579 0.876234C2.37352 0.0324977 3.62964 -0.138522 4.40596 0.520591L4.50443 0.611283L4.59536 0.709472ZM4.23774 3.58131C4.1205 3.69823 3.9954 3.80224 3.86481 3.89292L4.16732 4.1944C4.37616 4.40146 4.71348 4.40146 4.92233 4.1944L5.03948 4.07683C5.24712 3.86856 5.24712 3.53289 5.04023 3.32537L4.69396 2.97982C4.57512 3.19366 4.4225 3.39724 4.23774 3.58131ZM3.63127 6.20812C3.18987 5.76861 3.05713 5.09817 3.22129 4.41265L3.58594 4.77606C4.08553 5.27139 4.8733 5.30053 5.40616 4.86409L5.50468 4.77508L5.62354 4.65583C6.15049 4.12726 6.15049 3.27419 5.6235 2.74559L5.12952 2.25263C5.94102 1.9309 6.78678 2.02047 7.30782 2.54049L7.33619 2.5688L7.41981 2.66435C8.05412 3.453 7.85793 4.81105 6.88253 5.78377C5.85464 6.80884 4.39504 6.97038 3.63127 6.20812ZM5.1235 17.4707V7.4953C5.82095 7.43741 6.54158 7.14608 7.15942 6.64062L8.16091 7.63937L8.74324 7.05864L7.74177 6.05992C8.1342 5.58303 8.39799 5.04494 8.52419 4.50367H16.7572C16.7789 4.50367 16.7963 4.52246 16.7963 4.54486V17.4707C16.7963 17.4945 16.7789 17.5126 16.7572 17.5126H5.16263C5.14162 17.5126 5.1235 17.4945 5.1235 17.4707ZM6.32076 11.5613C6.48149 11.4009 6.74221 11.4008 6.90308 11.561L7.45765 12.1136L8.85736 10.7178C9.01816 10.5574 9.27888 10.5574 9.43968 10.7178C9.60048 10.8781 9.60048 11.1381 9.43968 11.2985L7.4579 13.2748L6.32101 12.142C6.16014 11.9817 6.16002 11.7217 6.32076 11.5613ZM6.61205 9.56269H8.06146V8.83997H6.61205V9.56269ZM15.3085 9.56269H10.2356V8.83997H15.3085V9.56269ZM10.2356 12.4536H15.3085V11.7308H10.2356V12.4536ZM15.3085 15.3444H10.2356V14.6217H15.3085V15.3444ZM6.61205 15.3444H8.06146V14.6217H6.61205V15.3444ZM3.84534 1.12462L3.92229 1.19219C4.33355 1.60181 4.2427 2.41549 3.65556 3.00044C3.06841 3.58598 2.25318 3.67652 1.84204 3.266C1.43045 2.85554 1.52108 2.04238 2.10783 1.45725C2.66102 0.906659 3.41587 0.793918 3.84534 1.12462Z"></path>
+								</svg>
+								<span class="subcategory-name">Skill plans</span>
+							</a>
+							<ul class="sub-nav-dropdown">
+								<li class="sub-nav-page" data-cy="subnav-page">
+									<a class="sub-nav-page-link" href="/skill-plans#spotlight-skill-plans" data-google-analytics="Subnavigation.Link in dropdown clicked.Skill plans - IXL plans">
+									IXL plans
+									</a>
+								</li>
+								<li class="sub-nav-page" data-cy="subnav-page">
+									<a class="sub-nav-page-link" href="/skill-plans#standards-skill-plans" data-google-analytics="Subnavigation.Link in dropdown clicked.Skill plans - ${stateText}">
+									${stateText}
+									</a>
+								</li>
+								<li class="sub-nav-page" data-cy="subnav-page">
+									<a class="sub-nav-page-link" href="/skill-plans#textbook-skill-plans" data-google-analytics="Subnavigation.Link in dropdown clicked.Skill plans - Textbooks">
+									Textbooks
+									</a>
+								</li>
+								<li class="sub-nav-page" data-cy="subnav-page">
+									<a class="sub-nav-page-link" href="/skill-plans#test-preparation-skill-plans" data-google-analytics="Subnavigation.Link in dropdown clicked.Skill plans - Test prep">
+									Test prep
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li class="sub-nav-subcategory hover-active" data-cy="subnav-subcategory">
+							<a class="subcategory-link sub-nav-subcat-awards-educator-and-student
+								has-divider " href="/awards" data-google-analytics="Subnavigation.Header clicked.Awards">
+								<svg aria-hidden="true" class="subcategory-icon" width="20" height="18" viewBox="0 0 20 18" xmlns="http://www.w3.org/2000/svg">
+									<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M6.57888 7.34208C7.41312 6.73926 8.87818 7.75549 9.47029 8.38385C10.0624 9.0122 10.3729 9.9922 9.97677 10.7597C9.75441 11.1913 5.127 15.1401 4.11653 15.7849C3.49888 16.1777 2.73959 15.5584 3.01135 14.8782C4.049 12.2898 6.2643 7.6262 6.57888 7.34208Z"></path>
+									<path fill-rule="evenodd" clip-rule="evenodd" d="M10.5871 2.93802C11.3985 2.93802 12.0563 2.28052 12.0563 1.46884C12.0563 0.657735 11.3982 -0.000335693 10.5871 -0.000335693C9.77591 -0.000335693 9.1171 0.657818 9.1171 1.46884C9.1171 2.28044 9.77566 2.93802 10.5871 2.93802ZM1.03713 16.4368C1.06633 16.3611 1.12582 16.2078 1.2094 15.9933C1.34865 15.636 1.50453 15.2379 1.6733 14.8091C2.15555 13.584 2.64456 12.3589 3.11052 11.2152C3.17147 11.0656 3.23171 10.9182 3.29118 10.773C4.46756 7.903 5.21975 6.22398 5.52639 5.91693L5.79503 5.6483C6.07994 5.36379 6.54122 5.32839 7.1106 5.4947C7.78068 3.66441 7.68913 2.01936 6.63524 1.72231C5.76286 1.47625 5.15419 1.87247 5.15419 2.54503C5.15419 3.06917 5.81889 3.36459 6.11126 3.07222L6.57712 3.53808C5.86207 4.25313 4.49537 3.64571 4.49537 2.54503C4.49537 1.41094 5.5422 0.729486 6.81403 1.08821C8.39431 1.53363 8.533 3.56531 7.72766 5.73312C8.65142 6.16696 9.75463 6.99332 10.8272 8.06635C12.8905 10.1296 14.0412 12.3025 13.2451 13.0987L13.245 13.0988L13.2451 13.0988L13.2379 13.106C13.2004 13.1438 13.1224 13.222 12.9766 13.3671C12.6697 13.674 10.9912 14.4263 8.12186 15.6026C7.97645 15.6622 7.82872 15.7226 7.67879 15.7837C6.53516 16.2497 5.31012 16.7388 4.08512 17.221C3.6564 17.3898 3.2583 17.5457 2.90099 17.685C2.68654 17.7685 2.5333 17.828 2.45662 17.8576C2.02664 18.0324 1.53019 17.9657 1.22922 17.666C0.927929 17.3647 0.86084 16.8667 1.03713 16.4368ZM6.2608 6.11424C6.36524 6.01006 6.5782 6.00587 6.86839 6.08983C6.78618 6.27341 6.69673 6.45758 6.60023 6.64122L7.18345 6.94767C7.28957 6.74571 7.38829 6.5426 7.47924 6.33949C8.27611 6.7395 9.33857 7.509 10.3613 8.53216C12.1564 10.3273 13.1703 12.2417 12.7792 12.6328L12.7749 12.6372C12.3746 13.0161 10.4663 12.0027 8.67861 10.2151C6.88398 8.42048 5.87014 6.50562 6.26089 6.11433L6.2608 6.11424ZM5.6483 6.98851C5.95466 8.00776 6.89862 9.36683 8.21275 10.681C9.52661 11.9948 10.886 12.9389 11.9053 13.2453C11.1404 13.6202 9.71698 14.2366 7.87195 14.993C7.72698 15.0525 7.57968 15.1127 7.43018 15.1736C6.28924 15.6385 5.06653 16.1266 3.84378 16.608C3.41579 16.7765 3.01838 16.9321 2.66175 17.0711C2.44784 17.1545 2.29512 17.2138 2.21378 17.2452C2.00961 17.3281 1.79465 17.2993 1.6946 17.1996C1.59449 17.0995 1.56554 16.8846 1.64915 16.6806C1.68061 16.5992 1.73989 16.4465 1.82325 16.2326C1.96224 15.8759 2.11785 15.4785 2.28634 15.0504C2.7677 13.8276 3.25578 12.6048 3.72065 11.4638C3.78143 11.3146 3.84149 11.1676 3.90079 11.0229C4.65724 9.17737 5.27369 7.75357 5.6483 6.98851ZM11.3975 1.46884C11.3975 1.02159 11.0343 0.658488 10.5871 0.658488C10.1396 0.658488 9.77592 1.02182 9.77592 1.46884C9.77592 1.91636 10.1393 2.27919 10.5871 2.27919C11.0347 2.27919 11.3975 1.91659 11.3975 1.46884ZM13.4251 10.3108C13.3261 10.381 13.2578 10.4344 13.2246 10.4625L12.7995 9.95908C12.8462 9.91967 12.929 9.85505 13.0436 9.7736C13.2322 9.63968 13.4443 9.50609 13.6759 9.38129C14.614 8.8759 15.5823 8.65648 16.508 8.89961C16.7759 8.96998 17.034 9.07896 17.2802 9.22847C18.9627 10.2512 18.6499 12.2413 17.1289 12.4789C16.0372 12.6501 15.0845 11.7198 15.2695 10.953L15.9099 11.1074C15.8395 11.3996 16.3818 11.9292 17.027 11.828C17.9239 11.6879 18.11 10.5039 16.9382 9.79154C16.7467 9.67529 16.5475 9.59114 16.3406 9.53682C15.6051 9.34365 14.7934 9.5276 13.9884 9.96129C13.782 10.0725 13.5926 10.1918 13.4251 10.3108ZM18.5426 1.92688L18.0309 3.68483L19.1993 5.1406L17.2455 5.27194L16.2634 6.6951L15.5099 5.06418L13.8155 4.39192L15.245 3.32628L15.307 1.37232L16.8011 2.49425L18.5426 1.92688ZM15.9253 2.66049L16.6794 3.22679L17.5617 2.93934L17.3026 3.82986L17.8949 4.56797L16.8839 4.63593L16.3771 5.37041L15.9975 4.54887L15.1554 4.21478L15.8934 3.66465L15.9253 2.66049ZM10.4811 6.31148C12.3199 5.67746 13.2961 3.67135 12.6605 1.83301L13.2831 1.61773C14.0377 3.80013 12.8789 6.18161 10.6959 6.93432L10.4811 6.31148Z"></path>
+								</svg>
+								<span class="subcategory-name">Awards</span>
+							</a>
+							<ul class="sub-nav-dropdown">
+								<li class="sub-nav-page" data-cy="subnav-page">
+									<a class="sub-nav-page-link" href="/awards/math" data-google-analytics="Subnavigation.Link in dropdown clicked.Awards - Math awards">
+									Math awards
+									</a>
+								</li>
+								<li class="sub-nav-page" data-cy="subnav-page">
+									<a class="sub-nav-page-link" href="/awards/ela" data-google-analytics="Subnavigation.Link in dropdown clicked.Awards - Language arts awards">
+									Language arts awards
+									</a>
+								</li>
+								<li class="sub-nav-page" data-cy="subnav-page">
+									<a class="sub-nav-page-link" href="/awards/certificates" data-google-analytics="Subnavigation.Link in dropdown clicked.Awards - Certificates center">
+									Certificates center
+									</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</nav>
+			</div>
+			<label for="header-menu-state" class="site-nav-header-mask header-menu"></label>
+			<label for="mobile-search-state" class="site-nav-header-mask mobile-search"></label>
+		</div>
+		<div id="student-same-question-mode-container" class="student-same-question-mode-container">
+			<div class="same-q-mode-banners"></div>
+		</div>
+		<div id="student-focus-session-container" class="student-focus-session-container"></div>
+		<div id="general-notifications-container"></div>
+		<script>var rc={"navigationRuntimeContext":{"generalNotification":{"token":"eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDcyNDI1MjcsImV4cCI6MTc0NzI1NjkyNywicGF5bG9hZCI6IntcImNoYW5uZWxcIjpcIiNub3RpZmljYXRpb25fMTY0MTc5MjAxXCJ9In0.JnYUh8vzCu_kPjHjmzlfQvhOUfOiTcKegCoj8Gsamwc","pubsubEndpoint":"https://pubsub.ixl.com","liveMessageSystemModel":{"isEligibleToReceiveMessages":true,"onMultipleActiveRosters":true,"expirationMilliseconds":3600000},"studentInvitationsModel":{"userIsStudent":true,"invitations":[],"timerDurationMs":1200000}},"isSkipToContentEnabled":true,"isUserSignedIn":true,"userType":2,"assessmentBannerModel":{"mathInProgress":false,"elaInProgress":false},"isUserEligibleForFocusMode":true,"hasSparkStudioAccess":false,"hasSharedAnalyticsAccess":false},"bannersRuntimeContext":{"banners":[],"isSingleBanner":false},"shouldShowBannerCarousel":true};if (!window.RUNTIME_CONTEXT) { window.RUNTIME_CONTEXT={}; }window.RUNTIME_CONTEXT.header=rc;</script>
+		<script type="text/javascript" src="/frontend/resources/header/header_en.346286e485a6fa7262cc.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js.2e3196cd73053f26dc7b.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_array_-573b95/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_array_-573b95.fdbbaeb7cb49a2e7211d.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_react-dom_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_react-dom_index_js.a9b588f269ce80eede40.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_utils_i18n_index_js/commons-ixl_utils_i18n_index_js.4e80f16df5163a2a000a.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_content_util_YUA_js/commons-yui3_ixl_content_util_YUA_js.5c5e0c8477d7e422a7f7.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_utils_FetchUtils_js/commons-ixl_utils_FetchUtils_js.825966791d5a43dbb884.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_util-commonjs_ErrorTracking_js/commons-yui3_ixl_util-commonjs_ErrorTracking_js.53cd621e4fbaeaf8b92b.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_resize-observer-polyfill_-e7d454/commons-build_output_build_work_client-js-dependencies_node_modules_resize-observer-polyfill_-e7d454.aec7d12b32d4ee5d744e.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_external_react_prop-types_js/commons-yui3_ixl_external_react_prop-types_js.391cd4093d7a33881945.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_utils_IxlModal_jsx/commons-ixl_utils_IxlModal_jsx.12600db747c901aef647.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_typed--1cab5f/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_typed--1cab5f.bd9b66e2ddd46ecacfbf.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-31c7d6/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-31c7d6.bb702608ed06791e8727.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_analytics-commonjs_shared_utils_constants_js/commons-yui3_ixl_analytics-commonjs_shared_utils_constants_js.46b538f74e637ecc3537.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-16a4e6/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-16a4e6.d32b342e5e939cd9d2ee.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_analytics-commonjs_shared_utils_UrlBuildingUtils_js/commons-yui3_ixl_analytics-commonjs_shared_utils_UrlBuildingUtils_js.b31f7f165b9cbd385346.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_redux_lib_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_redux_lib_index_js.407b8449553f6bd4061e.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-4c2565/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-4c2565.71572da54aeb5307409b.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_aria-hidden_dist_es2015_in-7986a1/vendor-build_output_build_work_client-js-dependencies_node_modules_aria-hidden_dist_es2015_in-7986a1.b009cada316985f311d7.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_react-redux_es_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_react-redux_es_index_js.8e8b75885d0acaa31b15.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_js-joda_core_dist_js-joda-260bf3/commons-build_output_build_work_client-js-dependencies_node_modules_js-joda_core_dist_js-joda-260bf3.cc2d17e6e37c372c47f5.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_ixl-node-build_node_modules_buffer_index_js/commons-build_output_build_work_ixl-node-build_node_modules_buffer_index_js.0bed6b297847b7f30ef3.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_header_navigation_quickLoginForm_features_signin_signinSlice_js/commons-ixl_header_navigation_quickLoginForm_features_signin_signinSlice_js.6eed882c7300a96d8953.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_utils_ixlModal_IxlModal_jsx/commons-ixl_utils_ixlModal_IxlModal_jsx.f090498000e6cac28df8.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_utils_Websocket_js-ixl_utils_hooks_useMountEffect_js/commons-ixl_utils_Websocket_js-ixl_utils_hooks_useMountEffect_js.f101d2f1b6147d107c9e.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_analytics-commonjs_teacher_selectors_utils_TypeableDropdownUtils_jsx-yui3_ix-9a2f66/commons-yui3_ixl_analytics-commonjs_teacher_selectors_utils_TypeableDropdownUtils_jsx-yui3_ix-9a2f66.0485024c8f4ea60f9814.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_react-beautiful-dnd_dist_-7affe9/commons-build_output_build_work_client-js-dependencies_node_modules_react-beautiful-dnd_dist_-7affe9.e7562269ab69fc565d75.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_utils_SkillPickerUtils_jsx/commons-ixl_utils_SkillPickerUtils_jsx.e680b6284aa7cbbb311f.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_radix-ui_react-dropdown-me-83c60d/vendor-build_output_build_work_client-js-dependencies_node_modules_radix-ui_react-dropdown-me-83c60d.51c2fd07a5b3947d94a4.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_sameQuestionMode_components_StudentAvatar_jsx-ixl_sameQuestionMode_components_Stu-e1b3fd/commons-ixl_sameQuestionMode_components_StudentAvatar_jsx-ixl_sameQuestionMode_components_Stu-e1b3fd.b9d5258ffb2e84237a54.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_newsfeed_external_shared_Newsfeed_Newsfeed_jsx-ixl_newsfeed_external_shared_toast-2b40ee/commons-ixl_newsfeed_external_shared_Newsfeed_Newsfeed_jsx-ixl_newsfeed_external_shared_toast-2b40ee.932b944bb230f8796492.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_componentLibrary_atoms_CtaBtn_jsx-ixl_componentLibrary_molecules_SubSectionParagr-436b77/commons-ixl_componentLibrary_atoms_CtaBtn_jsx-ixl_componentLibrary_molecules_SubSectionParagr-436b77.11ba42da8a41f164b841.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_react-slick_lib_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_react-slick_lib_index_js.dd51df916f0f1df32a07.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_componentLibrary_atoms_InlineSvg_jsx-ixl_header_navigation_portalProviders_modalP-b4ed1f/commons-ixl_componentLibrary_atoms_InlineSvg_jsx-ixl_header_navigation_portalProviders_modalP-b4ed1f.e3d56663d486dce777f1.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/header/header.15039589829b784ff79c.bundle.js" defer=""></script>
+		<script src="/v2/mwrOtIK-dD6TAH34XK29_8II7DM/yui3/browser/config.js"></script>
+		<script src="/vendor/yui/3.18.1/yui/yui-min.js"></script>
+		<div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important" class=""></div>
+		<script src="/combo/dv3/zeyzJp_xIi5ITRc4JU9PrloOEik/yui3/prepage/?modules=yuiPerf-min.js,quire-min.js"></script>
+		<script src="/dv3/ON4OXH_9QzrTZ2-imMQLUcRGNfc/yui3/intl/Intl-min.js"></script>
+		<script src="/dv3/ON4OXH_9QzrTZ2-imMQLUcRGNfc/yui3/intl/en-US-min.js"></script>
+		<main id="practice-page-container">
+			<article class="practice-page us has-mobile-view has-summary">
+				<nav class="breadcrumb-nav site-nav-breadcrumb unzoom practice-breadcrumb responsive">
+					<section class="breadcrumb-content site-nav-breadcrumb-content" data-cy="breadcrumb-content">
+						<a href="/ela/level-a" class="breadcrumb-link breadcrumb-element">${grade}</a><img class="breadcrumb-sep breadcrumb-element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAASCAMAAABVab95AAAAdVBMVEV/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39drN8cAAAAJ3RSTlMAswEEB4eWBm1bbggCfml4ZnpfhW+IgFZiXokKYWWEaIFrf4J8eXAFIvj3AAAAW0lEQVR4Xj3ORRLFMAwD0CgNNWXGz3D/I3Zhx1q90Wgh5cZScQKajKkDOnGNStxi9my14mOSewziHFORvMBKLdywH6QTlqb6hrshPfBkvfD2pIgvX4j4sZT7J10qIANZobzyMQAAAABJRU5ErkJggg==" alt=""><span data-skill="2020696417" class="suggestion-toggle-icon hidden"></span>
+						<div class="breadcrumb-selected">${skillCode} <h1 class="breadcrumb-skill-name" data-cy="breadcrumb-skill-name">${skillName}</h1>
+						</div>
+						<h1 class="grades-landing-permacode">${permacode}</h1>
+					</section>
+				</nav>
+				<section class="summary-container afternoon sunrise responsive">
+					<div class="summary-body">
+						<div id="modularSVG" class="modular-svg">
+							<svg class="desktop" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="500" width="2789" viewBox="0 0 2789 500" preserveAspectRatio="xMidYMid slice">
+								<defs>
+									<radialGradient cx="61.0264486%" cy="32.9762953%" fx="61.0264486%" fy="32.9762953%" r="58.5572958%" gradientTransform="translate(0.610264,0.329763),scale(0.735532,1.000000),translate(-0.610264,-0.329763)" id="sunrise-radialGradient-1">
+										<stop stop-color="#FFF666" offset="0%"></stop>
+										<stop stop-color="#7A7423" offset="14%"></stop>
+										<stop stop-color="#504C17" offset="38%"></stop>
+										<stop stop-color="#25230B" offset="66%"></stop>
+										<stop stop-color="#0A0903" offset="87%"></stop>
+										<stop stop-color="#000000" offset="100%"></stop>
+									</radialGradient>
+									<radialGradient cx="50.0151988%" cy="49.928929%" fx="50.0151988%" fy="49.928929%" r="50.0000404%" gradientTransform="translate(0.500152,0.499289),scale(1.000000,0.999769),rotate(3.390781),translate(-0.500152,-0.499289)" id="sunrise-radialGradient-2">
+										<stop stop-color="#FFFFFF" offset="0%"></stop>
+										<stop stop-color="#FFF23A" offset="24%"></stop>
+										<stop stop-color="#E3D734" offset="29%"></stop>
+										<stop stop-color="#A79F26" offset="40%"></stop>
+										<stop stop-color="#746E1A" offset="51%"></stop>
+										<stop stop-color="#4B4711" offset="62%"></stop>
+										<stop stop-color="#2A280A" offset="72%"></stop>
+										<stop stop-color="#131204" offset="82%"></stop>
+										<stop stop-color="#050501" offset="92%"></stop>
+										<stop stop-color="#000000" offset="100%"></stop>
+									</radialGradient>
+									<radialGradient cx="61.0261453%" cy="32.9753687%" fx="61.0261453%" fy="32.9753687%" r="58.5712867%" gradientTransform="translate(0.610261,0.329754),scale(0.735362,1.000000),translate(-0.610261,-0.329754)" id="sunrise-radialGradient-3">
+										<stop stop-color="#A6542E" offset="0%"></stop>
+										<stop stop-color="#694433" offset="14%"></stop>
+										<stop stop-color="#503427" offset="24%"></stop>
+										<stop stop-color="#251812" offset="44%"></stop>
+										<stop stop-color="#0A0605" offset="59%"></stop>
+										<stop stop-color="#000000" offset="68%"></stop>
+									</radialGradient>
+									<radialGradient cx="50.0099625%" cy="49.954282%" fx="50.0099625%" fy="49.954282%" r="50%" id="sunrise-radialGradient-4">
+										<stop stop-color="#FFFFFF" offset="0%"></stop>
+										<stop stop-color="#BF442B" offset="24%"></stop>
+										<stop stop-color="#A73B25" offset="29%"></stop>
+										<stop stop-color="#74291A" offset="42%"></stop>
+										<stop stop-color="#4B1B11" offset="55%"></stop>
+										<stop stop-color="#2A0F09" offset="67%"></stop>
+										<stop stop-color="#130704" offset="79%"></stop>
+										<stop stop-color="#050201" offset="90%"></stop>
+										<stop stop-color="#000000" offset="100%"></stop>
+									</radialGradient>
+									<linearGradient id="sunrise-a" x1="48.358%" x2="51.649%" y1="21%" y2="100%">
+										<stop offset="0%" stop-color="#5F6259"></stop>
+										<stop offset="51%" stop-color="#6C6A6A"></stop>
+										<stop offset="100%" stop-color="#7B7473"></stop>
+									</linearGradient>
+									<linearGradient id="sunrise-b" x1="50.172%" x2="52.627%" y1="21%" y2="100%">
+										<stop offset="0%" stop-color="#595959"></stop>
+										<stop offset="25.48%" stop-color="#6F5C5C"></stop>
+										<stop offset="100%" stop-color="#997775"></stop>
+									</linearGradient>
+									<linearGradient id="sunrise-c" x1="50.001%" x2="50.001%" y1="86.88%" y2="-18.483%">
+										<stop offset="0%" stop-color="#527678"></stop>
+										<stop offset="100%" stop-color="#729696"></stop>
+									</linearGradient>
+									<radialGradient id="sunrise-d" cx="20.509%" cy="105.785%" r="376.457%" fx="20.509%" fy="105.785%" gradientTransform="matrix(.18403 0 0 1 .167 0)">
+										<stop offset="0%" stop-color="#3E595C"></stop>
+										<stop offset="100%" stop-color="#51786B"></stop>
+									</radialGradient>
+									<linearGradient id="sunrise-e" x1="55.467%" x2="20%" y1="0%" y2="150%">
+										<stop offset="0%" stop-color="#3E595C"></stop>
+										<stop offset="100%" stop-color="#51786B"></stop>
+									</linearGradient>
+									<radialGradient id="sunrise-f" cx="17.98%" cy="68.234%" r="206.749%" fx="17.98%" fy="68.234%" gradientTransform="matrix(.28829 0 0 1 .128 0)">
+										<stop offset="0%" stop-color="#374F31"></stop>
+										<stop offset="100%" stop-color="#485938"></stop>
+									</radialGradient>
+									<linearGradient id="sunrise-g" x1="51.273%" x2="48.731%" y1="25%" y2="95%">
+										<stop offset="0%" stop-color="#677740"></stop>
+										<stop offset="50.884%" stop-color="#8E7C54"></stop>
+										<stop offset="99.968%" stop-color="#A87E64"></stop>
+									</linearGradient>
+									<radialGradient id="sunrise-h" cx="79.488%" cy="105.743%" r="336.745%" fx="79.488%" fy="105.743%" gradientTransform="matrix(-.20572 0 0 -1 .958 2.115)">
+										<stop offset="0%" stop-color="#3E595C"></stop>
+										<stop offset="100%" stop-color="#51786B"></stop>
+									</radialGradient>
+									<linearGradient id="sunrise-i" x1="44.241%" x2="66%" y1="66%" y2="130%">
+										<stop offset="0%" stop-color="#3E595C"></stop>
+										<stop offset="100%" stop-color="#51786B"></stop>
+									</linearGradient>
+									<radialGradient id="sunrise-j" cx="82.022%" cy="68.252%" r="250.941%" fx="82.022%" fy="68.252%" gradientTransform="matrix(-.23704 0 0 -1 1.015 1.365)">
+										<stop offset="0%" stop-color="#374F31"></stop>
+										<stop offset="100%" stop-color="#485938"></stop>
+									</radialGradient>
+									<linearGradient id="sunrise-a-backup" x1="48.358%" x2="51.649%" y1="21%" y2="100%">
+										<stop offset="0%" stop-color="#6E8447"></stop>
+										<stop offset="49.665%" stop-color="#96915E"></stop>
+										<stop offset="100%" stop-color="#B2A781"></stop>
+									</linearGradient>
+									<linearGradient id="sunrise-b-backup" x1="50.172%" x2="50.172%" y1="21%" y2="100%">
+										<stop offset="0%" stop-color="#627661"></stop>
+										<stop offset="56%" stop-color="#888A76"></stop>
+										<stop offset="100%" stop-color="#B89574"></stop>
+									</linearGradient>
+									<linearGradient id="sunrise-c-backup" x1="50.001%" x2="50.001%" y1="86.88%" y2="-18.483%">
+										<stop offset="0%" stop-color="#73AB86"></stop>
+										<stop offset="100%" stop-color="#8ECFB9"></stop>
+									</linearGradient>
+									<radialGradient id="sunrise-d-backup" cx="20.509%" cy="105.785%" r="376.457%" fx="20.509%" fy="105.785%" gradientTransform="matrix(.18403 0 0 1 .167 0)">
+										<stop offset="0%" stop-color="#458575"></stop>
+										<stop offset="100%" stop-color="#65AD7A"></stop>
+									</radialGradient>
+									<linearGradient id="sunrise-e-backup" x1="55.089%" x2="20%" y1="0%" y2="150%">
+										<stop offset="0%" stop-color="#398161"></stop>
+										<stop offset="100%" stop-color="#4F997E"></stop>
+									</linearGradient>
+									<radialGradient id="sunrise-f-backup" cx="17.98%" cy="68.234%" r="206.749%" fx="17.98%" fy="68.234%" gradientTransform="matrix(.28829 0 0 1 .128 0)">
+										<stop offset="0%" stop-color="#447641"></stop>
+										<stop offset="100%" stop-color="#638645"></stop>
+									</radialGradient>
+									<linearGradient id="sunrise-g-backup" x1="51.273%" x2="48.727%" y1="25%" y2="95%">
+										<stop offset="0%" stop-color="#70933B"></stop>
+										<stop offset="52.101%" stop-color="#A7AA55"></stop>
+										<stop offset="100%" stop-color="#CBB767"></stop>
+									</linearGradient>
+									<radialGradient id="sunrise-h-backup" cx="79.488%" cy="105.743%" r="336.745%" fx="79.488%" fy="105.743%" gradientTransform="matrix(-.20572 0 0 -1 .958 2.115)">
+										<stop offset="0%" stop-color="#647F4E"></stop>
+										<stop offset="100%" stop-color="#87A258"></stop>
+									</radialGradient>
+									<linearGradient id="sunrise-i-backup" x1="44.241%" x2="66%" y1="66%" y2="130%">
+										<stop offset="0%" stop-color="#5B7A4C"></stop>
+										<stop offset="100%" stop-color="#628857"></stop>
+									</linearGradient>
+									<radialGradient id="sunrise-j-backup" cx="82.022%" cy="68.252%" r="250.941%" fx="82.022%" fy="68.252%" gradientTransform="matrix(-.23704 0 0 -1 1.015 1.365)">
+										<stop offset="0%" stop-color="#547738"></stop>
+										<stop offset="100%" stop-color="#626F2C"></stop>
+									</radialGradient>
+									<linearGradient id="sunrise-k-backup" x1="0%" y1="50%" y2="50%">
+										<stop offset="0%" stop-color="#5F7C41"></stop>
+										<stop offset="51.877%" stop-color="#A9AB55"></stop>
+										<stop offset="100%" stop-color="#CABD61"></stop>
+									</linearGradient>
+									<radialGradient id="afternoon-foreground" fx="58%" cx="58%" r="60%">
+										<stop stop-color="#afb37f" offset="0%"></stop>
+										<stop stop-color="#adba8e" offset="24%"></stop>
+										<stop stop-color="#a7ccb5" offset="69%"></stop>
+										<stop stop-color="#a2dedd" offset="110%"></stop>
+									</radialGradient>
+									<radialGradient id="morning-foreground" fx="58%" cx="58%" r="60%">
+										<stop stop-color="#ad9b5c" offset="0%"></stop>
+										<stop stop-color="#aea36b" offset="19%"></stop>
+										<stop stop-color="#b0b993" offset="55%"></stop>
+										<stop stop-color="#b3ddd2" offset="105%"></stop>
+										<stop stop-color="#b3e0d8" offset="110%"></stop>
+									</radialGradient>
+									<radialGradient id="night-foreground" fx="58%" cx="58%" r="60%">
+										<stop stop-color="#8f845e" offset="0%"></stop>
+										<stop stop-color="#938a6d" offset="19%"></stop>
+										<stop stop-color="#9e9b95" offset="54%"></stop>
+										<stop stop-color="#b0b5d4" offset="101%"></stop>
+										<stop stop-color="#b3e0d8" offset="110%"></stop>
+									</radialGradient>
+								</defs>
+								<g id="sunrise-sun" transform="matrix(1,0,0,1,792, 0)">
+									<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+										<g id="morning-morning-desktop" transform="translate(-345.000000, 0.000000)">
+											<g id="sun" transform="translate(345.889349, -164.000000)">
+												<g id="sun-morning" transform="translate(306.110651, 160.000000)">
+													<path d="M645.364699,0.19228 L640.740934,0.19228 L640.811758,-2.3010216e-13 L343.605875,0.1012 L46.4101107,-2.3010216e-13 C46.4101107,-2.3010216e-13 46.4101107,0.08096 46.4708166,0.19228 L41.8571695,0.19228 C14.3046367,50.4347229 -0.0941886638,106.831923 0,164.13628 C0.0510518902,352.6314 152.827522,505.47376 341.440699,505.47376 C342.16917,505.47376 342.887522,505.47376 343.605875,505.40292 C344.324228,505.33208 345.052699,505.47376 345.771052,505.47376 C534.343758,505.47376 687.221789,352.66176 687.221789,164.08568 C687.307523,106.798453 672.908965,50.4197056 645.364699,0.19228 Z" id="Path" fill="url(#sunrise-radialGradient-1)" fill-rule="nonzero" style="mix-blend-mode: screen;"></path>
+													<ellipse id="Oval" fill="url(#sunrise-radialGradient-2)" fill-rule="nonzero" style="mix-blend-mode: screen;" transform="translate(420.526356, 177.552226) rotate(-3.390000) translate(-420.526356, -177.552226) " cx="420.526356" cy="177.552226" rx="57.3468702" ry="57.3601134"></ellipse>
+													<image id="Bitmap" style="mix-blend-mode: screen;" x="332.112228" y="178.112" width="91.0588235" height="230.736" xlink:href="data:image/png;base64,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"></image>
+													<image id="Bitmap" style="mix-blend-mode: screen;" x="373.594581" y="106.26" width="45.5294118" height="69.828" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAABFCAYAAADevW+tAAAABGdBTUEAALGOfPtRkwAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAALaADAAQAAAABAAAARQAAAADv6jncAAAGn0lEQVRoBdWaW0ybZRzGn69fS8+0pTAOUigMd2BuYGAujGXOROPhYonGCy90cYlbdmEW45Ve7M47L7zUOBONVx6iTqNuFyawJcZkmQ7mPBDGTkGknCmUHmj7+fy/UYSMAYUePt7kzdvSr/D7nj7/w/sWBYDGCU3TFFm3wjBlYBVF0eG3BHQG0sQHpi0CLqy6NdJcxR9bAVyHFnAZAm7mNLpVFqHF26K0TBunkRVfhCYn0gRPcFU5nZyiuBFVXwZNTl3pCFcLp2PhudHA74MWtcmKSU4Xb0GmKG+kcR/0Urgkn7g4HXR7ick4eXxF6EzBmWSxLCG0BKaHihvFJpLhVhwCLhlkguB+OsZE6PiKt7ji2/P6w1UxxMsSlPOcong5wc0GsMmq0POiNmFDVNvO1UvFy02rvoVX5X+sSSDgghHntLKlqqJRSs1qUZurNaEzus0yeYxxlqY11FH/YgbluqBFbUl/I7SJvKGS4tdZHhjDmfvM27ouaPnrQ5qGCGc/1bZR7QCDstRSHJusGzqTu0PpNMJ8lzcFNJjUothk3dCidnIhKP9gE+tmKAY1EwLWwtskK2gBl/51hmoPkLU0peFhRWWJNxU0m2QNPZ++lwKvJuf1oAwwQlus0hMWbmQNvRTtspkpkPewW1NRbbMUTO0NQYvabJ8wMJ/EEG1SzX1au2opWFBuCFrUTqTTisWk4BctSXygOaVgp106lPyPDUNn0KZSafTQJh7a5IC5BHVOKfb5HZvKV5FkSnGyD7mUSGCXxY6WlAlpq1XvBJMLAZsP/E0rHaPSMi+y0MtmuD2l4ukydz5YF3/npqFTLDg21YQoy3sfbSJd4GHaJJ8N1aah5fbnaJPRZArnUwlMEX4HbdLkscFmzk/RyQm0gEv0hZgCf1JpEwblCa8Hz1Z55aWcj5xBT8STTIEmXJyLYqBEw5GkGS/bnOis8uQ8m+QMWuScSiQxnUjhQioOKfZB+vtJnyvn+8qcQsdTacVvs+CQ3Y6LtImb0M+rNry0vSKnFskptJANReJKVzyGrkQMd9Q0vNyanfB4sL+6NGc2yTm0gPdH4+iLxPFNIqofHz/E9rXV52Q2yc1OJz/QU1FpR/DDeBgDVNtNg7/p8+Fkc5X8eNMjL9BCFZpLwGFWcXZ6GlNM1+W0yTM+Nzw5aGHzBh2ZTyncnuHKRARd8zG9E9zHSvneYw3GVVrI+ifnFIdFxQf/jOOmkoKLebzDYcexPdWbCsq8KZ2Rk90eqDouRe8FZQ2D8lR9BWrcG29h8w7990REV/vj26PojkVhZog2WCw4016fua+s17xDC9Ff4xGITb4dnUZIS8PDoHzc68JTjf4N2aQg0AlWSsYkrk1G8P30DNJUO0i139pbu6EWtiDQovaV4bCeuz/qD+FqNEabKGhx2vF2R1BezmoUDFqoekZm8ftYBOdHw5iiTVzcPBxvqEBnnS8rmxQUWs4Dm/1OfH1rDD2RqK5ueYkZr7dmZ5NNbWyz+kwXLv6TQSnju6FJBJxWbLfa0VHuwun9gYUr1l4KqrTgiNpNXjt+vDWOrrEZOdREDYPylV1V6w7KgkMLuFRKWT/tC+FGJAb5GmenW774W98oCrSgpVgpB8MxSDYZiSdhZ1DywAptNWtvz4oGfScc09X+sm8El8dm9b47+sYR7K10oWKNEl/wQFxqgMGZmFLtsmpfDIygucKJJp8DO5ld9hB8tVE0pTNQ0lBduDmO7iH23TyCaCyz42CtF0f3Vj0wdxcdenQuodvkk+tD6KVNXmisQKWzBK+11cKirnzYU1R7ZNSWoLwWmsW5G2OoZToM+B3wu63YV1uauWTZWnSlhWaaBz2yfvjbILrvTnIDrMBpZVd4rA1PNFfcZxNDQAvwbOIe+GfXh3FjPCrWQDltcupgvby8bBgGWqjEJt13JtB9ewL0OmyqglqfDedOH1imtqGgpe/uCHhx9tdBXB6cRiSZRlutB4eDZTjz4u5FcEME4tLP/ue7U/rTz3v/RaXXhkeDHjhtZpw89L9NDKW00OrtKwvNpVsT6B0O878bTSihTapcVgy9/5yuNrdBi6ovveGiP6732rWA3453ju7CI3UelHmtSNAXN6e5OS463QMAIjwybg968VXPMKIUttXkxTa/DY38FAwLPcZKeajJr82yA5zhuXeU38fvV8sQqHbCsPbIfACtAY/WOxhG544yvHqkHkf2bTM+tMAH/Q4txvQX50nVu8dbtga0gGe+4uvc7d860AIuQ+D/AwSbSEtS7NP6AAAAAElFTkSuQmCC"></image>
+													<image id="Bitmap" style="mix-blend-mode: screen;" x="417.100464" y="175.076" width="92.0705882" height="16.192" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFsAAAAQCAYAAAB5qQM2AAAABGdBTUEAALGOfPtRkwAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAW6ADAAQAAAABAAAAEAAAAADcmQAcAAAEsUlEQVRYCe2Yz24bVRTGv5mxx//TpE5KSUuhUUulLMK2iBUVEks28AA8ARIb2PAI7HgBHgDRLVsESKhICASERigVIYQmcWzHscfj+Xf5vuuMoYpbIv6Ups1Vrs+dO3em9e8795xz7Rhj4DiOwZT21o3L+PCLX1ApeCgXXVoXP+wOwGecKctPp/6CgKCZZt3HfEO9hOWn66gWPTy/UIPvunh1eQHvf/ITvtrYR2cQTcB/vtE98upTEY4guWfCkWd/9M6LplktokbIRTjwHXbauVIRHn2+1QnR7cfohwkG7FudIV5+rokPvvwZt7Z6iNMMSWZo2bNsYjd7I2jLnIowZm5ha5h9/LpBwpDCLouYl4RoOPYzLqBNhilAoJNOUe60Btjshtg+GKEXp9jpj7C6N8D6foiMQqYUQY9k1o6vNb9GwZ40EQpj5mRLsHLDNMmQxWPIshkh92kL9PRSkVGHfy7XkRcMKTYZeq6cqSDVWgLtDxMEowStIMbeKEbI+TsHIVwKs9oNcGu7h84wxrMzZSzWSybivzvie2QjPq/2uIow8ewc+jT77mvXzGypgJrv4amSTzc1uCrAFOKsX8BdevUmPXm9E+DtlYvW8yWIQ+EkSBxRSAmRpGiFMbYJe8Rws0YR2ryWvb0/ZKIGdilS0XWwMlfFZ3d7NrT1tWOCSPnlRLdjwb7fNyx4rnnhwgxWzo2Taky46t9u9/Fji/3N66hyKxQIvswIZAM44buEb+jJMcUKKcB+xJ6mjPcGv0UxVgchQ5jBNwcBvm4PsMc8cb7q41JZGcVuLqxSoB2KFiTpiRHhH8F+kAiK1S89M4uluQquna1iqVHGxbKPBddjSAHmMgeGa5QPCgSrHKEw5DDsKMiPKEY7YkKm3U0S/Bon+G4YIuS99SjCDb+M9zZ30GBSv1Ip4TYFUhP5NsV7FEPRfwLbfuv7fKim90jklaUmlhkqrtbLOO8Xcc7zUGf57pN7gx6fEmp5lNkcohCUUASHcz3mg4ACdNIEMwlwMwuxxt2wQUEkzA5F4TLbZAh9Mj6I/99d8NBhjzEc/cwPVtcXz2Cx5uNyrYRLLD0vOBSBu0ACKIkLcMqwomTqMRx1HSbmILGVU5d5YCtLwTrHXn/qJNgxGQ64tstnFabGzdiIlv8vOP9QQtEjAzv/4tOsz9yQ0kPF6g3W93UetuYdFyVeNwg/JMg57oKAsOt2V7DCUf4gUgEW/B6f32bWbnPc5lgidLhe54M/JGBuYZaOeV9zyb98Uj4RsKcJkM9pRzRZKc2zy9sX+dNCTXmAtCpMyhKkSHiyygmiqIOX8jVhIqBtUYQOx+oRF6genqWzV2i/B1922PSMGs8Jf2snnHjY468//dOz+cFBjb/pqC0yLwh6ieMKeXkEqxOyylQJICEEm7na7gY90+O1IHdoOY2+Jtk0zhuLYXCDMVc8WITHGnYOY5otuI6peK49nM2wPFJRKSE8Lvbo4fppTsn1cDMQMktWAWW3YK0dC6G5IXt+X++QGJN+KMITC5ssprY8UdcogAKIQok9oNEKsmJ/g8LoHk8Lh/ZPYO38vdecsqXoKWyROEbLRdBSBWz13HM1d5y6/ndQqujojkxBAwAAAABJRU5ErkJggg=="></image>
+													<image id="Bitmap" style="mix-blend-mode: screen;" x="423.171052" y="121.44" width="37.4352941" height="54.648" xlink:href="data:image/png;base64,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"></image>
+												</g>
+												<g id="sun-afternoon" transform="translate(456.110651, 0.000000)">
+													<path d="M645.364699,0.19228 L640.740934,0.19228 L640.811758,-2.3010216e-13 L343.605875,0.1012 L46.4101107,-2.3010216e-13 C46.4101107,-2.3010216e-13 46.4101107,0.08096 46.4708166,0.19228 L41.8571695,0.19228 C14.3046367,50.4347229 -0.0941886638,106.831923 0,164.13628 C0.0510518902,352.6314 152.827522,505.47376 341.440699,505.47376 C342.16917,505.47376 342.887522,505.47376 343.605875,505.40292 C344.324228,505.33208 345.052699,505.47376 345.771052,505.47376 C534.343758,505.47376 687.221789,352.66176 687.221789,164.08568 C687.307523,106.798453 672.908965,50.4197056 645.364699,0.19228 Z" id="Path" fill="url(#sunrise-radialGradient-1)" fill-rule="nonzero" style="mix-blend-mode: screen;"></path>
+													<ellipse id="Oval" fill="url(#sunrise-radialGradient-2)" fill-rule="nonzero" style="mix-blend-mode: screen;" transform="translate(420.526356, 177.552226) rotate(-3.390000) translate(-420.526356, -177.552226) " cx="420.526356" cy="177.552226" rx="57.3468702" ry="57.3601134"></ellipse>
+													<image id="Bitmap" style="mix-blend-mode: screen;" x="332.112228" y="178.112" width="91.0588235" height="230.736" xlink:href="data:image/png;base64,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"></image>
+													<image id="Bitmap" style="mix-blend-mode: screen;" x="373.594581" y="106.26" width="45.5294118" height="69.828" xlink:href="data:image/png;base64,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"></image>
+													<image id="Bitmap" style="mix-blend-mode: screen;" x="417.100464" y="175.076" width="92.0705882" height="16.192" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFsAAAAQCAYAAAB5qQM2AAAABGdBTUEAALGOfPtRkwAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAW6ADAAQAAAABAAAAEAAAAADcmQAcAAAEsUlEQVRYCe2Yz24bVRTGv5mxx//TpE5KSUuhUUulLMK2iBUVEks28AA8ARIb2PAI7HgBHgDRLVsESKhICASERigVIYQmcWzHscfj+Xf5vuuMoYpbIv6Ups1Vrs+dO3em9e8795xz7Rhj4DiOwZT21o3L+PCLX1ApeCgXXVoXP+wOwGecKctPp/6CgKCZZt3HfEO9hOWn66gWPTy/UIPvunh1eQHvf/ITvtrYR2cQTcB/vtE98upTEY4guWfCkWd/9M6LplktokbIRTjwHXbauVIRHn2+1QnR7cfohwkG7FudIV5+rokPvvwZt7Z6iNMMSWZo2bNsYjd7I2jLnIowZm5ha5h9/LpBwpDCLouYl4RoOPYzLqBNhilAoJNOUe60Btjshtg+GKEXp9jpj7C6N8D6foiMQqYUQY9k1o6vNb9GwZ40EQpj5mRLsHLDNMmQxWPIshkh92kL9PRSkVGHfy7XkRcMKTYZeq6cqSDVWgLtDxMEowStIMbeKEbI+TsHIVwKs9oNcGu7h84wxrMzZSzWSybivzvie2QjPq/2uIow8ewc+jT77mvXzGypgJrv4amSTzc1uCrAFOKsX8BdevUmPXm9E+DtlYvW8yWIQ+EkSBxRSAmRpGiFMbYJe8Rws0YR2ryWvb0/ZKIGdilS0XWwMlfFZ3d7NrT1tWOCSPnlRLdjwb7fNyx4rnnhwgxWzo2Taky46t9u9/Fji/3N66hyKxQIvswIZAM44buEb+jJMcUKKcB+xJ6mjPcGv0UxVgchQ5jBNwcBvm4PsMc8cb7q41JZGcVuLqxSoB2KFiTpiRHhH8F+kAiK1S89M4uluQquna1iqVHGxbKPBddjSAHmMgeGa5QPCgSrHKEw5DDsKMiPKEY7YkKm3U0S/Bon+G4YIuS99SjCDb+M9zZ30GBSv1Ip4TYFUhP5NsV7FEPRfwLbfuv7fKim90jklaUmlhkqrtbLOO8Xcc7zUGf57pN7gx6fEmp5lNkcohCUUASHcz3mg4ACdNIEMwlwMwuxxt2wQUEkzA5F4TLbZAh9Mj6I/99d8NBhjzEc/cwPVtcXz2Cx5uNyrYRLLD0vOBSBu0ACKIkLcMqwomTqMRx1HSbmILGVU5d5YCtLwTrHXn/qJNgxGQ64tstnFabGzdiIlv8vOP9QQtEjAzv/4tOsz9yQ0kPF6g3W93UetuYdFyVeNwg/JMg57oKAsOt2V7DCUf4gUgEW/B6f32bWbnPc5lgidLhe54M/JGBuYZaOeV9zyb98Uj4RsKcJkM9pRzRZKc2zy9sX+dNCTXmAtCpMyhKkSHiyygmiqIOX8jVhIqBtUYQOx+oRF6genqWzV2i/B1922PSMGs8Jf2snnHjY468//dOz+cFBjb/pqC0yLwh6ieMKeXkEqxOyylQJICEEm7na7gY90+O1IHdoOY2+Jtk0zhuLYXCDMVc8WITHGnYOY5otuI6peK49nM2wPFJRKSE8Lvbo4fppTsn1cDMQMktWAWW3YK0dC6G5IXt+X++QGJN+KMITC5ssprY8UdcogAKIQok9oNEKsmJ/g8LoHk8Lh/ZPYO38vdecsqXoKWyROEbLRdBSBWz13HM1d5y6/ndQqujojkxBAwAAAABJRU5ErkJggg=="></image>
+													<image id="Bitmap" style="mix-blend-mode: screen;" x="423.171052" y="121.44" width="37.4352941" height="54.648" xlink:href="data:image/png;base64,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"></image>
+												</g>
+												<g id="sun-evening" transform="translate(0.000000, 112.000000)" fill-rule="nonzero">
+													<path d="M1028.64065,0.31 L1021.27065,0.31 C1021.34065,0.13 1021.38065,-2.27373675e-13 1021.38065,-2.27373675e-13 L547.670651,0.15 L73.9706511,-2.27373675e-13 L74.0706511,0.31 L66.7106511,0.31 C22.8072319,80.3487718 -0.140924751,170.190925 -1.13686838e-13,261.48 C-1.13686838e-13,561.92 243.660651,805.48 544.220651,805.48 C545.370651,805.48 546.520651,805.42 547.670651,805.37 C548.820651,805.32 549.980651,805.48 551.120651,805.48 C851.690651,805.48 1095.35126,561.92 1095.35126,261.48 C1095.48746,170.191521 1072.5396,80.350536 1028.64065,0.31 Z" id="Path" fill="url(#sunrise-radialGradient-3)" style="mix-blend-mode: color-dodge;"></path>
+													<circle id="Oval" fill="url(#sunrise-radialGradient-4)" style="mix-blend-mode: screen;" transform="translate(670.262676, 281.261527) rotate(-3.390000) translate(-670.262676, -281.261527) " cx="670.262676" cy="281.261527" r="91.41"></circle>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+								<g fill="none" fill-rule="nonzero" transform="translate(500, 80)">
+									<g opacity=".6">
+										<path class="sunrise-clouds-1" fill="#A67387" d="M1346.565 24l-50.987 1.13-13.975-4.37-17.374-5.31-22.652 4.59-9.738 3.64-8.778-5.23-25.908-.84-10.891.54-7.19 4.79-4.52-5.33-23.512 2.09-21.378 2.3 4.51 3.19 56.368 4.47 60.766 1.65 37.416 5.36s41.107-5.83 44.565-5.8c5.795.05 13.278-6.87 13.278-6.87z"></path>
+										<path class="sunrise-clouds-2" fill="#6E7D9E" d="M1341.61 26.31l-39.671-4.64-13.986-4.37-23.724-1.83-7.29 3.87-18.75.88-8.777-5.23-21.064-.29-6.745 5.01-16.18-.22-10.871-1.86-12.873 2.95-21.156 1.12 51.129 5.97 56.327-.79 44.848 6.46"></path>
+										<path class="sunrise-clouds-3" fill="#A67387" d="M600.183 8.81l13.803 2.22-31.035 4.1-39.034-1.88-58.602-.92-37.305.92V7.67l16.079-.73h39.024l44.353 1.51 31.046 2.95z"></path>
+										<path class="sunrise-clouds-4" fill="#68789E" d="M579.098 13.26l-49.187-2.82-43.726-.79-32.36 2-5.825-.23V6.61l4.44-.09 15.168-4.48 22.43-1.42 4.58 3.22s17.85 1.07 21.085.87c3.236-.2 22.126-3.16 22.126-3.16l20.7 3.87 19.67 4.51 21.003-1.73 5.38 3.44-25.484 1.62z"></path>
+										<path class="sunrise-hide" fill="#CC6767" d="M870.904 51.92l-6.583 2.51-13.308 3.48-8.687-.33-6.39 2.37 13.014 1.16 46.71 3.49 10.668-2.04 21.56 2.91 12.307-1.32-29.458-5.46-24.3-7.49-6.745 3.08z" opacity=".3"></path>
+										<path class="sunrise-hide" fill="#AD6F7F" d="M842.326 57.58l12.064-.55 11.185-1.69 5.33-3.42 10.071-.46 3.61 4.17 1.85-4.43 22.228-3.1 8.95 6 .84 4.34 21.74 5.71-9.869.45-23.805-2.98-40.005-1.36-18.88-.59z" opacity=".3"></path>
+										<path class="sunrise-show" fill="#A66676" d="M896.256 56.35s.293-1.77 1.477-1.92c1.183-.15 7.078-.58 7.078-.58l1.497 3.48 7.959 2.76-18.031-1.75h-25.413l3.843-2h5.056l5.056.62 11.478-.61z" opacity=".3"></path>
+										<path class="sunrise-clouds-5" fill="#606F91" d="M702.41 6.94l-15.088-1.39-15.078 1.39-22.166-.23 26.16.96h10.79z"></path>
+									</g>
+									<g opacity=".5">
+										<path fill="#FFC1B9" d="M674.31 284.127v-23.382l-6.089 11.696v10.067z"></path>
+										<path fill="#66429C" d="M685.346 284.127c-1.143-.323-24.55 1.63-24.55 1.63l2.853 2.195 19.128-1.933 2.57-1.892z"></path>
+										<path class="sunrise-boats-1" fill="#B18771" d="M674.31 289.419v5.99l-2.245 2.185 2.245 1.103v12.384l-6.089-9.713 1.932-1.113-1.932-1.032v-7.174z"></path>
+										<path class="sunrise-boats-1" fill="#B68770" d="M685.346 287.395c-1.143.506-24.55 3.036-24.55 3.036l1.478-1.326 5.947-.82-4.572-.414 19.128-1.73-2.084 1.011 4.653.243z"></path>
+									</g>
+									<g opacity=".5">
+										<path fill="#FFC1B9" d="M1095.463 193.311V176l4.501 8.66v7.447z"></path>
+										<path fill="#66429C" d="M1087.29 193.311c.84-.243 18.207 1.204 18.207 1.204l-2.114 1.62-14.16-1.427-1.933-1.397z"></path>
+										<path class="sunrise-boats-2" fill="#8B6F75" d="M1095.463 197.227v4.431l1.659 1.62-1.659.809v9.166l4.501-7.183-1.436-.83 1.436-.759v-5.312z"></path>
+										<path class="sunrise-boats-2" fill="#967072" d="M1087.29 195.72c.84.384 18.207 2.235 18.207 2.235l-1.092-1.011-4.4-.597 3.378-.314-14.16-1.275 1.537.759-3.47.202z"></path>
+									</g>
+									<g opacity=".5">
+										<path fill="#FFC1B9" d="M1239.998 309.877v-32.771l-8.537 16.39V307.6z"></path>
+										<path fill="#66429C" d="M1255.464 309.877c-1.598-.456-34.391 2.276-34.391 2.276l4.046 3.035 26.794-2.7 3.55-2.611z"></path>
+										<path class="sunrise-boats-3" fill="#796573" d="M1239.998 317.293v8.387l-3.146 3.066 3.146 1.538v17.352l-8.537-13.608 2.72-1.559-2.72-1.446v-10.057z"></path>
+										<path class="sunrise-boats-3" fill="#896770" d="M1255.464 314.45c-1.598.718-34.391 4.219-34.391 4.219l2.083-1.862 8.315-1.143-6.393-.577 26.795-2.428-2.913 1.437 6.504.354z"></path>
+									</g>
+									<path class="sunrise-boats-4" fill="#211E1B" d="M730.318 318.659l6.1-14.6 16.011-12.09 20.868-10.452 11.865-4.421-11.865 9.976-20.868 10.249z" style="mix-blend-mode:screen"></path>
+									<path class="sunrise-boats-5" fill="#676A6B" d="M739.108 303.573l.263.142.394-.314.213-.465.02-.374-.223.06-.02-.121.081-.213 1.002-1.204.495-.495.273-.172.061-.193-.83.729-1.021 1.143-.283-.303.91-.91 1.042-1.761.212-.102v-.192l-.364.142-.95 1.72-.729.496.334-1.376.212-.102.172-.242-.556.192-.496 1.78-.576.426-.294.576.456.01.1.324-.545.142.03.232.597-.151.222.01z"></path>
+									<path fill="#516675" d="M737.307 301.054l5.32-3.683 2.135-.495-.617 1.568-5.816 3.288-1.548.668z"></path>
+									<path fill="#F0CE5B" d="M737.307 301.054l5.32-3.683 2.135-.495-.273.688.07-.506-1.89.495z"></path>
+									<path fill="#303C45" d="M738.815 295.823l.293-.556.445-.132.243.334.03.486-.243.222-.03.203.091.162 1.153.222.556-.02.314-.142.07.162-.94.172-1.163-.1-.314.798 1.032-.04 1.194.93.242-.171v.263l-.404.313-1.093-1.001-.819.364.395 1.396.242-.172.182.101-.627.516-.576-1.72-.658.243-.334-.374.516-.648.101-.586-.617.586.04-.374.658-.627.253-.324z"></path>
+									<path fill="#F0CE5B" d="M739.553 296.38l.03-.182-.09.08-.031.203.09.172 1.154.212.556-.02.314-.141.04.08.122-.02-.071-.162-.314.142-.556.02-1.153-.222zM739.462 295.247l.243.333.03.456.091-.081-.03-.486-.243-.334-.445.132-.04.09zM739.867 299.688l-.385-1.335-.101.05.394 1.386.243-.161.162.08.111-.09-.182-.102zM741.546 298.525l-1.194-.931-1.032.04.263-.688h-.04l-.314.79 1.032-.03 1.194.92.242-.162v.223l.091-.071v-.263zM738.703 296.744l.071-.08-.637.596-.01.03z"></path>
+									<g>
+										<path class="sunrise-boats-6" fill="#211E1B" d="M553.465 322.716l12.2-22.704 18.763-11.15 32.317-15.409 15.335-1.356-21.717 10.118-25.207 12.92-11.552 4.877z" style="mix-blend-mode:screen"></path>
+										<path class="sunrise-boats-7" fill="#676A6B" d="M583.659 292.13l.263.122.364-.334.182-.455v-.375l-.212.071-.03-.111.06-.213.91-1.234.445-.506.253-.192.05-.192-.758.769-.93 1.163-.294-.273.83-.941.91-1.78.202-.112-.01-.182-.344.152-.819 1.74-.688.516.243-1.356.202-.111.152-.243-.536.223-.364 1.76-.546.455-.243.577.445-.02.121.313-.536.172.05.223.567-.182.223-.01z"></path>
+										<path fill="#755151" d="M581.747 289.783l4.967-3.915 2.043-.618-.506 1.569-5.462 3.571-1.477.739z"></path>
+										<path fill="#F0CE5B" d="M581.747 289.783l4.967-3.915 2.043-.618-.223.698.04-.495-1.82.597z"></path>
+										<path fill="#303C45" d="M582.9 284.603l.253-.567.425-.152.253.314.06.466-.222.232-.02.192.1.162 1.134.142.546-.06.293-.152.081.151-.91.233-1.143-.03-.253.799 1.001-.101 1.234.83.223-.183.01.253-.374.334-1.123-.91-.779.414.466 1.326.222-.172.192.08-.576.537-.668-1.64-.627.284-.354-.344.465-.668.071-.576-.577.607.02-.364.608-.648.222-.334z"></path>
+										<path fill="#F0CE5B" d="M583.649 285.088l.02-.172-.08.081-.021.203.101.152 1.133.151.546-.06.293-.152.04.07.122-.03-.08-.151-.294.151-.546.061-1.133-.142zM583.497 283.996l.253.303.06.445.082-.08-.061-.466-.253-.314-.425.152-.04.091zM584.155 288.296l-.446-1.275-.1.05.465 1.336.222-.182.172.07.101-.09-.192-.081zM585.732 287.061l-1.234-.83-1 .102.222-.688h-.051l-.253.79 1.002-.092 1.223.82.233-.172.01.222.081-.08-.01-.254zM582.85 285.503l.05-.09-.576.627v.03z"></path>
+									</g>
+									<g>
+										<path class="sunrise-boats-8" fill="#211E1B" d="M1169.698 342.456l-12.199-22.704-18.763-11.15-32.318-15.41-15.335-1.345 21.717 10.118 25.207 12.92 11.552 4.867z" style="mix-blend-mode:screen"></path>
+										<path class="sunrise-boats-9" fill="#676A6B" d="M1140.516 311.88l-.273.111-.354-.323-.182-.466v-.374l.212.08.03-.12-.06-.203-.91-1.234-.446-.516-.253-.193-.05-.182.758.76.931 1.173.283-.273-.82-.941-.91-1.791-.202-.112.01-.182.344.162.82 1.73.687.526-.242-1.365-.203-.102-.151-.253.526.233.374 1.76.546.446.243.587-.445-.03-.122.313.537.172-.061.223-.556-.172-.223-.01z"></path>
+										<path fill="#755151" d="M1142.428 309.533l-4.967-3.916-2.053-.617.505 1.568 5.473 3.562 1.477.738z"></path>
+										<path fill="#F0CE5B" d="M1142.428 309.533l-4.967-3.916-2.053-.617.232.688-.04-.496 1.82.607z"></path>
+										<path fill="#303C45" d="M1141.274 304.342l-.252-.556-.425-.162-.253.314-.06.465.222.233.01.202-.091.152-1.133.152-.546-.061-.294-.162-.08.162.91.223 1.143-.02.243.788-1.002-.1-1.224.829-.222-.172-.02.253.384.334 1.123-.91.778.404-.475 1.325-.222-.172-.183.081.577.547.668-1.64.627.274.344-.344-.456-.658-.07-.587.576.617-.02-.364-.607-.657-.233-.324z"></path>
+										<path fill="#F0CE5B" d="M1140.516 304.838l-.01-.172.08.081.01.192-.1.162-1.123.142-.546-.05-.294-.163-.04.081-.122-.03.081-.162.294.162.546.06 1.133-.151zM1140.678 303.735l-.253.314-.06.445-.082-.09.06-.466.254-.314.425.162.04.09zM1140.01 308.035l.455-1.264.101.05-.465 1.326-.222-.172-.172.07-.102-.1.183-.082zM1138.442 306.8l1.224-.829 1.002.101-.213-.677h.04l.253.789-1-.101-1.225.83-.222-.183-.01.223-.092-.071.02-.253zM1141.325 305.243l-.06-.081.586.627v.02z"></path>
+									</g>
+									<g>
+										<path class="sunrise-fill-a" fill="url(#sunrise-a)" d="M638.642 154.611l-77.789 47.79-86.941 17.657 27.753-44.244z" transform="translate(0 79)"></path>
+										<path class="sunrise-hide" fill="#211E1B" d="M628.619 219.025h40.001l4.754-2.111 9.032-4.142h14.645l11.075-1.444-2.103-1.445h-3.055l-80.246 6.566z" style="mix-blend-mode:screen"></path>
+										<path class="sunrise-hide" fill="#211E1B" d="M673.637 223.156l73.176-7.394-19.146-4.131 58.865.404 10.215-9.243H634.384l-26.894 20.536-10.721 20.183 100.394-7.87 23.808-6.656z" style="mix-blend-mode:screen"></path>
+										<path class="sunrise-fill-b" fill="url(#sunrise-b)" d="M706.023 131.782l-37.403 23.97-40.902 5.567-24.668-21.395z" transform="translate(0 79)"></path>
+										<path class="sunrise-hide" fill="#211E1B" d="M591.014 247.127l49.701-8.03 16.921-1.88 10.984-2.464 9.144-1.374-12.987-4.394h-7.14l-12.724 2.162z" style="mix-blend-mode:screen"></path>
+										<path class="sunrise-fill-c" fill="url(#sunrise-c)" d="M706.023 131.782l-34.753-30.304-22.15-5.556-39.213-25.213-15.03 5.92-38.899-11.94-29.766 2.586-89.875-44.527-43.45 23.93-27.703-10.94-9.396-6.05-42.247 6.677-34.389-7.071-26.297 5.05H227.57L194.193 0l-46.525 27.274L114.29 78.79l-36.412 36.364 234.62 43.062 316.12-19.91 41.124-.14 12.663-4.395z" transform="translate(0 79)"></path>
+										<path class="sunrise-hill-9" fill="#8A8D8B" d="M345.906 373.96l110.599-58.427 14.049-19.768 41.296-34.617 8.658-5.85-23.576 26.244-23.02 22.546-16.436 13.506-105.501 56.365z"></path>
+										<path class="sunrise-hill-1" fill="#D1A46D" d="M339.838 375.98c22.17-5.374 118.336-60.265 118.336-60.265l56.306-55.82h-17.356l-50.177 30.738-116.212 33.83-80.914 21.213s56.64 38.385 90.017 30.304z"></path>
+										<path class="sunrise-hill-2" fill="#AB8759" d="M351.975 370.93l106.199-55.215 60.796-59.345-41.023 28.283s-17.315 18.183-17.71 19.284c-.394 1.1-7.08 10.394-7.08 10.394l-76.453 36.739-30.798 22.89 6.069-3.03z"></path>
+										<path class="sunrise-fill-d" fill="url(#sunrise-d)" d="M642.333 154.379l-66.268-30.587-67.027-5.05-6.503-12.98h-28.623l-66.633-36.77c-4.349 1.081-49.822-10.9-49.822-10.9l-30.343 5.496-15.242-5.495-46.88 11.606-41.468 23.233-44.502-12.121-59.674 27.273-68.777 2.02L0 138.39l311.902 28.87 76.555 9.04h137.907l71.113-11.788 44.856-10.132z" opacity=".97" transform="translate(0 79)"></path>
+										<path class="sunrise-fill-e" fill="url(#sunrise-e)" d="M327.417 111.418s8.729-16.01 11.793-14.566c3.065 1.444 25.286-6.687 26.247-6.374.96.313 5.623 6.727 6.837 6.374 1.214-.354 22.868-1.798 23.526 0 .657 1.798 14.595 19.606 15.97 20.324 1.376.717 13.776 7.576 13.776 7.576s6.31 5.889 8.96 4.93c2.65-.96 11.43-1.567 11.905 0 .476 1.565 3.732 6.747 5.533 6.858 1.8.111 29.28 1.556 29.28 1.556l14.423 12.97 46.172 23.182-12.44 1.516-24.77.505-199.18 13.636-286.232-23.233 85.97-36.365 66.755 2.02 76.868-22.222 65.742-1.556 12.865 2.869z" opacity=".96" transform="translate(0 79)"></path>
+										<path class="sunrise-hill-3" fill="#70691E" d="M330.735 324.463l107.858-32.264h10.67l28.654-17.192 21.907-12.496 14.625-2.616 6.059-4.596h-26.459l-67.38 18.748-11.066 15.86-144.542-8.88-21.24 64.649z"></path>
+										<path class="sunrise-fill-f" fill="url(#sunrise-f)" d="M504.628 176.299l-73.62 22.223-15.405 12.344-102.062 15.404-63.72 40.406-226.558 12.121 54.616-42.425 102.154-33.335 61.697-36.365 70.172-26.647 24.537 7.374 39.344 9.435 43.674-7s45.453 7 49.074 7c3.62 0 36.097 19.465 36.097 19.465z" transform="translate(0 79)"></path>
+										<path class="sunrise-hill-4" fill="#A5B299" d="M694.836 201.024l-23.566-21.263-22.15-5.556-39.213-25.213-7.09 3.505 5.947-.535 36.664 25.233 21.898 4.334z"></path>
+										<path class="sunrise-hill-4" fill="#A4B099" d="M677.764 197.388l-16.224-9.617h-9.244l-19.601-8.889 17.568 11.778h10.185z"></path>
+										<path class="sunrise-hill-5" fill="#A8B59F" d="M582.92 153.538l-30.333-10.566-21.169 2.667 21.17.313z"></path>
+										<path class="sunrise-hill-5" fill="#ACB9A4" d="M405.054 118.971l30.94-18.132 49.063 25.041-43.713-16.93 3.863 7.213-14.554-4.687z"></path>
+										<path class="sunrise-hill-5" fill="#A8B69F" d="M515.825 146.083l-24.79-7.576h-23.718l22.15 3.788 22.535 6.324 14.21-2.344z"></path>
+										<path class="sunrise-hill-5" fill="#9BAA87" d="M642.333 233.379l-66.268-30.587-67.027-5.091 62 10.98 44.038 23.546-5.057-8.05 8.303 2.222z"></path>
+										<path class="sunrise-hill-6" fill="#9CAB88" d="M575.68 219.682l-9.335-4.142-28.866-3.91z"></path>
+										<path class="sunrise-hill-7" fill="#9AA887" d="M508.27 196.176l-5.735-11.455h-28.623l-66.633-36.77 60.665 42.103 17.194 2.162 15.526 11.536-3.975-11.536z"></path>
+										<path class="sunrise-hill-8" fill="#A1AF99" d="M575.701 185.428l-19.288-13.092-27.864 4.576 27.611-2.293z"></path>
+									</g>
+									<g>
+										<path class="sunrise-fill-g" fill="url(#sunrise-g)" d="M4.156 110.345l77.747 47.901 139.462 25.814-80.305-52.468z" transform="translate(1146 79)"></path>
+										<path class="sunrise-fill-h" fill="url(#sunrise-h)" d="M.467 110.112L66.7 79.447l67.001-5.063 6.49-13.014H168.8l66.597-36.852c4.347 1.083 49.797-10.938 49.797-10.938l30.326 5.51 15.224-5.51 44.914-2.39 28.304 3.039L455.517.05l37.402 19.241 41.447 50.636 21.228 10.127 69.751 35.445 17.185 9.114-130.404 6.076H408.005l-77.262-7.615-76.514 9.064H116.375L45.299 120.32.467 110.112z" opacity=".97" transform="translate(1146 79)"></path>
+										<path class="sunrise-fill-i" fill="url(#sunrise-i)" d="M315.216 67.031s-8.724-16.041-11.787-14.593c-3.063 1.448-25.272-6.714-26.222-6.39-.95.324-5.621 6.745-6.844 6.39-1.223-.354-22.856-1.813-23.503 0-.647 1.813-14.597 19.647-15.932 20.366-1.334.719-13.778 7.605-13.778 7.605s-6.308 5.904-8.947 4.932c-2.638-.972-11.423-1.56-11.908 0-.485 1.56-3.73 6.775-5.53 6.877-1.799.1-29.315 1.56-29.315 1.56l-14.415 13.012-46.147 23.232 12.403 1.56 24.757.506 86.936-6.704 287.092 5.256 82.892-3.038-30.326-23.293-50.545-18.228H482.76L438.28 65.826 407.954 48.61l-45.49-8.102-47.248 26.523z" opacity=".96" transform="translate(1146 79)"></path>
+										<path class="sunrise-hill-10" fill="#70691E" d="M1498.386 299.771s-62.463-12.912-82.043-13.661c-5.61-.213-12 1.59-19.298 0-15.254-3.312-51.798-34.949-51.798-34.949l-39.606-25.409-26.476-5.317-10.958-9.347h47.856l127.735 45.137 89.969-6.077 153.655-32.406h39.424s-48.583 41.946-54.588 45.572c-21.865 13.165-59.106 13.256-72.783 18.228-24.12 8.77-101.089 18.23-101.089 18.23z"></path>
+										<path class="sunrise-fill-j" fill="url(#sunrise-j)" d="M138.099 132.088l73.592 22.28 15.386 12.385 49.533 8.669 13.768 21.682 170.173-30.007 120.295-28.355-34.37-15.191-51.555-18.229-46.5-13.165-44.48 4.05-35.38-4.05-37.838 3.554-24.524 7.393-39.324 9.47-43.65-7.03s-45.419 7.03-49.038 7.03c-3.619 0-36.088 19.514-36.088 19.514z" transform="translate(1146 79)"></path>
+										<path class="sunrise-hill-11" fill="#BAB583" d="M1146.467 189.112l66.233-30.665 67.001-5.114-61.977 11.018-44.014 23.607 5.054-8.072-8.299 2.218z"></path>
+										<path class="sunrise-hill-11" fill="#BAB583" d="M1213.084 175.37l9.33-4.152 28.861-3.91zM1280.46 151.814l5.731-11.494h28.608l66.597-36.853-60.633 42.21-17.185 2.167-15.517 11.565 3.973-11.565zM1407.245 98.566l23.948-6.036 21.45 3.899-22.704.455-36.17 7.241zM1579.257 85.076l22.24-6.076 21.228 11.14-20.935-6.42-37.18 6.227z"></path>
+									</g>
+									<g>
+										<path class="sunrise-hill-12" fill="#BAAF31" d="M1300.428 356.52l-12.566 4.235-4.802.282-196.022 1.805-49.334-1.875-8.512-2.884-4.944-.04-169.404 1.562-47.96-2.994-89.084-9.72-67.218-3.237-7.673.211L628.08 342l-72.142 2.168-73.799 27.225-63.69 24.2L377 421.81h312.382l628.809 1.008L1670 421.81l-93.007-41.342-59.646-15.125-90.156-13.855z"></path>
+										<path class="sunrise-hill-13" fill="#4A5200" d="M1427.191 355.522l-127.773 8.056-9.534 4.235-4.802.283-198.044.796-49.334-2.884-8.512-2.883-4.944-.04-169.404 3.579-47.96-5.012-89.084-9.72-67.218-4.245-7.673.212-90.004 6.352-115.248 37.309L377 421.81l1050.191 40.696 233.71-40.696-120.302-48.4z"></path>
+									</g>
+								</g>
+								<rect id="foreground-overlay" x="0" y="0" width="2789" height="2789" fill="url(#morning-foreground)" style="mix-blend-mode: overlay" transform="translate(0, -1369.5)"></rect>
+								<desc>Created with Snap</desc>
+								<g transform="matrix(1.0013,0,0,1.0013,1022,383)">
+									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 99" width="210" height="99">
+										<defs>
+											<linearGradient id="a" x1=".324%" x2="99.837%" y1="49.285%" y2="50.167%">
+												<stop offset="0%" stop-color="#AB6E33"></stop>
+												<stop offset="100%" stop-color="#332114"></stop>
+											</linearGradient>
+											<linearGradient id="b" x1="87.649%" x2="35.29%" y1="37.337%" y2="54.77%">
+												<stop offset="0%" stop-color="#B77737"></stop>
+												<stop offset="100%" stop-color="#332114"></stop>
+											</linearGradient>
+											<linearGradient id="c" x1="48.742%" x2="56.4%" y1="17.38%" y2="56.597%">
+												<stop offset="0%" stop-color="#B77737"></stop>
+												<stop offset="100%" stop-color="#965923"></stop>
+											</linearGradient>
+											<linearGradient id="d" x1="195.606%" x2="222.593%" y1="37.421%" y2="47.946%">
+												<stop offset="0%" stop-color="#B77737"></stop>
+												<stop offset="100%" stop-color="#965923"></stop>
+											</linearGradient>
+											<linearGradient id="e" x1="217.642%" x2="262.987%" y1="35.98%" y2="41.987%">
+												<stop offset="0%" stop-color="#AB6E33"></stop>
+												<stop offset="100%" stop-color="#332114"></stop>
+											</linearGradient>
+										</defs>
+										<g fill="none" fill-rule="evenodd" transform="translate(-1)">
+											<path fill="#231F20" d="M119.22 84.36c1.22-1.11 5.69-3.31 5.21-5.39-.31-1.36-5-2.55-9.45-3.84C87.44 67.26 73.07 59.8 73.07 59.8s-23.7 12.58-24.56 15.68a5.17 5.17 0 0 0 3.74 4c2 .57 2.47 1.77 7.73 4.29 22.81 10.91 33.3 13.63 34.5 12.63 1.2-1 12.2-3.49 14.79-5.14 2.59-1.65 9.73-6.66 9.95-6.9z" opacity=".1" style="mix-blend-mode:multiply"></path>
+											<path fill="#FFF" d="M124 77c-.18-.35-2.84 0-5.12-1-2.81-1.36-5.92-2-8.83-2.82-3.16-.93-6.72-2.12-9.86-3.19-5.19-1.82-8.61-2.88-13.27-4.49-1.11-.38-2.22-.73-3.3-1.21-1.45-.64-1.46-.66-2.92-1.26-.57-.24-1.48-1-2.19-1.44-1.4-.8-2.69-3-3.31-3.65 0 0-25.32 10.64-26.17 13.75 0 0 .13 4.09 3.25 6.08 2.25 1.43 1.13.86 6.28 3.37 22.35 10.89 34.62 15 36 14.32 2.75-1.25 9.76-5.25 12.3-6.9 2.54-1.65 9.77-6.11 9.2-6.65-.57-.54-.55-.88.41-.85.96.03.75.88 1.92.23s5.84-3.93 5.61-4.29z"></path>
+											<path fill="#E1EEF5" d="M67.81 78.62c2.6-.74 5.7-1.85 7.59-4 1.3-1.46-2.87-1.17-3.39-1.13-4.74.33-9.43 1.29-14.18 1.61a40.76 40.76 0 0 1-7.65.17h-.13a6.51 6.51 0 0 0 2.23 2.48 32.06 32.06 0 0 0 5.54 3c3.1-1.22 6.88-1.24 9.99-2.13z"></path>
+											<path fill="#FFD600" fill-rule="nonzero" d="M88 76l-.47.38c1.25-.91 4-.72 4.89-2.22.89-1.5-1.6-1.8-2.49-1.47a8.41 8.41 0 0 0-2.62 1.83c-.75.97-.26 1.63.69 1.48zM83.46 67.22a1 1 0 0 0-1 .51 4.71 4.71 0 0 0-.26 3.66c-.2.53 1.07.73 1.31-.23s.37-1.87.56-2.79c.14-.52.45-1.18-.61-1.15zM95.33 79.78c-1.5-.19-3-.49-4.55-.64-1.55-.15-1.61 1.51-.72 1.51a9.7 9.7 0 0 0 5.83 1.43c.56-.11.89-.22 1.08-1 .35-1.26-.79-1.18-1.64-1.3zM92.2 87.58c-1.28-.88-2.56-1.87-3.87-2.72-1.31-.85-1.89.72-1.1 1.13A10.86 10.86 0 0 0 92 90.05c.54.16.87.21 1.26-.41.74-1.1-.34-1.56-1.06-2.06zM86.74 78.23c0 2.36-2.87 4.27-6.42 4.27s-6.41-1.91-6.41-4.27c0-2.36 2.87-4.23 6.41-4.23s6.42 1.87 6.42 4.23z"></path>
+											<path fill="#FBB775" fill-rule="nonzero" d="M31.92 51.78a53.73 53.73 0 0 0 8.12 7 38.7 38.7 0 0 0 7.78 3.85 12 12 0 0 0 2.7.66c-.31.58-.59 1.17-.93 1.73-.52.63-1.05 1.25-1.6 1.85l-1 .83a50.33 50.33 0 0 1-8.61-3.85A30.31 30.31 0 0 1 29 55.22s2.28-2.61 2.92-3.44z"></path>
+											<path fill="#F9AB69" fill-rule="nonzero" d="M32 51.79a16.29 16.29 0 0 0 1.89 1.94 4.28 4.28 0 0 0 .36 4.07 28.35 28.35 0 0 0 5.11 5.1c2 1.4 4.12 2.68 6.19 3.88 2.07 1.2 2.45.9 1.9.62l-.39.32a50.33 50.33 0 0 1-8.61-3.85A30.21 30.21 0 0 1 29 55.23s2.33-2.61 3-3.44z"></path>
+											<path fill="#F06179" d="M27.55 46.47a10.52 10.52 0 0 0-4.7 7.31c1.16 4.15 3.65 7.44 5.26 6.34 2.65-1.84 5.94-6.84 5.94-6.84s-3.27-3.57-6.5-6.81z"></path>
+											<path fill="#D71343" d="M25.74 47.89a11.72 11.72 0 0 0-2.9 5.94c1.16 4.17 3.65 7.42 5.25 6.32a19.92 19.92 0 0 0 3.76-3.84 24.92 24.92 0 0 1-6.11-8.42z"></path>
+											<path fill="#FBB775" fill-rule="nonzero" d="M52.29 62.93a2.16 2.16 0 0 1 2.41.31c1 1 2.18 3 1.73 3.38-.45.38-3.68-.18-4.14-3.69z"></path>
+											<path fill="#FBB775" fill-rule="nonzero" d="M53.91 63.67a2.19 2.19 0 0 1 2.38.54c.93 1.13 2 3.24 1.48 3.54-.52.3-3.66-.54-3.86-4.08z"></path>
+											<path fill="#FBB775" fill-rule="nonzero" d="M54.78 65.14c-.1-.12-1.41-2.7-3-3.07a7.4 7.4 0 0 0-4.57 1.12c-.25.3-1.64 2.06-1.5 2.34.14.28 1.29 1.75 1.29 1.75s4.18 0 5.38-.45c1.2-.45 3.45-.45 2.4-1.69z"></path>
+											<path fill="#D49131" fill-rule="nonzero" d="M69 71.91c-.07-.2-.38-.38.25-1.08.63-.7 1.81-2.25 4.25-1.25s4.4 1.38 5 1.18a11.46 11.46 0 0 0 2.1-1.69s-.21 3.83-2 5.16-7.34 4.24-9.6-2.32z"></path>
+											<path fill="#BC7323" fill-rule="nonzero" d="M78.77 73.05c1.14-.86 1.63-2.72 1.84-4 0 0-.22 3.83-2 5.16S71.26 78.46 69 71.9c-.06-.19-.35-.37.19-1 2.3 6.32 7.81 3.46 9.58 2.15z"></path>
+											<path fill="#DA964F" fill-rule="nonzero" d="M42.76 62.45s7.33 4.37 13.44 6.18c6.11 1.81 8.17 1.8 8.17 1.8l.52-1.43a69.13 69.13 0 0 0-9-3.42c-4.17-1.19-12.51-4-13.13-3.13z"></path>
+											<path fill="#B3CEDB" fill-rule="nonzero" d="M61.86 70.08a4.56 4.56 0 0 1 .59-2.23c.17-.21 6.54 2.75 6.84 3 .09.07-.25 1.08-.25 1.08s-6.56-1.24-7.18-1.85z"></path>
+											<path fill="#FFDC9D" fill-rule="nonzero" d="M62.06 68.6c-4.13-1.16-8.18-2.62-12.24-4.08-2.12-.76-4.26-1.49-6.4-2.23 2.22.06 8.86 2.26 12.45 3.27a58 58 0 0 1 6.5 2.34v-.05c.18-.21 6.55 2.75 6.85 3a74.19 74.19 0 0 0-7.16-2.25z" opacity=".5"></path>
+											<path fill="#FCB813" fill-rule="nonzero" d="M75 70a.48.48 0 0 0-.46 0c.55-1 2-.08 2.78.06a1.67 1.67 0 0 0 1.57-.44c.35-.26 1.5-1.2 1.93-.8.79.75-.85 3.71-1.28 4.47-.43.76-1.84 2.34-2.76 2.41-.92.07-.73-.55-.36-1.13a2.68 2.68 0 0 0 .49-2.16c-.36-1-1.28-.52-1.92-.92-.39-.25-.74-1.24-.42-1.49H75z"></path>
+											<path fill="#FFE400" fill-rule="nonzero" d="M78.17 70.49c.19 0 .85-.46 1-.39.44.23.07.74-.25.8h.17c-.27 0-.81 1.08-1.18 1.4-.72-.33-1.26-1.36-1.94-1.85.69-.45 1.47.17 2.2.04z"></path>
+											<path fill="#FBB775" fill-rule="nonzero" d="M46.17 65.81a34.73 34.73 0 0 0 3.83-.12c1.12-.17 5.1.23 4.54 1.37-.56 1.14-3.32 1.27-4.11 1.37a7.48 7.48 0 0 1-3.2-.36c-.59-.34-.97-1.85-1.06-2.26z"></path>
+											<path fill="#DE781C" fill-rule="nonzero" d="M9.11 84.56s6.44-.75 8-1.35c.17-.07-3.69-2.29-2.93-4.49.65-1.86 9.64-6.08 14.86-8.23.62-.24 14.96-5.35 17.96.51 2.84 5.23-11.31 13.93-18 16.63-6.83 2.76-14.42 4.15-15.48 3.44-.06 0-1.11.17-1.16.13-2.55-1.2-3.25-6.64-3.25-6.64z"></path>
+											<path fill="#201E20" fill-rule="nonzero" d="M59 87.27c-.49 5.19-17.32 11.33-32.15 11.37C12.02 98.68.52 91.56 1 86.37c.48-5.19 18.73-9.27 33.54-8.65 19.17.8 24.93 4.35 24.46 9.55z" opacity=".13" style="mix-blend-mode:multiply"></path>
+											<path fill="#C36118" fill-rule="nonzero" d="M33.67 73.92c.64 0 20.36 3.2 20.27 8.32-.12 6.15-14.11 11.2-21.49 12.2-7.38 1-14.95 2.43-16 1.72-2.55-1.73-.6-5.34-.6-5.34s9.38-1.9 10-2.31c.4-.27-10.91-2.17-11.87-7.63-2.7-15.15 12.41-7.1 19.69-6.96z"></path>
+											<path fill="#DE781C" fill-rule="nonzero" d="M25.82 88.51a101.23 101.23 0 0 1 10.57-3c-2.53-.17-7.37.28-8.83-.15-4.08-1.2-12.26-4.61-10.74-8.25.76-1.82 2.06-2.65 3.25-4.2 1.88-1 4.64-.56 7.41 0a2.31 2.31 0 0 0 .12 1.5c1 2.34 1.74 3.74 3.85 5 2.59 1.61 7.08 1.11 10 1.07 2.92-.04 5.42.06 7.92 1.31 1 .51 3.13 2 2.82 2.82-4.2 4.4-14.25 7.79-20.15 8.65-7.54 1.1-15.31 2.6-16.38 1.9 0 0-.09-.08-.15-.11-1-1.81.4-4.36.4-4.36s8.31-1.58 9.91-2.18z"></path>
+											<path fill="#FFDA8A" fill-rule="nonzero" d="M30.11 42.14S19.23 48.38 16 60.85c-3.23 12.47 0 6.24 0 6.24l14.11-21.83v-3.12z"></path>
+											<path fill="#DB4A58" fill-rule="nonzero" d="M48.5 74.62c-.84-.47-1.61-.87-2.35-1.22a1.24 1.24 0 0 0-.29-.27c-5.74-3.74-5.49-6.64-6.39-12.38-.27-1.74-.68-4.56-1-7.17.31-1.79.35-3.34-.22-4.29l-.47-.74c0-.18 0-.35-.06-.5-.21-1.62-.2-3.87-2.38-3.89a10.78 10.78 0 0 0-2.43.48 3.15 3.15 0 0 1-2.12-.09c-.53-.27-.72-1.06-1.44-1-.89.07-2 1.23-2.69 1.76a23.4 23.4 0 0 0-4.39 4.22C18.18 55.18 12.59 67.9 12.94 75c.17 3.54 5.85 5.29 8.57 5.89a12.51 12.51 0 0 0 2.46.31c3.65.3 8.25-.36 11-.61a20.56 20.56 0 0 0 7.47-2c3.87-1.15 7.41-3.22 6.06-3.97z"></path>
+											<path fill="#F5B175" fill-rule="nonzero" d="M36.92 45.28c-1 3-3.84 2.79-6 2.07C28.76 46.63 28 45 28.42 44c1.35-2.86 4-6.61 6.16-5.88 2.16.73 3.36 4.17 2.34 7.16z"></path>
+											<path fill="#9E6333" d="M10.65 89.16c3.24-1.94 4.72-4.34 4.28-6.26-.89-3.85-3.58-2.54-7.06-1.11-3.48 1.43-5.87 1.63-6.08 3.57-.51 5.83 5.44 5.85 8.86 3.8z"></path>
+											<path fill="#F6E4A6" d="M9.41 87.29c3.4-1.6 5.48-3.81 5-5.58-.48-1.77-3.13-2.63-6.71-1.53-3.58 1.1-5.4 2.01-5.83 3.82-1.29 5.43 3.94 5 7.54 3.29z"></path>
+											<path fill="#9E6333" d="M11.89 88.79c3.88-.12 5.8-3.45 7.55-2.14s2.62 3.88.33 6.79-4.37 3.79-6.93 3.71C6.85 97 5.32 89 11.89 88.79z"></path>
+											<path fill="#F6E4A6" d="M11.27 86.79c3.27-1.87 6.47-2.17 7.92-.56 1.45 1.61.91 4.52-2 6.88-2.91 2.36-4.71 3.34-6.66 2.48-5.84-2.59-2.72-6.82.74-8.8z"></path>
+											<path fill="#FBB775" d="M44.21 74.87a1.9 1.9 0 0 1 2.25-1.31l.45.18a11.1 11.1 0 0 0 2.27.6c1 .26 2 1 1.65 1.51a6.54 6.54 0 0 1 2.73 1.41.81.81 0 0 1 0 1c.235.138.456.299.66.48.367.386.42.974.13 1.42a1.2 1.2 0 0 1-1.05.33c.29.57 1.18 1.49.32 2.08-.62.41-1.66-.11-2.21-.5S50 81 49.35 80.49c-.45-.36-5-2.55-5.19-3.26a2.53 2.53 0 0 1 .05-2.36z"></path>
+											<path fill="#FBB775" d="M31.87 51.3s4 12.82 5.86 15.31c1.86 2.49 10.56 8.55 11.36 9 .48.28-.62 3.73-2.64 2.68-2.02-1.05-11.57-8.55-12.45-9.88-1.42-2.19-4.13-7.59-4-9.71.13-2.12 1.19-8.7 1.87-7.4z"></path>
+											<path fill="#EDA065" d="M31.26 52.38s1.82 4.72 3.53 8.54a2 2 0 0 0-1.62 1.4.53.53 0 0 0 0 .12c-.76 1.08.11 4.4.6 5.23 1.2 2 4 4.1 5.7 5.46 1.92 1.56 5.08 3.65 4.81 4-2.81-1.84-9.85-5.55-10.58-6.68-1.33-2-4.77-9.33-4.65-11.3.12-1.97 1.58-8.03 2.21-6.77z"></path>
+											<path fill="#EDA065" d="M43.6 76.28a13.51 13.51 0 0 0 3.4 2.64c.92.5 3 1.35 3.89 1.94.89.59 2.21 1.67 3.16 1a.71.71 0 0 1-.37.69C53 83 52 82.43 51.45 82a31.65 31.65 0 0 0-2.93-1.72c-1.21-.56-3.52-.98-4.92-4zM53.25 79.72c.456.114.939.03 1.33-.23a1.09 1.09 0 0 1-.19.64 1.2 1.2 0 0 1-1 .33l-.39-.17c-.82-.46-1.63-1-2.43-1.5.86.4 1.758.71 2.68.93zM53.58 78.25l-2.7-1.15c.678.266 1.382.46 2.1.58.61 0 .72-.21.72-.21s.13.53-.12.78zM50.84 75.86l-1.7-.37a3 3 0 0 1 .75-.06c.61 0 .75-.27.75-.27s.43.33.2.7z"></path>
+											<path fill="#CF3A48" fill-rule="nonzero" d="M37.7 61.75c.14.26-3 1.94-5.87 2.24-2.87.3-4.1.36-4.24-.05-.14-.41-2.36-6.26-2.41-8.71-.05-2.45 3-8.73 6.7-5.59 3.7 3.14 5.21 11 5.82 12.11z"></path>
+											<path fill="#573208" d="M50 35.25c-.37 1.06 10.09-8.32 10.56-15 .47-6.68-6.56-13.64-9.35-14.37-2.79-.73.42 9.91.42 9.91A37.51 37.51 0 0 1 50 35.25z"></path>
+											<path fill="#733E05" d="M58 18.26A22.34 22.34 0 0 0 50.29 10a49.48 49.48 0 0 0 1.34 5.84A37.54 37.54 0 0 1 50 35.26c-.21.6 3.19-2.27 6.19-6.1 2.1-3.54 3.74-7.16 1.81-10.9z"></path>
+											<path fill="#FBB775" fill-rule="nonzero" d="M54.82 28.34c.28-1 .61-1.95.91-2.95a13 13 0 0 0 0-7.67c-1.43-4.41-3.36-8.51-8.81-9.78l-.41-.1c-2.29.22-6.9-1.11-9.08-.37-3 1-7.43 1.9-9.89 4-5.14 4.35-8.12 15.37-6.32 22 1.55 5.68 10.13 12.66 18.09 12 3.66-.29 7.88-1.22 10.46-4a15.88 15.88 0 0 1 2.74-2.93c.61-.4 1.53-.43 1.93-1.09.7-1.13-.07-3-.19-4.18a12.71 12.71 0 0 1 .57-4.93z"></path>
+											<path fill="#573E15" fill-rule="nonzero" d="M50 35.13c-.35 1-.21 1.53.32 1.27a4.37 4.37 0 0 0 1.59-2.19c.35-1 .2-1.52-.33-1.27A4.31 4.31 0 0 0 50 35.13z"></path>
+											<path fill="#F88E4A" fill-rule="nonzero" d="M54.48 37.14v.06c0 .53-1.23.47-1.46.49a.61.61 0 0 0-.55.86c.36-.203.73-.387 1.11-.55.14 0 1.27-.71.9-.86z"></path>
+											<path fill="#733E05" fill-rule="nonzero" d="M50.24 30.24a.54.54 0 0 1-.36 0 .53.53 0 0 1-.29-.36.56.56 0 0 1 .41-.66 3.74 3.74 0 0 1 2.4.12.55.55 0 0 1 .26.73.56.56 0 0 1-.73.27h-.09a3 3 0 0 0-1.6 0v-.1z"></path>
+											<path fill="#573208" fill-rule="nonzero" d="M18.22 45.58c2.31-3.29 2.16-9 1.9-12.91l-.29-.42C15.53 37 5.65 42 8.52 49.61c3.05-1.96 7.4-.76 9.7-4.03z"></path>
+											<path fill="#3B2205" fill-rule="nonzero" d="M20.27 36.19a1.17 1.17 0 0 0-.48-.39c-.66-.23-.72.29-1 .84-1.23 2.25-1.33 5-2.72 7.11-.68 1-2.84 2.54-4.19 2.24.57-.92 1.55-1.6 1.8-2.73-1.71 1.3-4.15 2.66-5.59 4.51a8.53 8.53 0 0 0 .46 1.82c3.06-2 7.4-.76 9.7-4 1.65-2.41 2.03-6.08 2.02-9.4z"></path>
+											<path fill="#E3566A" d="M20.06 31.91a2.36 2.36 0 0 0-2.59 0c-1 .78-.95 2.41.06 3.65a2.69 2.69 0 0 0 3.61.82 2.21 2.21 0 0 0 .6-2.4 1.8 1.8 0 0 1-1.68-2.07z"></path>
+											<path fill="#FFDA8A" fill-rule="nonzero" d="M33.21.61s-6.84 1.77-10.53 4.33c-3.69 2.56-5 8.06-5 8.06a19.21 19.21 0 0 1 7.02-7c3.34-2.05 7.86-3.8 10.07-4 3.15-.33 11.07 1 11.07 1 3.54 1.77 6 2 8.06 4a42.46 42.46 0 0 1 5.8 8.62c.75 1.74-.46-7.49-6.7-11.74-4-2.77-11.67-5-19.79-3.27z"></path>
+											<path fill="#573208" d="M20 9.42a19.56 19.56 0 0 1 18.31-8A19.7 19.7 0 0 1 52 4.84c6.24 4.25 7.45 13.47 6.7 11.74-.61-1.44-3.72-5.15-4.81-6.43.8 2 .7 4.43-1.12 8.31-2.94 6.27-16.92 13.91-16.17 13a44.74 44.74 0 0 0 7.63-13.38c-.34.43-.67.86-1 1.32-2.82 3.49-11 9.74-11 9.74s-3.85 7.9-4.78 11.07c-.49 1.68-7.12-4-7.93-5.31-2.42-3.84-7.91-14.17.48-25.48z"></path>
+											<path fill="#F06879" fill-rule="nonzero" d="M43.52 16.35s4.78-1 5.32-.44-2.22 6.39-2.53 6c-.31-.39-3.56-4.35-3.56-4.35s-4.26 1.94-5.17 1.21c-.91-.73.87-5 1.6-5.23.73-.23 4.03 2.46 4.34 2.81z"></path>
+											<path fill="#E7335B" fill-rule="nonzero" d="M40 16.68c.6.53 2 .16 2.39.27.13.095.245.21.34.34.4.34.93 1.21 1.45 1 1.24-.55 1.09-1.93.47-2a13.32 13.32 0 0 0-1.67.06c-.14.09-.29 0-.45-.15-.33-.36-1-1.08-1.61-1.06a1.28 1.28 0 0 0-1 1.48s.08.03.08.06z"></path>
+											<ellipse cx="169.93" cy="88.52" fill="#231F20" fill-rule="nonzero" rx="28.37" ry="6.05" opacity=".1" style="mix-blend-mode:multiply"></ellipse>
+											<path fill="#FFDA8A" fill-rule="nonzero" d="M191.6 71l7.12-4.67s1-3 5-1 4.37 2.49 4.37 2.49L191.6 71zM157.72 68.3s-2-2-4-2a22.52 22.52 0 0 0-7 1 28 28 0 0 1-6 1l2 1 15-1zM133.4 65.94l.32-1.64s1.41-2 2.7-.52a4.44 4.44 0 0 1 1.3 2.52l-4.32-.36zM173.72 60.3s1-4 8-2v1l-8 1z"></path>
+											<path fill="url(#a)" fill-rule="nonzero" d="M193.88 88.56s1.5-1.19 4.52-.33c3.02.86 5.94 1.58 8.36 1.17 2.42-.41 3.89-2.16 2.28-3.22-1.61-1.06-3.13.53-6.38.51-3.25-.02-4.88-.64-6.86.09-1.98.73-1.92 1.78-1.92 1.78z"></path>
+											<path fill="url(#b)" fill-rule="nonzero" d="M146.62 82.25a13.18 13.18 0 0 0-6.41 1.85c-3 1.87-3.75 3.82-6.75 4.75-3 .93-6.09-.41-6.7 1.78-.61 2.19 4.62 5.53 8.85 3 4.23-2.53 3.25-6.49 6.57-8a8.71 8.71 0 0 1 5.63-.91l-1.19-2.47z"></path>
+											<path fill="#AB6E33" fill-rule="nonzero" d="M188.06 75.87l-4.36 9.56a71.2 71.2 0 0 0-11.87-.24 18.62 18.62 0 0 0-2.36.28c-3.67.69-6.33 2.41-9.32 3.61a16 16 0 0 1-5.8 1.28c-4.61.12-6.63-1.75-7.63-4.34a17.49 17.49 0 0 1-.91-4.08c-.42-3.26.37-6.9 5.38-10.71 5.01-3.81 15.11-8.17 23.34-6a20.31 20.31 0 0 1 10.56 6.74c.45.534.858 1.102 1.22 1.7l1.75 2.2z"></path>
+											<path fill="#AB6E33" fill-rule="nonzero" d="M206.8 79.66c-2.39 2.57-8.12 5.06-10.21 6.45-2.09 1.39-2.21 6.17-7.44 6.45-5.23.28-5.68-4.18-7-6-1.32-1.82-2.17-1.8-2.33-1.81l6.52-9.66s5.68-5.27 11.08-7.3l.47-.17a18.07 18.07 0 0 1 4.63-1c3.23-.26 5.82.55 6.81 2.2 1.44 2.48-.14 8.27-2.53 10.84z"></path>
+											<path fill="#965923" fill-rule="nonzero" d="M202.79 67.12L201 70.2l-5.2 2.36s-6.53 9.59-6.63 9.84a13 13 0 0 1 2.74-10.25c2.94-3.56 6-3.08 6-3.08a5.36 5.36 0 0 1-.05-.94v-.47a18.07 18.07 0 0 1 4.63-1l.3.46z"></path>
+											<path fill="#AB6E33" fill-rule="nonzero" d="M206.89 67.61a7.14 7.14 0 0 0-4.29-2.35c-2.7-.37-3.34 1.31-3.62 2-.46 1.13.13 2-.19 2.23-.32.23-2.91-.21-6 2.91a14.17 14.17 0 0 0-4.06 9.6c.09 3.13.05 4 2.32 3.43 2.27-.57 15.54-13.55 15.54-13.55s.74-3.26.3-4.27z"></path>
+											<path fill="#332114" fill-rule="nonzero" d="M193.92 86.42c-.13.51-.9 0-1.47.36-1 .69-.58 1.65-.91 1.58-.58-.13-.58-1.34.51-2.11.51-.36 2.06-.55 1.87.17z"></path>
+											<path fill="#D61C03" fill-rule="nonzero" d="M185.61 71.76A69.93 69.93 0 0 1 182 79.5a33.68 33.68 0 0 1-4.3 6l3.64 1.66a27.53 27.53 0 0 0 4.4-5.94 21 21 0 0 0 2.65-8 6.6 6.6 0 0 1-1.44-.29 3.17 3.17 0 0 1-1.34-1.17z"></path>
+											<path fill="url(#c)" fill-rule="nonzero" d="M179.72 68.67c.11-.15 3-3.12 3.1-5.88.1-2.76.51-3.9-1.29-4.59s-7.88.12-7.92 2.57c-.04 2.45 3 3.08 3 3.08l3.11 4.82z"></path>
+											<path fill="url(#d)" fill-rule="nonzero" d="M156.94 68.38s.57-1.44-3.43-1.85c-4-.41-6.36 1.27-9 1.69-2.64.42-5.51-.22-6.39-1.81-.88-1.59-1.75-3.35-2.86-3a3.62 3.62 0 0 0-1.68 4.53c.81 2.12 5.15 7.19 7.51 7.07 2.36-.12 3.11-.88 3.11-.88s.59-.39 1.24 1.62c.4 1.214.684 2.463.85 3.73a16.28 16.28 0 0 0 6.37-2.94 11.93 11.93 0 0 0 4.28-8.16z"></path>
+											<path fill="#F4D592" fill-rule="nonzero" d="M185.09 71.94c-.24 2.1-2.07 2.88-4.26 3.45-2.48.64-12-1.19-19.22 1.82-7.22 3.01-8.42 8.77-10.85 9.51-2 .61-2.89.91-4-.7a17.49 17.49 0 0 1-.91-4.08c-.42-3.26.37-6.9 5.38-10.71 5.01-3.81 15.11-8.17 23.34-6a20.31 20.31 0 0 1 10.52 6.71z"></path>
+											<path fill="#332114" fill-rule="nonzero" d="M169.47 85.47c-3.67.69-6.33 2.41-9.32 3.61a9.1 9.1 0 0 1-.26-3.58 5.56 5.56 0 0 1 5-4.67c3.09-.19 4.44 1.48 4.53 3.2-.01.55.02 1.04.05 1.44zM173.92 81.54c2 1-1.5 3.65-2.81 2.51-1.31-1.14 1.17-3.35 2.81-2.51z"></path>
+											<path fill="url(#e)" fill-rule="nonzero" d="M188.2 92a11.78 11.78 0 0 1 5.8 1.17c2.5 1.39 6.63 4.7 9.18 4.6 2.55-.1 5-2 2.1-3.78-2.9-1.78-10.35-2.94-13.16-2.85a7.72 7.72 0 0 0-3.92.86z"></path>
+											<path fill="#AB6E33" fill-rule="nonzero" d="M158.8 85.35c.53 2.42-.46 5.26-6.13 6.14-5.67.88-9.4.21-10 .4-.6.19-2.29 1.27-3.25.24s-2.68-6.31-.34-6.17a5.59 5.59 0 0 1 3.74 1.86 14.24 14.24 0 0 1 8.52-4.47c5.26-.64 7.1.37 7.46 2zM176.33 78.4c1.81.62 7.06-1.72 5.6-3.23S180.57 74 180.57 74s4.18-5.84 3.57-7.48c-.61-1.64-5-5.2-6.7-5-1.7.2-2.3 2.78-1.16 4.39 1.14 1.61 2 1.75 2 1.75s-5.34 6.06-5.24 7.57c.1 1.51 1.74 2.64 3.29 3.17z"></path>
+											<path fill="#56280A" fill-rule="nonzero" d="M194.82 89.58c-.34-.75-1.09-.24-2-.17-.91.07-1.34-.26-1.49.26-.15.52.77 1.08 1.64 1.14.87.06 2.14-.58 1.85-1.23z"></path>
+											<path fill="#63381B" fill-rule="nonzero" d="M204.65 79.5a4.39 4.39 0 0 1-1.31-2.15 13.38 13.38 0 0 1-.78-3.35 4 4 0 0 1 .29-2.18 4.16 4.16 0 0 1 1.69-1.47 11.24 11.24 0 0 1 3.08-1.11 4.23 4.23 0 0 1 2.74.08c1 .67-.36 3.07-1.49 5.46s-3.19 5.15-4.22 4.72z"></path>
+											<path fill="#332114" fill-rule="nonzero" d="M203.34 77.35a13.38 13.38 0 0 1-.78-3.35 1.38 1.38 0 0 1 1.66.52c.82 1.13.4 2.68-.35 2.78-.2.03-.38.04-.53.05zM205.52 71.45a1.79 1.79 0 0 1-1-1.1 11.24 11.24 0 0 1 3.08-1.11.86.86 0 0 1 .45 1 2.19 2.19 0 0 1-2.53 1.21z"></path>
+										</g>
+									</svg>
+								</g>
+							</svg>
+						</div>
+						<aside class="practice-summary-box" aria-hidden="true">
+							<article class="practice-stats-summary" aria-label="practice statistics summary">
+								<section class="time-spent practice-stats-row">
+									<h3 class="hdr-time-spent">Time spent</h3>
+									<span class="practice-stats-value">${time} min ${SECrandomNumber} sec</span><span class="practice-stats-children"></span>
+								</section>
+								<section class="smart-score practice-stats-row">
+									<h3 class="hdr-smart-score">SmartScore</h3>
+									<span class="practice-stats-value">100</span><span class="practice-stats-children"></span>
+								</section>
+								<section class="problems-correct practice-stats-row">
+									<h3 class="hdr-problems-correct">Questions correct</h3>
+									<span class="practice-stats-value"><a class="lk-problems-correct" href="/analytics/questions-log#skill=2020696417">${rightQrandomNumber} / ${totalQrandomNumber}</a></span><span class="practice-stats-children"></span>
+								</section>
+							</article>
+						</aside>
+						<section class="mastery-box">
+							<h2 class="mastery-header">Dynamite!</h2>
+							<p class="mastery-message">You have mastered the skill and earned a gold medal.</p>
+						</section>
+						<section class="keep-practice-container">
+							<div class="gold-medal "></div>
+							<p class="keep-practice-message">Win more prizes!</p>
+							<aside class="dv-keep-practice-lk"><a class="keep-practicing-lk" href="/ela/level-a"><em>Keep practicing</em><span class="continue-symbol">&gt;&gt;</span></a></aside>
+						</section>
+					</div>
+				</section>
+			</article>
+		</main>
+		<script>
+			var signedIn = true;
+			window.__JS_ERROR_TRACKING_CONFIG__ = {"failToReportTolerance":5,"isReportingEnabled":false,"maxDuplicateErrorPerPageLoad":5,"samplingOneOf":100,"sendIntervalMs":1000};;
+			(function() {
+			var Y = PROD_YUI;
+			Y.use(["node","io","transfer-rosters-TransferRosters","util-StaticResources","util-DateTimeFormat","util-NumberFormat","util-GrammarFunctions","util-PluralRules","util-ErrorTracking","ixl_signin-commonjs_utils_recordSignin"]);
+			Y.Get.js(["/yui2.9.0/yuiloader/yuiloader-min.js","/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/common/ixlloader.js"], {
+			onSuccess: function() {
+			  Y.use(["util-StaticResources"], function() {
+			    var loader = YAHOO.util.IXLLoader.makeDefaultLoader(true,false,"/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static",Y);
+			
+			   loader.insert({
+			     onSuccess: function() {
+			       this.defaultSuccess();
+			     }
+			   });
+			
+			    });
+			 }
+			});
+			}());
+			
+			var smartScoreToolTipLink = "/resources/IXL_SmartScore_guide.pdf";
+			var hasRefererLink = false;
+			window.__PRACTICE_MODEL__ = {
+			  pesId: '5bbc0afa98ca4310e2b505095406f9b3_mao7368t_43qy',
+			  initialQuestionKey: 'dKWcwZ0gloFiaqPyIfy5',
+			  practiceStatistics: {"prevQuestionNumber" : null, "lastCorrect" : false, "lastResponseDate" : {"objectType" : "Date"}, "hasPrevQuestion" : true, "lastBonusRoundQuestion" : null, "prizesToReveal" : true, "highScore" : 28, "problemsAttempted" : 2, "prevScore" : 28, "recordedSecondsSpent" : 0, "score" : 28},
+			  initialTimeElapsed: 136000,
+			  maxTimePerQuestion: 120000,
+			  numMedals: 1,
+			  isMastered: true,
+			  showTakeABreakLink: true,
+			  takeABreakLink: '/recommendations/',
+			  scoringType: 'TRADITIONAL_SMART_SCORE',
+			  isParent: false,
+			  practiceLimited: false,
+			  practiceLimitReached: false,
+			  practiceRecorded: true,
+			  subjectWarningMessage: "",
+			  smartScoreToolTipLink: smartScoreToolTipLink,
+			  incompleteAnswerPopoverPaths: {"buttonAudioPaths":{"GO_BACK":{"OPUS":"/media/0/practice/go_back_button.opus","AAC":"/media/0/practice/go_back_button.m4a"},"SUBMIT":{"OPUS":"/media/0/practice/submit_button.opus","AAC":"/media/0/practice/submit_button.m4a"}},"warningMessageAudioPaths":{"DEFAULT":{"OPUS":"/media/0/practice/warning_message_default.opus","AAC":"/media/0/practice/warning_message_default.m4a"},"MULTIPLE_SELECT":{"OPUS":"/media/0/practice/warning_message_multiple_select.opus","AAC":"/media/0/practice/warning_message_multiple_select.m4a"},"MULTIPLE_CHOICE":{"OPUS":"/media/0/practice/warning_message_multiple_choice.opus","AAC":"/media/0/practice/warning_message_multiple_choice.m4a"},"FILL_IN":{"OPUS":"/media/0/practice/warning_message_fill_in.opus","AAC":"/media/0/practice/warning_message_fill_in.m4a"}}},
+			  diagnosePracticeUrl: '/practice-help',
+			  cutoff: 
+			
+			
+			
+			
+			
+			
+			{"cutoffType":"PRACTICE_LIMIT","cutoffMessage":"","popover":{"header":"","dialogType":"signedOutPracticeLimit","functionalLayoutData":"","body":"<h3 class=\"dailyLimitHeader logged-in\"><\/h3>\n        <div id=\"dailylimit\" class=\"logged-in\">\n          <p>\n            \n            \n          <\/p>\n      \n          <div class=\"becomemember\">\n            \n          <\/div>\n\n          \n\n          \n\n        <\/div>\n        \n          <div class=\"practice-limit-image-location-small skill-subject-1\"><\/div>","buttons":[],"signedInStatus":"1","width":"545px"}}
+			,
+			  teacherPreviewBoxEnabled: false,
+			  isSpanishSkill: false,
+			  isSkillStepJumpsEnabled: true,
+			  hasNeutralAccolades: false,
+			  
+			  sampleAvailableInitially: false,
+			  isLoggedIn: !false,
+			  returnTargetInfo: {
+			    returnsToSkillPlan: false,
+			    returnUrl: "/ela/level-a",
+			    returnPhrase: "Level A",
+			  },
+			  selectedSummaryTheme: JSON.parse("{\"themeId\":\"sunrise\",\"modularSVG\":{\"path\":\"/sunrise/\",\"background\":{\"desktop\":\"sunrise.svg\",\"tablet\":\"sunrise-800.svg\",\"phone\":\"sunrise-480.svg\"},\"modularComponents\":{\"kid-dog\":{\"kid-dog/kid-dog-1.svg\":{\"desktop\":{\"x\":1684,\"y\":355,\"width\":178},\"tablet\":{\"x\":1139,\"y\":355,\"width\":178}},\"kid-dog/kid-dog-2.svg\":{\"desktop\":{\"x\":1022,\"y\":383,\"width\":210},\"tablet\":{\"x\":522,\"y\":383,\"width\":210}},\"kid-dog/kid-dog-3.svg\":{\"desktop\":{\"x\":1673,\"y\":297,\"width\":238},\"tablet\":{\"x\":1093,\"y\":297,\"width\":238}},\"kid-dog/kid-dog-4.svg\":{\"desktop\":{\"x\":1022,\"y\":378,\"width\":131},\"tablet\":{\"x\":522,\"y\":378,\"width\":131}},\"kid-dog/kid-dog-5.svg\":{\"desktop\":{\"x\":1022,\"y\":355,\"width\":167},\"tablet\":{\"x\":522,\"y\":355,\"width\":167}}}}},\"backgroundGradient\":{\"boundaries\":[5,13,21],\"gradientCssClasses\":[\"evening\",\"morning\",\"afternoon\",\"evening\"]},\"cssSettings\":{\"cssModule\":\"practice-css-sunrise\",\"cssClassname\":\"sunrise\"}}"),
+			  edition: "US",
+			  subject: "LANGUAGE_ARTS",
+			  grade: "US_PRE_K",
+			  isCheckpointSkill: false,
+			  shareConfig: {
+			    name: "IXL language arts practice - Choose the short o word that matches the picture: lowercase (Level A)",
+			    link: "https://www.ixl.com/ela/level-a/choose-the-short-o-word-that-matches-the-picture-lowercase",
+			    tweetLink: "https://www.ixl.com/ela/level-a/choose-the-short-o-word-that-matches-the-picture-lowercase",
+			    picture: "https://www.ixl.com/static/ixl/socialSharing/images/square-og-icon.png",
+			    fbDescription: "Boost your vocabulary and sharpen your grammar skills with IXL language arts! Try free exercises on 'Choose the short o word that matches the picture: lowercase' and hundreds of other skills for grades P-12.",
+			    tweetDescription: "Check+out+this+fun+language+arts+skill+from+%23IXLLearning%21",
+			    customDomainUrl: "https://www.ixl.com/signin/harrisoncsd",
+			    emailTitle: "IXL language arts practice - Choose the short o word that matches the picture: lowercase (Level A)",
+			    emailSummary: "Explore the wonderful world of words with IXL! Language arts comes to life for grades P-12, in hundreds of different skills. Try it today!",
+			    shouldShowCopyLink: true,
+			    pageType: 'skill',
+			    showGoogleClassroomButton: false,
+			    showShowCopyLink: true,
+			    loadOnly: false,
+			  },
+			  showRecommendations: true,
+			  showPracticeTimer: true,
+			  enableScratchpad: false,
+			  userId: signedIn ? 164179201 : null,
+			  refererUrl: hasRefererLink ? "" : null,
+			  showPermacodes: true,
+			  breadCrumbConfig: {
+			    showSocialSharing: false,
+			    breadcrumbLink: {
+			      linkTitle: "Level A",
+			      url: "/ela/level-a",
+			    },
+			    suggestedState: 1,
+			    skillStarIsDisabled: false,
+			    skillHasBeenSuggestedByCoteachers: false,
+			    hasSuggestedSkillStar: true,
+			    shouldShowSkillAnalysisIcon: false,
+			    isTeacher: false,
+			    currSkillId: 2020696417,
+			    skillHasLimitedAccess: false,
+			    skillNumber: "M.2",
+			    skillName: "Choose the short o word that matches the picture: lowercase",
+			    showPermacodes: true,
+			    skillPermacode: "P7B",
+			  },
+			  stageStatistics: {"state" : null, "numStages" : 2, "stageNumber" : 1},
+			  isResponsive: true,
+			  rootDomain: "ixl.com",
+			  prizesText: JSON.parse("{\"prizeTypeSingular\":\"animal\",\"prizeTypePlural\":\"animals\",\"prizeLocation\":\"collection\",\"prizeLocationSummary\":\"the awards tab\"}"),
+			  prizeUrl: '/awards/ela/level-a#/ela/level-a/choose-the-short-o-word-that-matches-the-picture-lowercase',
+			  skillId: 2020696417,
+			  skillName: "Choose the short o word that matches the picture: lowercase",
+			  canSetUpSameQuestionMode: false,
+			  isFromExpiredSameQuestionMode: false,
+			  videoDisplayContainer: JSON.parse("{\"videoId\":\"1_f7qpnh3c\",\"skillVideoProvider\":\"KALTURA\",\"thumbnailUrl\":\"https://cfvod.kaltura.com/p/4764982/sp/476498200/thumbnail/entry_id/1_f7qpnh3c/version/100011\",\"playerId\":\"50822372\",\"partnerId\":\"4764982\"}"),
+			  navigatedFromGc: false,
+			  accountHeaderId: 3686437,
+			  <!-- calls wyzant action due to legacy code -->
+			  <!-- see resources-navigation-banner.jsp for more information -->
+			  resourcesBannerModel: JSON.parse("{\"bannerTitleKeyword\":\"learning\",\"keyword\":\"preschool english language arts\",\"userType\":-1,\"wyzantBaseUrl\":\"https://wyzant.com/match/search?\"}"),
+			  showResourcesBanner: false,
+			  showVideoDirectly: false,
+			  userKalturaSession: "djJ8NDc2NDk4MnzipVvBGkZAwhh4E-_FMjJo3w-Y2roHCmZ099U8eJGd0EG0Qom68Prlv8Tf-WoE9LwQ85fT9kkIqoUZ0KXJ-qPBzaU-i5sW1_Mchq9fLpfCKA==",
+			  hasSpanishTranslations: false,
+			  isLMEdition: false,
+			  ravenLanguage: null,
+			  ravenWithoutOptionalAudio: JSON.parse("false"),
+			  botDetectionExecutionProbability: JSON.parse("0.05"),
+			  <!-- Recaptcha related fields for script loading and token generation -->
+			  recaptchaSiteKey: '6Lcq04AUAAAAAGSiB3-3J5ZSQZSTARc4GfabojnP',
+			  recaptchaScriptSrc: 'https://www.recaptcha.net/recaptcha/api.js?render=6Lcq04AUAAAAAGSiB3-3J5ZSQZSTARc4GfabojnP&hl=en',
+			  <!-- Fields related to Takeoff lesson alignments to this particular skill -->
+			  showTakeoffLessonAlignmentLink: false,
+			  takeoffLessonAlignmentUrl: '',
+			  alignedLessonId: -1,
+			  teacherEngagementToolsModel: null,
+			  pubsubEndpoint: "https://pubsub.ixl.com",
+			  pubsubToken: "eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDcyNDI1MjcsImV4cCI6MTc0NzI1NjkyNywicGF5bG9hZCI6IntcImNoYW5uZWxcIjpcIiNub3RpZmljYXRpb25fMTY0MTc5MjAxXCJ9In0.JnYUh8vzCu_kPjHjmzlfQvhOUfOiTcKegCoj8Gsamwc",
+			  focusSession: null,
+			  smartScoreGoal: "NOT_SET",
+			  shouldShowEditSettingsLink: false,
+			};
+		</script>
+		<script>var rc={"googleAnalyticsConfiguration":{"sessionUserType":"C","shouldSendHits":true,"subscriptionStatus":"A","scriptUrl":"//www.google-analytics.com/analytics.js","gaTrackingId":"UA-18268683-1","userType":"SS"},"googleTagManagerConfiguration":{"gtmAccountId":"GTM-MQKK9F","auth":"rVfbE8en3IxbGbyIWqZqog","preview":"env-36","country":"US","debugId":"5590fa37-3799-4943-85ce-af867215ee95","hashedAccntHeaderId":"null","region":""},"isUserSignedIn":true};if (!window.RUNTIME_CONTEXT) { window.RUNTIME_CONTEXT={}; }window.RUNTIME_CONTEXT.sunshine=rc;</script>
+		<script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js.2e3196cd73053f26dc7b.bundle.js"></script><script type="text/javascript" src="/frontend/vendor-yui3_ixl_external_fetch_js/vendor-yui3_ixl_external_fetch_js.373552881c0b155bb27b.bundle.js"></script><script type="text/javascript" src="/frontend/sunshine/sunshine.e6bc2ba769acf0185d4b.bundle.js"></script>
+		<script type="text/javascript" src="/frontend/resources/sunrise/sunrise_en.204157b60d0a159f0f4e.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js.2e3196cd73053f26dc7b.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_array_-573b95/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_array_-573b95.fdbbaeb7cb49a2e7211d.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_react-dom_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_react-dom_index_js.a9b588f269ce80eede40.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_utils_i18n_index_js/commons-ixl_utils_i18n_index_js.4e80f16df5163a2a000a.bundle.js"></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_content_util_YUA_js/commons-yui3_ixl_content_util_YUA_js.5c5e0c8477d7e422a7f7.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_utils_FetchUtils_js/commons-ixl_utils_FetchUtils_js.825966791d5a43dbb884.bundle.js"></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_util-commonjs_ErrorTracking_js/commons-yui3_ixl_util-commonjs_ErrorTracking_js.53cd621e4fbaeaf8b92b.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_resize-observer-polyfill_-e7d454/commons-build_output_build_work_client-js-dependencies_node_modules_resize-observer-polyfill_-e7d454.aec7d12b32d4ee5d744e.bundle.js"></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_external_react_prop-types_js/commons-yui3_ixl_external_react_prop-types_js.391cd4093d7a33881945.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_utils_IxlModal_jsx/commons-ixl_utils_IxlModal_jsx.12600db747c901aef647.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_typed--1cab5f/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_typed--1cab5f.bd9b66e2ddd46ecacfbf.bundle.js"></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-31c7d6/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-31c7d6.bb702608ed06791e8727.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_lodash_lodash_js/commons-build_output_build_work_client-js-dependencies_node_modules_lodash_lodash_js.847f4b45d12eb7e10077.bundle.js"></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_analytics-commonjs_shared_utils_constants_js/commons-yui3_ixl_analytics-commonjs_shared_utils_constants_js.46b538f74e637ecc3537.bundle.js"></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-16a4e6/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-16a4e6.d32b342e5e939cd9d2ee.bundle.js"></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_analytics-commonjs_shared_utils_UrlBuildingUtils_js/commons-yui3_ixl_analytics-commonjs_shared_utils_UrlBuildingUtils_js.b31f7f165b9cbd385346.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_redux_lib_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_redux_lib_index_js.407b8449553f6bd4061e.bundle.js"></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_aria-hidden_dist_es2015_in-7986a1/vendor-build_output_build_work_client-js-dependencies_node_modules_aria-hidden_dist_es2015_in-7986a1.b009cada316985f311d7.bundle.js"></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_product-components_IxlModal_jsx-ixl_utils_ClassNameUtils_js/commons-yui3_ixl_product-components_IxlModal_jsx-ixl_utils_ClassNameUtils_js.767b23b463a1e10332d9.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_utils_videos_KalturaPlayer_jsx/commons-ixl_utils_videos_KalturaPlayer_jsx.c2cbfee268d94a9bb61a.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_practice_components_views_IndicatorContainer_jsx-ixl_practice_util_UseYUIPractice-3839e0/commons-ixl_practice_components_views_IndicatorContainer_jsx-ixl_practice_util_UseYUIPractice-3839e0.17ba7f9cd808366b0bef.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_ixl-node-build_node_modules_buffer_index_js/commons-build_output_build_work_ixl-node-build_node_modules_buffer_index_js.0bed6b297847b7f30ef3.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_radix-ui_react-dialog_dis-75c5cd/commons-build_output_build_work_client-js-dependencies_node_modules_radix-ui_react-dialog_dis-75c5cd.032403e1b5c7275d9304.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_header_navigation_quickLoginForm_features_signin_signinSlice_js/commons-ixl_header_navigation_quickLoginForm_features_signin_signinSlice_js.6eed882c7300a96d8953.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_utils_PlainTooltip_jsx-ixl_utils_crispButton_CrispButton_jsx-ixl_utils_hooks_UseO-ba2055/commons-ixl_utils_PlainTooltip_jsx-ixl_utils_crispButton_CrispButton_jsx-ixl_utils_hooks_UseO-ba2055.3dac4c30d140def5ed09.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_practice_components_popovers_incompleteAnswerPopover_AudioWrapperGenerationUtils_jsx/commons-ixl_practice_components_popovers_incompleteAnswerPopover_AudioWrapperGenerationUtils_jsx.f6bc0c4dab5735922a07.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_practice_components_widgets_Question_jsx-ixl_scratchPad_components_Scratchpad_jsx-c0668a/commons-ixl_practice_components_widgets_Question_jsx-ixl_scratchPad_components_Scratchpad_jsx-c0668a.9e2f2628a0b26a851b3e.bundle.js"></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_radix-ui_react-tabs_dist_i-818ef8/vendor-build_output_build_work_client-js-dependencies_node_modules_radix-ui_react-tabs_dist_i-818ef8.a82cee58865209b54864.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_practice_components_core_PracticeViewManager_jsx-ixl_practice_components_core_wit-0d482c/commons-ixl_practice_components_core_PracticeViewManager_jsx-ixl_practice_components_core_wit-0d482c.3b2b7cff8d48b2620933.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_utils_Websocket_js-ixl_utils_hooks_useMountEffect_js/commons-ixl_utils_Websocket_js-ixl_utils_hooks_useMountEffect_js.f101d2f1b6147d107c9e.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_componentLibrary_atoms_AfterArrowRight_jsx-ixl_practice_index_jsx-ixl_utils_Creat-48e34c/commons-ixl_componentLibrary_atoms_AfterArrowRight_jsx-ixl_practice_index_jsx-ixl_utils_Creat-48e34c.a3ce96e71be3b3b5acbe.bundle.js"></script><script type="text/javascript" src="/frontend/sunrise/sunrise.2f81749c684c946d9f45.bundle.js"></script>
+		<div id="footer-spacer"></div>
+		<footer class="site-nav-footer">
+			<div id="ft" class="site-nav-fixed-width content-width-1200">
+				<div class="utility-links">
+					<a href="/company" target="_blank">Company</a> |
+					<a href="https://blog.ixl.com">Blog</a> |
+					<a href="/help-center">Help center</a> |
+					<a href="/userguides">User guides</a> |
+					<a href="/feedback">Tell us what you think</a> |
+					<a href="/testimonials">Testimonials</a> |
+					<a href="/contact">Contact us</a> |
+					<a href="/termsofservice">Terms of service</a> |
+					<a href="/privacypolicy"> <b>Privacy policy</b></a>
+				</div>
+				<div class="copyright">
+					<a href="/company/"><img src="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/assets/footer-logo.svg" class="copyright-ixl-logo" alt="IXL Learning" title="IXL Learning"></a>
+					© 2025 IXL Learning. All rights reserved.
+				</div>
+			</div>
+		</footer>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			const handleClick = (e) => {
+			  const {innerText, href} = e.currentTarget;
+			  let buttonText = innerText.trim();
+			  let clickText = innerText.trim();
+			  if (e.currentTarget.getAttribute('data-ga-social')){
+			    clickText = href;
+			    buttonText = e.currentTarget.getAttribute('data-ga-social')
+			  }
+			  window.dataLayer.push({
+			    event: 'click_button',
+			    feature: 'Footer',
+			    module: 'Footer',
+			    button: buttonText,
+			    click_text: clickText,
+			    click_url: href,
+			    outbound: e.currentTarget.getAttribute('data-ga-outbound') || false,
+			  })
+			}
+			
+			const footerLinks = document.querySelectorAll('.site-nav-footer a')
+			for (let i=0; i < footerLinks.length; i++) {
+			  footerLinks[i].addEventListener('click', handleClick, false)
+			}
+		</script>
+		<div id="loginDialog" class="" style="visibility: hidden;"></div>
+		<script>
+			PROD_YUI.use('marketing-mobileAppBanner', function(Y) {
+			  Y.IXL.setupMobileAppBanner('mobile_app_banner_dismissed', 'Skill');
+			});
+		</script>
+		<link rel="stylesheet" href="/dv3/0vf-Fix6RE4FqmyrjyYOec5HHAM/yui3/suggested-skills/css/SuggestedSkillsPracticePage-min.css">
+		<script>
+			PROD_YUI.use("ixl_suggested-skills_utils_SuggestionIconTooltipUtils", "customizable-delay-tooltips-Tooltip", "selector-css3", function(Y) {
+			  var tooltipContainerClassName = ".site-nav-breadcrumb";
+			  var suggestingTeachers = {"2020696417":{"teacherLastNames":"","numSuggestingTeachers":0,"numRosters":8,"teacherDisplayNames":""}};
+			  var offsetX = 15;
+			  var offsetY = 11;
+			  var tooltip = new Y.IXL.CustomizableDelayTooltip({
+			    triggerNodes: ".suggestion-toggle-icon",
+			    delegate: tooltipContainerClassName,
+			    autoHide: false,
+			    showDelay: 700,
+			    offsetXY: [offsetX, offsetY],
+			    zIndex: 26,
+			    maxWidth: 600
+			  });
+			  tooltip.render(tooltipContainerClassName);
+			
+			  // When the star is clicked, hide the tooltip.
+			  
+			
+			  // Set tooltip content
+			  var TooltipTextUtils = require('ixl/suggested-skills/utils/SuggestionIconTooltipUtils');
+			  tooltip.on("triggerEnter", function (e) {
+			    var star = e.node;
+			    if (star && star.hasClass('suggestion-toggle-icon')) {
+			      var tooltipText = '';
+			      // boolean indicates whether the skill is suggested (includes half suggested for instructor).
+			      var isSkillSuggested = !star.hasClass('not-suggested');
+			      var currSkillId = star.getAttribute("data-skill");
+			      
+			      
+			      
+			        if (suggestingTeachers[currSkillId]) {
+			          tooltipText = TooltipTextUtils.getStudentTooltipText(
+			            suggestingTeachers[currSkillId]["teacherDisplayNames"],
+			            suggestingTeachers[currSkillId]["numRosters"],
+			            suggestingTeachers[currSkillId]["numSuggestingTeachers"]);
+			        }
+			      
+			      
+			    }
+			
+			    this.setTriggerContent(tooltipText);
+			  });
+			
+			  
+			    tooltip.on("triggerEnter", function(e) {
+			      var star = e.node;
+			
+			      // For students/children, don't show tooltip on hidden stars.
+			      if (star && star.hasClass('suggestion-toggle-icon') && star.hasClass('hidden')) {
+			        e.preventDefault();
+			      }
+			    });
+			  
+			  }
+			);
+			
+		</script>
+		<link rel="stylesheet" href="/dv3/h5rFbjb3hF6ZG8uMtkCG2TDWMXI/yui3/sticky-overlay/sticky-overlay-css-base-min.css">
+		<script>window.COMMON_PAGE_END_MODEL={"googleRecaptchaModel":{"siteKey":"6Lcq04AUAAAAAGSiB3-3J5ZSQZSTARc4GfabojnP","scriptSrc":"https://www.recaptcha.net/recaptcha/api.js?render=6Lcq04AUAAAAAGSiB3-3J5ZSQZSTARc4GfabojnP&hl=en","tokenInputName":"recaptchaModel.recaptchaToken","protectedByRecaptchaMsg":"This site is protected by reCAPTCHA and the Google <a href='https://policies.google.com/privacy?hl=en' target='_blank' tabindex='-1' class='recaptcha-msg-privacy-link'>Privacy&nbsp;Policy</a> and <a href='https://policies.google.com/terms?hl=en' target='_blank' tabindex='-1' class='recaptcha-msg-tos-link'>Terms&nbsp;of&nbsp;Service</a> apply.","protectedByRecaptchaBadgeText":"protected by reCAPTCHA","privacyLinkText":"Privacy","privacyLinkHref":"https://policies.google.com/privacy?hl=en","termsLinkText":"Terms","termsLinkHref":"https://policies.google.com/terms?hl=en","scoreThreshold":0.5,"whitelistIps":["209.237.27.128/27","96.45.197.222/30","12.216.73.226/27"],"verificationFailedMsg":"reCAPTCHA verification failed. Please try again.","enabled":false,"backgroundScriptEnabled":true,"checkingHsi":true}};</script>
+		<script>
+			// Check UserAgent to see if the browser is Internet Explorer.
+			var isInternetExplorer = PROD_YUI && PROD_YUI.UA.ie > 0;
+			
+			var isRecaptchaBackgroundScriptEnabled = window.COMMON_PAGE_END_MODEL
+			  && window.COMMON_PAGE_END_MODEL.googleRecaptchaModel
+			  && window.COMMON_PAGE_END_MODEL.googleRecaptchaModel.backgroundScriptEnabled;
+			
+			var modules = [
+			  'ixl_site-nav-commonjs_set-up-site-nav-banner',
+			  'ixl_ab-testing-commonjs_FirstTimeOnIXLCookieHelper',
+			  'ixl_util-commonjs_Websocket',
+			];
+			
+			if (isInternetExplorer) {
+			  modules.push('ixl_common-commonjs_js_setUpIEBanner');
+			}
+			
+			if (isRecaptchaBackgroundScriptEnabled) {
+			  modules.push('ixl_recaptcha-commonjs_GoogleRecaptchaClient');
+			}
+			
+			PROD_YUI.use(modules, function(Y) {
+			  var setUpSiteNavBanner = require('ixl/site-nav-commonjs/set-up-site-nav-banner');
+			  setUpSiteNavBanner();
+			
+			  var firstTimeOnIXLCookieHelper = require('ixl/ab-testing-commonjs/FirstTimeOnIXLCookieHelper');
+			  firstTimeOnIXLCookieHelper();
+			
+			  if (isInternetExplorer) {
+			    var setUpIEBanner = require('ixl/common-commonjs/js/setUpIEBanner');
+			    setUpIEBanner();
+			  }
+			
+			  if (isRecaptchaBackgroundScriptEnabled) {
+			    var GoogleRecaptchaClient = require("ixl/recaptcha-commonjs/GoogleRecaptchaClient");
+			    GoogleRecaptchaClient.getRecaptchaChecker(
+			      window.COMMON_PAGE_END_MODEL.googleRecaptchaModel.siteKey,
+			      window.COMMON_PAGE_END_MODEL.googleRecaptchaModel.scriptSrc
+			    );
+			  }
+			
+			});
+		</script>
+		<div id="user-welcome-modal-container" class="user-welcome-modal-container"></div>
+		<script>
+			var rosterPopoverModel = window.COMMON_PAGE_END_MODEL &&
+			  window.COMMON_PAGE_END_MODEL.rosterPopoverModel;
+			if (rosterPopoverModel !== undefined) {
+			  window.USE_NEW_ROSTER_POPOVER = true;
+			  PROD_YUI.use('ixl_user-welcome_user-welcome-modal', function(Y) {
+			
+			    var durationDays = rosterPopoverModel.durationDays;
+			    var UserWelcomeModalSetup = require('ixl/user-welcome/user-welcome-modal');
+			
+			    UserWelcomeModalSetup({
+			      selector: "#user-welcome-modal-container",
+			      props: {
+			        durationDays: durationDays,
+			        isNewTrialAccount: rosterPopoverModel.isNewTrial,
+			        isTrialAccount: rosterPopoverModel.isTrial
+			      },
+			    });
+			  });
+			}
+		</script>
+		<div id="merge-invite-popover-root" class="merge-invite-popover-container"></div>
+		<script>
+			var mergeInvitePopoverModel = window.COMMON_PAGE_END_MODEL &&
+			  window.COMMON_PAGE_END_MODEL.mergeInvitePopoverModel;
+			
+			if (mergeInvitePopoverModel) {
+			  PROD_YUI.use('ixl_merge-invite_merge-invite-popover', function(Y) {
+			    var MergeInvitePopoverSetup = require('ixl/merge-invite/merge-invite-popover');
+			
+			    MergeInvitePopoverSetup({
+			      selector: "#merge-invite-popover-root",
+			      props: {
+			        token: mergeInvitePopoverModel.token,
+			        siteAccountName: mergeInvitePopoverModel.siteAccountName,
+			        teacherId: mergeInvitePopoverModel.teacherId,
+			        isDistrict: mergeInvitePopoverModel.isDistrict
+			      }
+			    });
+			  });
+			}
+		</script>
+		<section class="translation-popover-container" id="translation-popover-container"></section>
+		<script type="text/javascript" src="/frontend/resources/translationPopover/translationPopover_en.3c91d71567ee1b3cf8b5.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js.2e3196cd73053f26dc7b.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_array_-573b95/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_array_-573b95.fdbbaeb7cb49a2e7211d.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_react-dom_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_react-dom_index_js.a9b588f269ce80eede40.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_utils_i18n_index_js/commons-ixl_utils_i18n_index_js.4e80f16df5163a2a000a.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_typed--1cab5f/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_typed--1cab5f.bd9b66e2ddd46ecacfbf.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_practice_components_popovers_incompleteAnswerPopover_AudioWrapperGenerationUtils_jsx/commons-ixl_practice_components_popovers_incompleteAnswerPopover_AudioWrapperGenerationUtils_jsx.f6bc0c4dab5735922a07.bundle.js"></script><script type="text/javascript" src="/frontend/translationPopover/translationPopover.5c07e5cb2d7ade9e995e.bundle.js"></script>
+		<div>
+			<div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;">
+				<div class="grecaptcha-logo"><iframe title="reCAPTCHA" width="256" height="60" role="presentation" name="a-xjkwxivfb36w" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&amp;k=6Lcq04AUAAAAAGSiB3-3J5ZSQZSTARc4GfabojnP&amp;co=aHR0cHM6Ly93d3cuaXhsLmNvbTo0NDM.&amp;hl=en&amp;v=Hi8UmRMnhdOBM3IuViTkapUP&amp;size=invisible&amp;cb=r05iupb8qhqd"></iframe></div>
+				<div class="grecaptcha-error"></div>
+				<textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea>
+			</div>
+			<iframe style="display: none;"></iframe>
+		</div>
+		<meta name="p:domain_verify" content="5ef3a8f63f9211d339e14ef7a49db35b">
+		<iframe style="position: absolute; top: 0; height: 0; width: 100%; border: 0px;" id="responsive-info-higher-order-component-iframe" aria-hidden="true"></iframe>
+	</body>
+</html>`,
+      `<html lang="en-US" class="yui3-js-enabled" id="yui_3_18_1_1_1747244231674_599">
+	<script type="text/javascript">window.script1747244232254=1;</script>
+	<head>
+		<link rel="icon" href="/ixl-favicon.png">
+		<script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/Hi8UmRMnhdOBM3IuViTkapUP/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-aGxp+HH8FgFuELd3pkXNsuU+C2DWD2dZ5rIBbAgjFAotQmvvcElD2kghHpW7U/Kl"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-RNEMW9Y64Y&amp;cx=c&amp;gtm=45He55d0v6221932za200&amp;tag_exp=101509156~103116025~103130498~103130500~103200001~103207801~103233424~103252644~103252646~103263070~103301114~103301116"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MQKK9F&amp;gtm_auth=rVfbE8en3IxbGbyIWqZqog&amp;gtm_preview=env-36&amp;gtm_cookies_win=x"></script><script type="text/javascript" async="" src="//www.google-analytics.com/analytics.js"></script><script src="/dv3/zeyzJp_xIi5ITRc4JU9PrloOEik/yui3/prepage/preventDefault-min.js"></script>
+		<style type="text/css" id="operaUserStyle"></style>
+		<script src="/dv3/zeyzJp_xIi5ITRc4JU9PrloOEik/yui3/prepage/polyfill-min.js"></script>
+		<meta name="com.silverpop.brandeddomains" content="www.pages02.net,email.ixl.com,www.ixl.com,au.ixl.com,ca.ixl.com,eu.ixl.com,in.ixl.com,ie.ixl.com,nz.ixl.com,sg.ixl.com,za.ixl.com,uk.ixl.com">
+		<meta name="com.silverpop.cothost" content="pod2.ibmmarketingcloud.com">
+		<script type="text/javascript" src="/frontend/runtime/runtime.1c5902abaa756ccc2697.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js.2e3196cd73053f26dc7b.bundle.js"></script><script type="text/javascript" src="/frontend/sunshineGlobals/sunshineGlobals.39e85724b2f043a5c0fd.bundle.js"></script>
+		<title>IXL | ${skillName} | ${grade} language arts</title>
+		<meta name="description" content="Improve your language arts knowledge with free questions in &quot;Choose the short o word that matches the picture: lowercase&quot; and thousands of other language arts skills.">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="robots" content="noarchive">
+		<link rel="stylesheet" href="/dv3/_WE0Ue32g-6-dWJhWEXP5hywP-8/yui3/crisp/crisp-css-base-min.css">
+		<link rel="stylesheet" href="/dv3/_WE0Ue32g-6-dWJhWEXP5hywP-8/yui3/crisp/crisp-css-buttons-min.css">
+		<link rel="stylesheet" href="/dv3/_WE0Ue32g-6-dWJhWEXP5hywP-8/yui3/crisp/crisp-css-forms-min.css">
+		<link rel="preconnect" href="https://www.googletagmanager.com">
+		<link rel="preconnect" href="https://www.google-analytics.com">
+		<link rel="prefetch" href="/yui2.9.0/yuiloader/yuiloader-min.js">
+		<link rel="prefetch" href="/yui2.9.0/cookie/cookie-min.js">
+		<link rel="prefetch" href="/yui2.9.0/utilities/utilities.js">
+		<link rel="prefetch" href="/yui2.9.0/container/container-min.js">
+		<link rel="prefetch" href="/yui2.9.0/menu/assets/skins/sam/menu.css">
+		<link rel="prefetch" href="/yui2.9.0/menu/menu-min.js">
+		<link rel="prefetch" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/common/ixlloader.js">
+		<link rel="prefetch" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/common/utils.js">
+		<link rel="prefetch" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/common/flowdialog.js">
+		<link rel="prefetch" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/account/login.js">
+		<link rel="prefetch" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/marketing/marketing.js">
+		<link rel="prefetch" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/navigation/international/international.js">
+		<link rel="prefetch" href="/yui2.9.0/carousel/assets/skins/sam/carousel.css">
+		<link rel="prefetch" href="/yui2.9.0/carousel/carousel-min.js">
+		<link rel="prefetch" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/account/profile.js">
+		<link rel="stylesheet" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/css/style.css ">
+		<link rel="stylesheet" href="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/site-nav-css-min.css">
+		<link rel="stylesheet" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/marketing/css/marketing.css ">
+		<link rel="stylesheet" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/ixl/practice/ixl-practice-crate.css ">
+		<link rel="stylesheet" href="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/ixl/practice/ixl-html-crate.css ">
+		<link rel="stylesheet" href="/combo/dv3/TS9gELgZJsR5r_uq3nvBxLQYw-4/yui3/practice/?modules=practice-css-audio-min.css,practice-css-practice-min.css,practice-css-stats-min.css,practice-css-multipart-min.css,practice-css-toggle-spanish-button-min.css">
+		<link rel="stylesheet" href="/combo/dv3/gY9w33cEP7-89Rcp9GEOLehnMVw/yui3/webfont/?modules=webfont-css-robotoslab-min.css,webfont-css-roboto-min.css">
+		<link rel="stylesheet" href="/dv3/aT-AN7eUI2PJWm1vICLJ7CLd6jQ/yui3/marketing/marketing-css-mobile-app-banner-min.css">
+		<link rel="stylesheet" href="/frontend/snow-capped-mountain/snow-capped-mountain.115d0d837215481b5cee.bundle.css">
+		<link rel="stylesheet" href="/frontend/translationPopover/translationPopover.832e7f71e8a3a541570b.bundle.css">
+		<script>
+			window.__NAVIGATION_DIRECT_LINKS_PROPS__ = {
+			  isSignedIn: true,
+			};
+		</script>
+		<script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js.2e3196cd73053f26dc7b.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_redux_lib_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_redux_lib_index_js.407b8449553f6bd4061e.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_header_navigation_quickLoginForm_features_signin_signinSlice_js/commons-ixl_header_navigation_quickLoginForm_features_signin_signinSlice_js.6eed882c7300a96d8953.bundle.js"></script><script type="text/javascript" src="/frontend/navigationDirectLinks/navigationDirectLinks.c8f595b87035bc5dbb49.bundle.js"></script>
+		<script charset="utf-8" id="yui_3_18_1_1_1747244231674_2" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=util/YUA-min.js,util/YLang-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_3" src="/combo/dv3/xXJ_FBA7JnkwS-9xZcmkp3cjulo/yui3/util/?modules=util-UAPatch-min.js,util-StaticResources/lang/util-StaticResources.js,util-StaticResources-min.js,util-DateTimeFormat-min.js,util-NumberFormat-min.js,util-GrammarFunctions-min.js,util-PluralRules-min.js,util-ErrorTracking-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_4" src="/combo/yui/3.18.1?modules=oop/oop-min.js,event-custom-base/event-custom-base-min.js,event-base/event-base-min.js,dom-core/dom-core-min.js,dom-base/dom-base-min.js,selector-native/selector-native-min.js,selector/selector-min.js,node-core/node-core-min.js,dom-style/dom-style-min.js,node-base/node-base-min.js,event-delegate/event-delegate-min.js,node-event-delegate/node-event-delegate-min.js,pluginhost-base/pluginhost-base-min.js,pluginhost-config/pluginhost-config-min.js,node-pluginhost/node-pluginhost-min.js,dom-screen/dom-screen-min.js,node-screen/node-screen-min.js,node-style/node-style-min.js,querystring-stringify-simple/querystring-stringify-simple-min.js,io-base/io-base-min.js,datatype-xml-parse/datatype-xml-parse-min.js,io-xdr/io-xdr-min.js,io-form/io-form-min.js,io-upload-iframe/io-upload-iframe-min.js,queue-promote/queue-promote-min.js,io-queue/io-queue-min.js,event-custom-complex/event-custom-complex-min.js,intl/intl-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_5" src="/combo/dv3/jtBfMoh64IpiLjxoYdjEAQaOpNo/yui3/transfer-rosters/?modules=transfer-rosters-TransferRosters/lang/transfer-rosters-TransferRosters.js,transfer-rosters-TransferRosters-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_6" src="/combo/dv3/rPz2vMaEltwLJFlAa6kS5dizrBI/yui3/util-commonjs/?modules=ixl_util-commonjs_DateTimeFormat/lang/ixl_util-commonjs_DateTimeFormat.js,CheckBrowser-min.js,YEscape-min.js,Intl-min.js,YMerge-min.js,DateTimeFormat-min.js,NumberFormat-min.js,ixl_util-commonjs_GrammarFunctions/lang/ixl_util-commonjs_GrammarFunctions.js,GrammarFunctions-min.js,PluralRules-min.js,Request-min.js,ErrorTracking-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_7" src="/combo/dv3/EjNw0dlr4wr7nxV-hGcbq23zcKk/yui3/external/?modules=moment/dist-2.18.1/moment-min.js,moment/moment-min.js,Promise-min.js,fetch-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_8" src="/combo/dv3/hF44VgsiQQ2WpVWywXT9PEaRh94/yui3/signin-commonjs/?modules=utils/signinConstants-min.js,utils/recordSignin-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_9" src="/combo/dv3/gjyg6SpgYJv96UGFkPc4n9uqU70/yui3/tracking-utils/?modules=snakeCaseUtils-min.js,dataLayer-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_11" src="/yui2.9.0/yuiloader/yuiloader-min.js"></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_13" src="/combo/dv3/xXJ_FBA7JnkwS-9xZcmkp3cjulo/yui3/util/?modules=util-Intl-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_12" src="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/common/ixlloader.js"></script>
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747244231674_29" href="/combo/yui/3.18.1?modules=widget-base/assets/skins/sam/widget-base.css">
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747244231674_30" href="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=util/audio/TranslationButtonDisplay-min.css">
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747244231674_31" href="/combo/dv3/mneDNmc8mLkT6r5llbM-h3pDTNI/yui3/product-components/?modules=IxlModal-min.css">
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747244231674_32" href="/combo/dv3/lo0cgcGqMkYPhNEw3BL1WJFAOro/yui3/qgen/?modules=q-css-Bundle-min.css,q-css-Expression-min.css,q-css-QMTypicalBinaryOperator-min.css,q-css-Section-min.css">
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747244231674_33" href="/combo/dv3/SMXBn-rwYek5FUigHigtLrhTbo4/yui3/qela/?modules=qela-css-ExplainedDictionaryEntry-min.css,qela-css-WordSumEquationView-min.css">
+		<script charset="utf-8" id="yui_3_18_1_1_1747244231674_34" src="/combo/yui/3.18.1?modules=array-extras/array-extras-min.js,attribute-core/attribute-core-min.js,attribute-observable/attribute-observable-min.js,attribute-extras/attribute-extras-min.js,attribute-base/attribute-base-min.js,base-core/base-core-min.js,base-observable/base-observable-min.js,base-base/base-base-min.js,base-pluginhost/base-pluginhost-min.js,base-build/base-build-min.js,querystring-parse/querystring-parse-min.js,querystring-stringify/querystring-stringify-min.js,event-touch/event-touch-min.js,event-synthetic/event-synthetic-min.js,event-move/event-move-min.js,json-parse/json-parse-min.js,json-stringify/json-stringify-min.js,matrix/matrix-min.js,classnamemanager/classnamemanager-min.js,graphics/graphics-min.js,graphics-svg-default/graphics-svg-default-min.js,graphics-svg/graphics-svg-min.js,view/view-min.js,attribute-complex/attribute-complex-min.js,event-focus/event-focus-min.js,widget-base/widget-base-min.js,widget-htmlparser/widget-htmlparser-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_35" src="/combo/yui/3.18.1?modules=widget-skin/widget-skin-min.js,widget-uievents/widget-uievents-min.js,arraylist/arraylist-min.js,widget-parent/widget-parent-min.js,swfdetect/swfdetect-min.js,escape/escape-min.js,swf/swf-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_36" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=util/CustomEventFactory-min.js,util/AudioEventManager-min.js,util/get-window-min.js,util/get-document-min.js,util/audio-translation-text-util-min.js,util/has-class-min.js,util/add-class-min.js,util/join-classes-min.js,util/remove-class-min.js,util/ClassNameUtils-min.js,util/ContentContext-min.js,util/ancestor-any-min.js,util/InnerTranslationButtonFallbackUtil-min.js,util/audio-button-utils-min.js,util/ReactAudioWrapper-min.js,util/audio/AudioPolicyConstants-min.js,util/audio/AudioIndicatorEvents-min.js,util/getDisplayName-min.js,util/hoc/withAudioPlaying-min.js,util/audio/TEXT_REGEX-min.js,util/debounce-min.js,util/get-min-screen-side-min.js,util/is-mobile-device-min.js,util/ScreenOrientation-min.js,util/get-raw-screen-dimensions-min.js,util/is-mobile-app-min.js,util/get-available-screen-dimensions-min.js,util/browser-resize-listener-min.js,util/orientation-change-listener-min.js,components/introBox/IntroBoxConstants-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_37" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=fauxcus/withTabFocus-min.js,util/dragAndDrop/practice-agent-scroll-controller-min.js,util/html-order-comparator-min.js,util/fillIn/FillInNavigationController-min.js,util/int-to-hex-color-min.js,util/IXLContentColorUtils-min.js,color/QG3ColorSetting-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_38" src="/combo/dv3/TS9gELgZJsR5r_uq3nvBxLQYw-4/yui3/practice/?modules=practice-AudioManager-min.js,practice-AudioManagerInitializerUtils-min.js,practice-AudioManagerInitializer-min.js,practice-IncompleteAnswerPopover/lang/practice-IncompleteAnswerPopover.js,practice-IncompleteAnswerPopoverButton-min.js,practice-IncompleteAnswerPopover-min.js,practice-AudioButtonDelegate-min.js,practice-FlashAudio-min.js,practice-HTML5Audio-min.js,practice-PracticeAudioBackends-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_39" src="/combo/dv3/EjNw0dlr4wr7nxV-hGcbq23zcKk/yui3/external/?modules=react/react-17-0-2/react-devprod-min.js,react/react-min.js,snap/eve-min.js,snap/snap.svg-min.js,react/prop-types-15-6-0/prop-types-min.js,react/prop-types-min.js,react/react-17-0-2/react-dom-devprod-min.js,react/reactDom-min.js,react/create-react-class-15-6-2/create-react-class-min.js,react/create-react-class-min.js,snap/Snap-min.js,snap/SnapUtil-min.js,CSSColorParser-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_40" src="/combo/dv3/mneDNmc8mLkT6r5llbM-h3pDTNI/yui3/product-components/?modules=IxlModal-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_41" src="/combo/dv3/lo0cgcGqMkYPhNEw3BL1WJFAOro/yui3/qgen/?modules=q-Lang-min.js,q-AudioButtonVerticalAlignTileComponents-min.js,q-AudioHTMLUtils-min.js,q-ComponentSimple-min.js,q-DOMAttachAware-min.js,q-TranslationAPI-min.js,q-RavenTranslationButton-min.js,q-AudioWrapper-min.js,q-CSSClassNames-min.js,q-ContextAware-min.js,q-Component-min.js,q-GC-min.js,q-QMDelegate-min.js,q-QMTypicalBinaryOperator-min.js,q-GradingGroup-min.js,q-Guessable-min.js,q-ObjectUtils-min.js,q-StabilizerBase-min.js,q-SubmitStabilizer-min.js,q-Question-min.js,q-ColorUtils/lang/q-ColorUtils.js,q-ColorDirective-min.js,q-ColorSetting-min.js,q-ContentColorWithBrightness-min.js,q-MathUtils-min.js,q-ColorUtils-min.js,q-HTMLUtils-min.js,q-Section-min.js,q-AudioUtils-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_42" src="/combo/dv3/is474p-ADNHFE62tlRcvpS0FrfM/yui3/global/?modules=global-React-min.js,global-Snap-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_43" src="/combo/dv3/93mliL_YD8Ewvj40lVtkysZ5ikY/yui3/yui-gallery/?modules=yui-gallery-object-extras-min.js,yui-gallery-funcprog-min.js,yui-gallery-nodelist-extras-min.js,yui-gallery-nodelist-extras2-min.js,yui-gallery-svg-focus-patch-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_44" src="/combo/dv3/SMXBn-rwYek5FUigHigtLrhTbo4/yui3/qela/?modules=qela-DictionaryEntryDefinitionView-min.js,qela-DictionaryEntryExplanationView-min.js,qela-WordSumEquationView-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_106" src="/combo/yui/3.18.1?modules=cookie/cookie-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_107" src="/combo/dv3/aT-AN7eUI2PJWm1vICLJ7CLd6jQ/yui3/marketing/?modules=marketing-mobileAppBanner-min.js" async=""></script>
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747244231674_109" href="/combo/dv3/hN-k0BBpqDENA7779wkm1EnJrTk/yui3/customizable-delay-tooltips/?modules=customizable-delay-tooltips-css-tooltip-min.css">
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747244231674_110" href="/combo/yui/3.18.1?modules=widget-stack/assets/skins/sam/widget-stack.css">
+		<script charset="utf-8" id="yui_3_18_1_1_1747244231674_111" src="/combo/dv3/0vf-Fix6RE4FqmyrjyYOec5HHAM/yui3/suggested-skills/?modules=ixl_suggested-skills_utils_SuggestionIconTooltipUtils/lang/ixl_suggested-skills_utils_SuggestionIconTooltipUtils.js,utils/SuggestionIconTooltipUtils-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_112" src="/combo/dv3/hN-k0BBpqDENA7779wkm1EnJrTk/yui3/customizable-delay-tooltips/?modules=customizable-delay-tooltips-Tooltip-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_113" src="/combo/yui/3.18.1?modules=event-mouseenter/event-mouseenter-min.js,event-hover/event-hover-min.js,widget-position/widget-position-min.js,widget-stack/widget-stack-min.js,selector-css2/selector-css2-min.js,selector-css3/selector-css3-min.js" async=""></script>
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747244231674_168" href="/combo/dv3/6vZlGiWF1tdlXWyfR1crTHmSIRE/yui3/recaptcha-commonjs/?modules=css/GoogleRecaptchaClient-min.css">
+		<script charset="utf-8" id="yui_3_18_1_1_1747244231674_169" src="/combo/dv3/rPz2vMaEltwLJFlAa6kS5dizrBI/yui3/util-commonjs/?modules=Cookie-min.js,Websocket-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_170" src="/combo/dv3/qWG1J4dR8eZKjmiGnMC-BPI0G8M/yui3/site-nav-commonjs/?modules=set-up-site-nav-banner-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_171" src="/combo/dv3/7V6dbvO5kffrWmEVq2MzvSLP2zI/yui3/ab-testing-commonjs/?modules=FirstTimeOnIXLCookieHelper-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_172" src="/combo/dv3/EjNw0dlr4wr7nxV-hGcbq23zcKk/yui3/external/?modules=socket.io/socket.io-4.7.5/socket.io-4.7.5-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_173" src="/combo/dv3/6vZlGiWF1tdlXWyfR1crTHmSIRE/yui3/recaptcha-commonjs/?modules=GoogleRecaptchaClient-min.js" async=""></script>
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747244231674_207" href="/combo/dv3/lo0cgcGqMkYPhNEw3BL1WJFAOro/yui3/qgen/?modules=q-css-min.css">
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747244231674_208" href="/combo/dv3/TS9gELgZJsR5r_uq3nvBxLQYw-4/yui3/practice/?modules=practice-css-GCDisabler-min.css,practice-css-audio-min.css">
+		<script charset="utf-8" id="yui_3_18_1_1_1747244231674_209" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=infrastructure/isObjectOrArray-min.js,infrastructure/convertWalk-min.js,infrastructure/findTypes-min.js,util/AutoFocusVersion-min.js,util/fire-custom-event-min.js,util/GCDisabler-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_210" src="/combo/dv3/lo0cgcGqMkYPhNEw3BL1WJFAOro/yui3/qgen/?modules=q-Q-min.js,q-DOMAfterAttached-min.js,q-DelayedRendering-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_211" src="/combo/yui/3.18.1?modules=timers/timers-min.js,promise/promise-min.js,event-key/event-key-min.js,model/model-min.js,widget-stdmod/widget-stdmod-min.js,array-invoke/array-invoke-min.js,event-tap/event-tap-min.js,widget-child/widget-child-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_212" src="/combo/dv3/TS9gELgZJsR5r_uq3nvBxLQYw-4/yui3/practice/?modules=practice-FillInNavigationControllerBridge-min.js,practice-FeedbackAudio-min.js,practice-QuestionWidget/lang/practice-QuestionWidget.js,practice-CrateModel-min.js,practice-CrateView/lang/practice-CrateView.js,practice-CrateView-min.js,practice-CrateWidget-min.js,practice-Focusable-min.js,practice-GCDisabler-min.js,practice-QuestionWidget-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_213" src="/combo/dv3/93mliL_YD8Ewvj40lVtkysZ5ikY/yui3/yui-gallery/?modules=yui-gallery-soon-min.js" async=""></script>
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747244231674_214" href="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=util/audio/AudioButtonDisplay-min.css,util/audio/AudioEnabledComponent-min.css,components/GCTileMultipleChoices/TileMultipleChoices-min.css,components/layout/TileLayout-min.css,components/Tiles/AudioForSelectableTile-min.css,components/Tiles/SelectableTile-min.css,components/Tiles/TileSkinCheckMark-min.css,components/Tiles/TileSkinBare-min.css,components/Tiles/TileSkinClassic-min.css,util/css/withHorizontalScrollIndicator-min.css,components/image/DCImage-min.css">
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747244231674_215" href="/combo/dv3/SMXBn-rwYek5FUigHigtLrhTbo4/yui3/qela/?modules=qela-css-RichText-min.css">
+		<script charset="utf-8" id="yui_3_18_1_1_1747244231674_216" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=components/semantic/Stylizer-min.js,text/_Ellipsis-min.js,text/_ParagraphSpan-min.js,text/_Rogue-min.js,text/_Word-min.js,util/lang/is-string-min.js,text/utext/UText-min.js,text/utext/UTextPropType-min.js,util/KeyCodes-min.js,util/audio/AudioButtonConstants-min.js,util/get-values-min.js,util/audio/AudioButtonDisplay-min.js,util/audio/AudioNodeIteration-min.js,util/audio/audio-playing-utils-min.js,propTypes/audioPathsPropType-min.js,util/audio/propTypes/enableAudioPropTypes-min.js,util/audio/AudioButton-min.js,util/audio/AudioButtonCfg-min.js,util/audio/AudioSystemNumberConstants-min.js,util/audio/createAudioSources-min.js,util/audio/enableAudio-min.js,util/lang/is-function-min.js,util/request-css-module-for-page-min.js,text/Paragraph-min.js,util/audio/generate-audio-info-min.js,util/Rand-min.js,util/convert-to-value-min.js,util/is-DOM-min.js,util/hash-min.js,util/invoke-if-defined-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_217" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=util/supports-passive-event-listeners-min.js,util/unwrap-position-info-min.js,components/ClickToSelect/ClickToSelectController-min.js,components/ClickToSelect/ClickToSelectControllerReactMixin-min.js,components/GCTileMultipleChoices/TileMultipleChoiceConstants-min.js,components/Tiles/TilePropEnum-min.js,fauxcus/FauxcusManagerEnums-min.js,fauxcus/FauxcusManager-min.js,components/layout/GriddyLayout-min.js,components/Tiles/TileDimensionsMap-min.js,util/get-tile-size-map-min.js,components/layout/TileSizingUtils-min.js,components/layout/VerticalLayout-min.js,util/query-selector-array-min.js,components/GCTileMultipleChoices/withTileMultipleChoice-min.js,components/Tiles/TileSkinCheckMarkBottom-min.js,components/Tiles/TileSkinCheckMarkLeft-min.js,components/Tiles/withSelectableTile-min.js,components/Tiles/SelectableCheckedTile-min.js,components/Tiles/SelectableTile-min.js,components/GCFillInMultipleChoiceUpgrade/FIMCConstants-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_218" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=components/Tiles/SelectableTileMobile-min.js,components/Tiles/TileSkinBare-min.js,components/Tiles/TileSkinClassic-min.js,responsive/ResponsiveHocConstants-min.js,responsive/getCustomizedResponsiveHoc-min.js,util/hoc/horizontalScrollFadeSize-min.js,util/hoc/withAudio-min.js,util/hoc/withDelayedRendering-min.js,util/hoc/HorizontalScrollConstants-min.js,util/hoc/withHorizontalScrollIndicator-min.js,components/GCTileMultipleChoices/TileMultipleChoicesController-min.js,util/tiles/tile-auto-resize-min.js,components/image/interfaceHOCs/withOnLoadProp-min.js,util/srcset-utils-min.js,components/image/ImageBase-min.js,components/image/ImageInfoPropType-min.js,components/image/interfaceHOCs/withImageInfoProp-min.js,components/image/interfaceHOCs/withSizableProp-min.js,components/image/RasterImage-min.js,components/image/VectorImage-min.js,components/image/DCImage-min.js,components/image/DCImageResponsiveCfg-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_219" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=components/image/ImageInfo-min.js,responsive/getCustomizedResponsivePropType-min.js,components/image/ResponsiveImage-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_220" src="/combo/dv3/EjNw0dlr4wr7nxV-hGcbq23zcKk/yui3/external/?modules=query-string/queryString-min.js,classnames-min.js,MersenneTwister-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_221" src="/combo/dv3/lo0cgcGqMkYPhNEw3BL1WJFAOro/yui3/qgen/?modules=q-PlainText-min.js,q-Rand-min.js,q-ContextHelper-min.js,q-GeneticRender-min.js,q-QuestionFocus-min.js,q-GCTileMultipleChoice-min.js,q-GCTextTileMultipleChoice-min.js,q-DCImageBridge-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_222" src="/combo/dv3/SMXBn-rwYek5FUigHigtLrhTbo4/yui3/qela/?modules=qela-RichTextEnrichmentToHTMLMap-min.js,qela-RichText-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_279" src="/combo/dv3/lo0cgcGqMkYPhNEw3BL1WJFAOro/yui3/qgen/?modules=q-QMMultipleSourceAudioWrapper-min.js" async=""></script>
+		<link charset="utf-8" rel="stylesheet" id="yui_3_18_1_1_1747244231674_358" href="/combo/dv3/SMXBn-rwYek5FUigHigtLrhTbo4/yui3/qela/?modules=qela-css-ExampleImagesTable-min.css">
+		<script charset="utf-8" id="yui_3_18_1_1_1747244231674_359" src="/combo/dv3/QKgRUtRH07Ol15KMbkcG6jQdPC0/yui3/content/?modules=util/responsive-design-listener-min.js" async=""></script><script charset="utf-8" id="yui_3_18_1_1_1747244231674_360" src="/combo/dv3/SMXBn-rwYek5FUigHigtLrhTbo4/yui3/qela/?modules=qela-ExampleImagesTableRow-min.js,qela-ExampleImagesTable-min.js" async=""></script><script src="https://www.recaptcha.net/recaptcha/api.js?render=6Lcq04AUAAAAAGSiB3-3J5ZSQZSTARc4GfabojnP&amp;hl=en"></script><script type="text/javascript" charset="utf8" async="" src="https://cdnapi.kaltura.com/p/4764982/sp/476498200/embedIframeJs/uiconf_id/50822372/partner_id/4764982"></script>
+		<style type="text/css"></style>
+		<link id="yui__dyn_0" type="text/css" rel="stylesheet" href="/yui2.9.0/menu/assets/skins/sam/menu.css" charset="utf-8">
+		<link id="yui__dyn_1" type="text/css" rel="stylesheet" href="/yui2.9.0/carousel/assets/skins/sam/carousel.css" charset="utf-8">
+		<script id="yui__dyn_2" type="text/javascript" src="/yui2.9.0/cookie/cookie-min.js" charset="utf-8"></script><script id="yui__dyn_3" type="text/javascript" src="/yui2.9.0/utilities/utilities.js" charset="utf-8"></script><script id="yui__dyn_0" type="text/javascript" src="/yui2.9.0/container/container-min.js" charset="utf-8"></script><script id="yui__dyn_1" type="text/javascript" src="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/common/utils.js" charset="utf-8"></script><script id="yui__dyn_2" type="text/javascript" src="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/common/flowdialog.js" charset="utf-8"></script><script id="yui__dyn_3" type="text/javascript" src="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/account/login.js" charset="utf-8"></script><script id="yui__dyn_4" type="text/javascript" src="/yui2.9.0/menu/menu-min.js" charset="utf-8"></script><script id="yui__dyn_5" type="text/javascript" src="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/marketing/marketing.js" charset="utf-8"></script><script id="yui__dyn_6" type="text/javascript" src="/yui2.9.0/carousel/carousel-min.js" charset="utf-8"></script><script id="yui__dyn_7" type="text/javascript" src="/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/account/profile.js" charset="utf-8"></script>
+	</head>
+	<body class="ixl-skin practice-jsp flush-footer snow-capped-mountain responsive edition-us>" id="yui_3_18_1_1_1747244231674_598">
+		<link rel="stylesheet" href="/frontend/header/header.27e4a82733805a3dcb01.bundle.css">
+		<link rel="stylesheet" href="/dv3/SSgqFPnxb3k-ioRg-AIacjbVIO0/yui3/common/common-css-cta-btn-min.css">
+		<link rel="stylesheet" href="/combo/dv3/gY9w33cEP7-89Rcp9GEOLehnMVw/yui3/webfont/?modules=webfont-css-opensans-min.css,webfont-css-roboto-min.css,webfont-css-robotoslab-min.css">
+		<script>
+			window.__SSO_CLIENT_ID__ = '116858415990-0ib16tvd7bg1sn25f7m3641vsaf2tfkn.apps.googleusercontent.com';
+		</script>
+		<a href="#maincontent" class="skip-to-main-content js-skip-to-main-content" data-cy="skip-to-main-content">
+		SKIP TO CONTENT
+		</a>
+		<script>
+			var CTAs = document.querySelectorAll('.trial-banner-cta');
+			
+			// track clicks by Google Analytics
+			function onClick(event) {
+			  var id = event.target.id;
+			  window['gaq'] = window['gaq'] || function() {
+			    (window['gaq'].q = window['gaq'].q || []).push(arguments);
+			  };
+			  var gaq = window['gaq'];
+			  gaq('send', 'event', 'Trial banner interactions', 'Link clicked', id + ' clicked');
+			}
+			
+			Array.prototype.forEach.call(CTAs, function(cta) {
+			  cta.addEventListener('click', onClick);
+			});
+			
+			// BPD-1478: Track clicking on the merge invite banner.
+			const mergeInviteButtonLink = document.querySelector('[data-tracking-class="merge-invite-btn"]');
+			if (mergeInviteButtonLink) {
+			  mergeInviteButtonLink.addEventListener('click', function() {
+			    if (gaq) {
+			      gaq('send', 'event', 'TeacherMerge', 'Click', 'AcceptInviteFromBanner');
+			    }
+			  });
+			}
+			
+			// DISC-4682: AU Webinar Banner click tracking
+			
+			
+			// DISC-4491: CA Webinar Banner click tracking
+			
+			
+			// DISC-4587: UK Webinar Banner click tracking
+			
+		</script>
+		<div id="banners-wrapper" class="banners-wrapper">
+			<div id="banner-carousel" class="banner-carousel"></div>
+		</div>
+		<style>
+			.banners-placeholder {
+			visibility: hidden;
+			box-sizing: border-box;
+			font: 13px/18px Open Sans, sans-serif;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			text-align: center;
+			padding: 7px 67px 7px 42px;
+			&.single-banner-sent {
+			padding-left: 20px;
+			}
+			}
+			@media screen and (min-width: 800px) {
+			.banners-placeholder {
+			padding: 15px 67px 15px 42px;
+			text-align: left;
+			flex-direction: row;
+			}
+			.banners-placeholder-cta {
+			min-width: 140px;
+			}
+			}
+		</style>
+		<div class="site-nav-header add-to-zindex-calculation site-nav-2022 consolidated with-sub-nav" data-has-user-nav-and-quick-login="true">
+			<input type="hidden" id="current_nav_category" value="learning">
+			<input type="checkbox" id="header-menu-state">
+			<input type="checkbox" id="mobile-search-state">
+			<div class="background-anchor">
+				<div class="sub-nav-background"></div>
+			</div>
+			<div class="category-menu-mask js-category-menu-mask" style="height: 0px;"></div>
+			<div id="hd" class="site-nav-header-container">
+				<div class="box-site-nav-func">
+					<div class="box-site-nav-func-left">
+						<a class="site-nav-ixl-logo" href="/" id="hd-logo" role="banner">IXL Learning</a>
+					</div>
+					<form id="searchBar" data-cy="search-form" class="skill-search-box crisp-form" method="get" action="/search">
+						<div class="box-search-input-btn ">
+							<input type="search" autocomplete="off" class="skill-search-input" maxlength="200" name="q" placeholder="Search topics, skills, and more" aria-label="Search topics, skills, and more" data-cy="search-input" value=""><input type="hidden" name="resultPageOrigin" value="searchbar">
+							<div class="skill-search-icon"></div>
+							<button type="submit" class="skill-search-button site-nav-header-button" aria-label="Search topics, skills, and more"></button>
+						</div>
+					</form>
+					<div class="box-site-nav-func-right">
+						<div class="mobile-search-state-label-container">
+							<button id="mobile-search-toggle-btn" class="mobile-search-state-label" aria-controls="searchBar" aria-haspopup="true">
+							<img src="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/assets/icon-mag-glass-white.svg" alt="Search for skill">
+							</button>
+						</div>
+						<div id="student-live-messages-container-hamburger" class="student-live-messages-container" data-cy="student-live-messages-container"></div>
+						<button id="header-menu-toggle-btn" class="header-menu-state-label" aria-label="Open navigation menu" aria-controls="mobile-nav-content" aria-haspopup="true" data-cy="header-menu-toggle-btn"></button>
+					</div>
+				</div>
+				<div id="mobile-nav-content" class="box-site-nav-content">
+					<div class="visible-content">
+						<div class="site-nav-ixl-logo-container">
+							<a class="site-nav-ixl-logo" href="/" id="hd-logo" role="banner">IXL Learning</a>
+						</div>
+						<nav id="ixl-nav-categories" class="box-site-nav-categories has-site-nav-category-selected" role="navigation" data-cy="ixl-nav-categories">
+							<ul class="box-site-nav-categories-left category-menus" data-cy="category-menu-list">
+								<li class="ixl-nav-category-entry
+									no-category-menu" data-cy="my-ixl-category-entry">
+									<a data-cy="site-nav-category" class="site-nav-category
+										" href="/dashboard" data-google-analytics="Main navigation.Category clicked.My IXL">My IXL</a>
+								</li>
+								<li class="ixl-nav-category-entry
+									" data-cy="learning-category-entry">
+									<a data-cy="site-nav-category" class="site-nav-category site-nav-category-selected" href="/recommendations" data-google-analytics="Main navigation.Category clicked.Learning">Learning</a>
+									<nav class="category-menu hover-active" style="left: -290px; width: 1074px;">
+										<ul class="category-menu-list">
+											<div class="grid-item x-0 y-0" data-cy="category-menu-column">
+												<li class="menu-list-item" data-cy="category-menu-item">
+													<div class="subcategory-header">
+														<a href="/math" class="subcategory-header-link category-menu-link category-menu-subcat-math" data-google-analytics="Main navigation.Header in hover menu clicked.Learning - Math" data-cy="category-menu-subcategory-header-link">
+															<svg aria-hidden="true" class="subcategory-icon" width="21" height="19" viewBox="0 0 21 19" xmlns="http://www.w3.org/2000/svg">
+																<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M9.34502 17.8062C9.94256 17.6134 19.0496 14.5511 19.0496 14.5511C19.0496 14.5511 11.359 10.3532 11.261 10.3829C9.40807 10.9511 1.27571 12.8535 1.08301 12.8535L9.34502 17.8062Z"></path>
+																<path fill-rule="evenodd" clip-rule="evenodd" d="M9.5407 0.326042L9.81481 0.00167847L10.0583 0.348429C10.0597 0.350447 10.0612 0.352482 10.0626 0.354534L20.1478 14.7174L9.47294 18.146C9.46815 18.1476 9.4633 18.1492 9.45841 18.1506L9.3256 18.1933L9.20427 18.1223C9.20063 18.1203 9.19703 18.1182 9.19348 18.116L0.118164 12.808L0.341253 12.5123L0.735778 11.9893L1.77593 10.6107L4.93261 6.4271C7.80505 2.62064 9.34189 0.585122 9.52164 0.350451C9.52762 0.342011 9.53398 0.333866 9.5407 0.326042ZM9.43622 1.55449C8.67112 2.56733 7.23777 4.46612 5.46051 6.82129L2.30186 11.0075L1.26172 12.3861L1.18249 12.4911L9.21415 10.5749L9.43622 1.55449ZM9.19738 11.2562L1.7911 13.0233L9.04936 17.2685L9.19738 11.2562ZM9.70566 17.3793L9.86029 11.098L11.3929 10.7324L18.5818 14.5284L9.70566 17.3793ZM9.87707 10.4167L10.0565 3.12804C10.109 3.14776 10.1672 3.15433 10.2265 3.14441C10.4059 3.11439 10.527 2.94459 10.497 2.76515L10.3552 1.91772L18.7489 13.8716L11.7358 10.1684L11.5517 9.0681C11.5217 8.88867 11.3519 8.76755 11.1724 8.79758C10.993 8.8276 10.8719 8.9974 10.9019 9.17684L11.0621 10.134L9.87707 10.4167ZM11.3408 7.80751L11.1298 6.54692C11.0998 6.36749 10.93 6.24637 10.7506 6.2764C10.5711 6.30642 10.45 6.47622 10.48 6.65566L10.691 7.91625C10.721 8.09568 10.8908 8.2168 11.0702 8.18677C11.2497 8.15675 11.3708 7.98695 11.3408 7.80751ZM10.7079 4.02574L10.9189 5.28633C10.9489 5.46577 10.8278 5.63557 10.6484 5.66559C10.4689 5.69562 10.2991 5.5745 10.2691 5.39507L10.0582 4.13448C10.0281 3.95504 10.1492 3.78524 10.3287 3.75521C10.5081 3.72519 10.6779 3.84631 10.7079 4.02574Z"></path>
+															</svg>
+															<span class="subcategory-header-label"><span data-cy="category-menu-subcategory-header-link-label">Math</span></span>
+														</a>
+													</div>
+													<ul class="subcategory-list horizontal">
+														<li class="subcategory-item">
+															<a href="/math" class="subcategory-item-link category-menu-link category-menu-page-math-skills" data-google-analytics="Main navigation.Link in hover menu clicked.Math - Skills" data-cy="category-menu-subcategory-item-link">
+															Skills
+															</a>
+														</li>
+														<img src="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/assets/ellipse.svg" alt="" class="ellipse">
+														<li class="subcategory-item">
+															<a href="/math/lessons" class="subcategory-item-link category-menu-link category-menu-page-math-lessons" data-google-analytics="Main navigation.Link in hover menu clicked.Math - Lessons" data-cy="category-menu-subcategory-item-link">
+															Lessons
+															</a>
+														</li>
+														<img src="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/assets/ellipse.svg" alt="" class="ellipse">
+														<li class="subcategory-item">
+															<a href="/math/videos" class="subcategory-item-link category-menu-link category-menu-page-math-videos" data-google-analytics="Main navigation.Link in hover menu clicked.Math - Videos" data-cy="category-menu-subcategory-item-link">
+															Videos
+															</a>
+														</li>
+														<img src="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/assets/ellipse.svg" alt="" class="ellipse">
+														<li class="subcategory-item">
+															<a href="/math/games" class="subcategory-item-link category-menu-link category-menu-page-math-games" data-google-analytics="Main navigation.Link in hover menu clicked.Math - Games" data-cy="category-menu-subcategory-item-link">
+															Games
+															</a>
+														</li>
+													</ul>
+												</li>
+												<li class="menu-list-item" data-cy="category-menu-item">
+													<div class="subcategory-header">
+														<a href="/ela" class="subcategory-header-link category-menu-link category-menu-subcat-ela" data-google-analytics="Main navigation.Header in hover menu clicked.Learning - Language arts" data-cy="category-menu-subcategory-header-link">
+															<svg aria-hidden="true" class="subcategory-icon" width="20" height="19" viewBox="0 0 20 19" xmlns="http://www.w3.org/2000/svg">
+																<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M16.2289 5.28529V4.39341H13.4371C13.1135 4.39341 12.8491 4.70882 12.8491 5.09753V12.3932C12.8491 12.7819 13.1135 13.0973 13.4371 13.0973C13.7624 13.0973 14.0251 13.4119 14.0251 13.8006V15.3348C14.0251 15.7235 14.2887 16.0381 14.6131 16.0381H17.8446C18.1691 16.0381 18.4326 15.7235 18.4326 15.3348V5.98859C18.4326 5.59988 18.1691 5.28529 17.8446 5.28529H16.2289Z"></path>
+																<path fill-rule="evenodd" clip-rule="evenodd" d="M4.71714 3.86314V11.4263C4.71714 11.5915 4.84709 11.7274 5.01209 11.7349C7.97259 11.8679 9.54651 13.0898 9.87322 14.8762C9.7533 14.7791 9.63279 14.6978 9.50043 14.6247C8.92506 14.3063 8.22317 14.2405 7.43783 14.3671C7.14683 14.4136 6.91482 14.4673 6.4215 14.594C5.98865 14.7051 5.80181 14.7496 5.56973 14.7924C4.74153 14.9441 3.9076 14.9365 3.12829 14.7643V3.86314H4.71714ZM4.71714 3.23396H2.81371H2.79917C2.63332 3.23396 2.49887 3.37481 2.49887 3.54855L2.49912 3.56143V4.28989H1.86574C1.35518 4.28989 0.940918 4.70415 0.940918 5.21471V16.2311C0.940918 16.7416 1.35515 17.1551 1.86574 17.1551H8.27822C8.35721 17.6708 8.77951 18.0412 9.28739 18.0412H11.058C11.5765 18.0412 12.0058 17.6551 12.0739 17.1551H18.4788C18.99 17.1551 19.4044 16.7418 19.4044 16.2311V5.21471C19.4044 4.70396 18.99 4.28989 18.4788 4.28989H18.0901V3.44075C18.0901 3.42757 18.0893 3.41458 18.0877 3.40182C18.0887 3.37174 18.0853 3.34101 18.0771 3.31044C18.0322 3.1426 17.8597 3.04294 17.6919 3.08785C16.8466 3.31403 15.9281 3.33984 15.017 3.17212C14.7835 3.12943 14.596 3.08484 14.1727 2.97633C13.6694 2.84733 13.4396 2.79412 13.1485 2.74758C12.3636 2.62104 11.6617 2.68692 11.0862 3.00531C10.8202 3.15233 10.602 3.33224 10.3404 3.60742C9.41583 1.91125 7.16852 0.137718 5.02596 0.137718C4.8554 0.137718 4.71714 0.275983 4.71714 0.446542V3.23396ZM10.5554 4.30681V15.0136C10.7301 14.8519 10.8959 14.7299 11.0862 14.6247C11.6617 14.3063 12.3636 14.2405 13.1485 14.367C13.4399 14.4136 13.6719 14.4673 14.1769 14.597C14.5981 14.7051 14.7849 14.7496 15.0167 14.7923C15.8935 14.9529 16.7148 14.963 17.4609 14.8032V3.78711C16.6363 3.95045 15.7653 3.94961 14.9034 3.79097C14.6511 3.74482 14.454 3.69796 14.0089 3.58387C13.5318 3.46158 13.3148 3.41134 13.0488 3.3688C12.3903 3.26264 11.8248 3.31572 11.3907 3.5559C11.1246 3.70295 10.9018 3.91087 10.5595 4.30216L10.5554 4.30681ZM17.8342 15.3608C16.9354 15.5975 15.9495 15.6028 14.903 15.4111C14.6519 15.3649 14.4557 15.3181 14.0088 15.2034C13.5341 15.0815 13.3151 15.0308 13.0488 14.9882C12.3903 14.8821 11.8248 14.9351 11.3907 15.1753C11.1246 15.3224 10.9018 15.5303 10.5595 15.9216C10.4904 16.0006 10.3905 16.0367 10.2934 16.0277C10.1963 16.0367 10.0963 16.0006 10.0272 15.9216C9.68498 15.5303 9.4621 15.3224 9.19595 15.1753C8.76193 14.9351 8.19648 14.8821 7.53756 14.9883C7.27163 15.0308 7.05261 15.0815 6.56633 15.2064C6.13105 15.3181 5.9348 15.3649 5.6834 15.4112C4.68526 15.594 3.67582 15.5661 2.74062 15.3173C2.60212 15.2844 2.49912 15.1598 2.49912 15.0113V4.91907H1.86574C1.70266 4.91907 1.57009 5.05163 1.57009 5.21471V16.2311C1.57009 16.3939 1.70237 16.5259 1.86574 16.5259H8.60056C8.79117 16.5259 8.93799 16.6941 8.91228 16.8829L8.89127 17.0159C8.89127 17.2341 9.06913 17.412 9.28739 17.412H11.058C11.2762 17.412 11.4541 17.2341 11.4568 16.9749L11.4798 16.7995C11.5004 16.6429 11.6338 16.5259 11.7917 16.5259H18.4788C18.6429 16.5259 18.7753 16.3939 18.7753 16.2311V5.21471C18.7753 5.05157 18.6426 4.91907 18.4788 4.91907L18.0901 4.8984V15.0517C18.0901 15.2054 17.9799 15.3333 17.8342 15.3608ZM9.93772 13.3573V4.18445C9.26793 2.68236 7.25085 0.943558 5.33478 0.769578V11.1349C7.61639 11.2968 9.15179 12.1186 9.93772 13.3573ZM12.7824 6.25416C12.4232 6.16227 12.0258 6.22362 11.7131 6.41929C11.5904 6.49599 11.4288 6.45877 11.3521 6.33615C11.2754 6.21353 11.3127 6.05195 11.4353 5.97525C11.8697 5.70349 12.4144 5.61939 12.9134 5.74703C13.1019 5.79615 13.2427 5.85495 13.5423 5.9972C13.6634 6.05467 13.7174 6.07975 13.7835 6.10826C14.4338 6.38827 15.1734 6.46189 15.8676 6.31571C16.0091 6.28591 16.148 6.37648 16.1778 6.51801C16.2076 6.65954 16.1171 6.79843 15.9755 6.82824C15.1757 6.99667 14.3259 6.91209 13.5762 6.58924C13.5022 6.55735 13.4444 6.5305 13.3116 6.46747C13.0475 6.34211 12.9274 6.29195 12.7824 6.25416ZM11.7372 9.28921C12.0501 9.09349 12.4472 9.03233 12.8052 9.12475C12.953 9.16276 13.0727 9.21264 13.3413 9.34007C13.4698 9.40102 13.527 9.42752 13.6003 9.45916C14.3501 9.782 15.1998 9.86661 15.9989 9.69814C16.1404 9.66831 16.231 9.52939 16.2011 9.38787C16.1713 9.24635 16.0324 9.15581 15.8909 9.18564C15.1975 9.33181 14.4579 9.25817 13.8076 8.97818C13.7421 8.94989 13.6887 8.92514 13.5681 8.86797C13.267 8.72512 13.1266 8.66659 12.9358 8.61755C12.4391 8.48929 11.8942 8.57321 11.4594 8.84516C11.3368 8.92187 11.2996 9.08345 11.3763 9.20607C11.453 9.32869 11.6146 9.36591 11.7372 9.28921ZM12.782 12.1366C12.4232 12.0441 12.026 12.1053 11.7131 12.301C11.5904 12.3777 11.4288 12.3405 11.3521 12.2179C11.2754 12.0953 11.3127 11.9337 11.4353 11.857C11.8701 11.585 12.4149 11.5011 12.9127 11.6294C13.1016 11.6781 13.2434 11.7372 13.5362 11.876L13.5441 11.8798C13.6641 11.9367 13.7179 11.9617 13.7835 11.99C14.4338 12.27 15.1734 12.3436 15.8676 12.1974C16.0091 12.1676 16.148 12.2582 16.1778 12.3997C16.2076 12.5413 16.1171 12.6802 15.9755 12.71C15.1757 12.8784 14.3259 12.7938 13.5762 12.471C13.5028 12.4393 13.4452 12.4126 13.3195 12.353L13.3116 12.3492C13.0487 12.2245 12.928 12.1742 12.782 12.1366Z"></path>
+															</svg>
+															<span class="subcategory-header-label"><span data-cy="category-menu-subcategory-header-link-label">Language arts</span></span>
+														</a>
+													</div>
+													<ul class="subcategory-list horizontal">
+														<li class="subcategory-item">
+															<a href="/ela" class="subcategory-item-link category-menu-link category-menu-page-ela-skills" data-google-analytics="Main navigation.Link in hover menu clicked.Language arts - Skills" data-cy="category-menu-subcategory-item-link">
+															Skills
+															</a>
+														</li>
+														<img src="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/assets/ellipse.svg" alt="" class="ellipse">
+														<li class="subcategory-item">
+															<a href="/ela/videos" class="subcategory-item-link category-menu-link category-menu-page-ela-videos" data-google-analytics="Main navigation.Link in hover menu clicked.Language arts - Videos" data-cy="category-menu-subcategory-item-link">
+															Videos
+															</a>
+														</li>
+														<img src="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/assets/ellipse.svg" alt="" class="ellipse">
+														<li class="subcategory-item">
+															<a href="/ela/games" class="subcategory-item-link category-menu-link category-menu-page-ela-games" data-google-analytics="Main navigation.Link in hover menu clicked.Language arts - Games" data-cy="category-menu-subcategory-item-link">
+															Games
+															</a>
+														</li>
+													</ul>
+												</li>
+											</div>
+											<div class="grid-item x-1 y-0" data-cy="category-menu-column">
+												<li class="menu-list-item" data-cy="category-menu-item">
+													<div class="subcategory-header">
+														<a href="/recommendations" class="subcategory-header-link category-menu-link category-menu-subcat-recommendations" data-google-analytics="Main navigation.Header in hover menu clicked.Learning - Recommendations" data-cy="category-menu-subcategory-header-link">
+															<svg aria-hidden="true" class="subcategory-icon" width="21" height="18" viewBox="0 0 21 18" xmlns="http://www.w3.org/2000/svg">
+																<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M12.6455 14.6454H2.91876C2.86688 14.6454 2.81829 14.6207 2.7837 14.577L0.672171 12.9399C0.61123 12.8625 0.61123 12.7455 0.672171 12.6689L2.7837 11.0309C2.81829 10.9881 2.86688 10.9626 2.91876 10.9626H12.6117"></path>
+																<path fill-rule="evenodd" clip-rule="evenodd" d="M11.6698 1.63701C11.6698 2.4034 11.1431 3.04649 10.4321 3.22446V4.09113H17.768C17.8612 4.09113 17.9505 4.12873 18.0156 4.19541L20.1642 6.39671C20.2968 6.53257 20.2951 6.74994 20.1604 6.88372L18.0118 9.01749C17.947 9.08184 17.8594 9.11795 17.768 9.11795H10.4321V9.72786H12.6292C12.8202 9.72786 12.9751 9.88271 12.9751 10.0737V14.4648C12.9751 14.6558 12.8202 14.8107 12.6292 14.8107H10.4316L10.4241 17.294H15.2373C15.4284 17.294 15.5832 17.4489 15.5832 17.6399C15.5832 17.8309 15.4284 17.9858 15.2373 17.9858H5.32699C5.13596 17.9858 4.9811 17.8309 4.9811 17.6399C4.9811 17.4489 5.13596 17.294 5.32699 17.294H9.73235L9.73986 14.8107H2.65875C2.56738 14.8107 2.47972 14.7745 2.41491 14.7101L0.220208 12.5286C0.0847606 12.3939 0.0840626 12.175 0.218649 12.0395L2.41335 9.82999C2.47829 9.76462 2.56662 9.72786 2.65875 9.72786H9.74036V9.11795H6.93287C6.74184 9.11795 6.58699 8.96309 6.58699 8.77207V4.43701C6.58699 4.24598 6.74184 4.09113 6.93287 4.09113H9.74036V3.24727C8.97559 3.10937 8.39628 2.44137 8.39628 1.63701C8.39628 0.732556 9.12868 -0.000167847 10.0335 -0.000167847C10.937 -0.000167847 11.6698 0.732968 11.6698 1.63701ZM10.0335 0.691597C10.5549 0.691597 10.978 1.11495 10.978 1.63701C10.978 2.15884 10.5551 2.5816 10.0335 2.5816C9.51058 2.5816 9.08805 2.15925 9.08805 1.63701C9.08805 1.11454 9.5108 0.691597 10.0335 0.691597ZM19.4296 6.63451L17.6255 8.42618H15.5736L17.6213 6.56634L15.5839 4.78289H17.6223L19.4296 6.63451ZM14.8398 8.15813C14.7615 8.22927 14.7233 8.32812 14.7267 8.42618H7.27875V4.78289H14.7276C14.7239 4.88332 14.7639 4.98448 14.8454 5.05583L16.5819 6.57587L14.8398 8.15813ZM12.2833 10.4196V14.1189H5.6147C5.61232 14.0278 5.57419 13.9379 5.50141 13.8718L3.72964 12.2635L5.49318 10.7522C5.59212 10.6674 5.6314 10.5388 5.60691 10.4196H12.2833ZM4.81815 10.4196L2.68398 12.2485L4.74443 14.1189H2.80141L0.953109 12.2817L2.8027 10.4196H4.81815ZM2.24699 17.294H3.05322C3.24425 17.294 3.39911 17.4489 3.39911 17.6399C3.39911 17.8309 3.24425 17.9858 3.05322 17.9858H2.24699C2.05596 17.9858 1.9011 17.8309 1.9011 17.6399C1.9011 17.4489 2.05596 17.294 2.24699 17.294Z"></path>
+															</svg>
+															<span class="subcategory-header-label"><span data-cy="category-menu-subcategory-header-link-label">Recommendations</span></span>
+														</a>
+													</div>
+													<ul class="subcategory-list">
+														<li class="subcategory-item">
+															<a href="/recommendations" class="subcategory-item-link category-menu-link category-menu-page-recommendations-wall" data-google-analytics="Main navigation.Link in hover menu clicked.Recommendations - Recommendations wall" data-cy="category-menu-subcategory-item-link">
+															Recommendations wall
+															</a>
+														</li>
+													</ul>
+												</li>
+											</div>
+											<div class="grid-item x-2 y-0" data-cy="category-menu-column">
+												<li class="menu-list-item" data-cy="category-menu-item">
+													<div class="subcategory-header">
+														<a href="/skill-plans" class="subcategory-header-link category-menu-link category-menu-subcat-skill-plans" data-google-analytics="Main navigation.Header in hover menu clicked.Learning - Skill plans" data-cy="category-menu-subcategory-header-link">
+															<svg aria-hidden="true" class="subcategory-icon" width="18" height="19" viewBox="0 0 18 19" xmlns="http://www.w3.org/2000/svg">
+																<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M13.5014 16.7859H13.3934C12.4237 16.7827 11.6384 15.9974 11.6353 15.0277V6.948C11.6384 5.97845 12.4238 5.19337 13.3934 5.19059H13.5014C14.4708 5.19338 15.256 5.97857 15.2588 6.948V15.0277C15.256 15.9973 14.4709 16.7827 13.5014 16.7859Z"></path>
+																<path fill-rule="evenodd" clip-rule="evenodd" d="M4.59536 0.709472C4.77777 0.923166 4.89676 1.1734 4.95565 1.44146C5.90259 1.10649 6.90209 1.18961 7.63612 1.73969L7.76049 1.8396H7.77047L7.89109 1.95998C8.3786 2.44653 8.61189 3.09487 8.61013 3.78095H16.7572C17.158 3.78095 17.4826 4.1228 17.4834 4.54486V17.4707C17.4834 17.8927 17.1587 18.2353 16.7579 18.2353H5.16336C4.7626 18.2353 4.43793 17.8927 4.43793 17.4707V7.47459C3.91481 7.39627 3.43168 7.17081 3.04906 6.78895C2.41322 6.15583 2.20948 5.24686 2.39515 4.33753C1.96891 4.31453 1.56822 4.15476 1.25954 3.84655C0.494348 3.08346 0.642149 1.75745 1.52579 0.876234C2.37352 0.0324977 3.62964 -0.138522 4.40596 0.520591L4.50443 0.611283L4.59536 0.709472ZM4.23774 3.58131C4.1205 3.69823 3.9954 3.80224 3.86481 3.89292L4.16732 4.1944C4.37616 4.40146 4.71348 4.40146 4.92233 4.1944L5.03948 4.07683C5.24712 3.86856 5.24712 3.53289 5.04023 3.32537L4.69396 2.97982C4.57512 3.19366 4.4225 3.39724 4.23774 3.58131ZM3.63127 6.20812C3.18987 5.76861 3.05713 5.09817 3.22129 4.41265L3.58594 4.77606C4.08553 5.27139 4.8733 5.30053 5.40616 4.86409L5.50468 4.77508L5.62354 4.65583C6.15049 4.12726 6.15049 3.27419 5.6235 2.74559L5.12952 2.25263C5.94102 1.9309 6.78678 2.02047 7.30782 2.54049L7.33619 2.5688L7.41981 2.66435C8.05412 3.453 7.85793 4.81105 6.88253 5.78377C5.85464 6.80884 4.39504 6.97038 3.63127 6.20812ZM5.1235 17.4707V7.4953C5.82095 7.43741 6.54158 7.14608 7.15942 6.64062L8.16091 7.63937L8.74324 7.05864L7.74177 6.05992C8.1342 5.58303 8.39799 5.04494 8.52419 4.50367H16.7572C16.7789 4.50367 16.7963 4.52246 16.7963 4.54486V17.4707C16.7963 17.4945 16.7789 17.5126 16.7572 17.5126H5.16263C5.14162 17.5126 5.1235 17.4945 5.1235 17.4707ZM6.32076 11.5613C6.48149 11.4009 6.74221 11.4008 6.90308 11.561L7.45765 12.1136L8.85736 10.7178C9.01816 10.5574 9.27888 10.5574 9.43968 10.7178C9.60048 10.8781 9.60048 11.1381 9.43968 11.2985L7.4579 13.2748L6.32101 12.142C6.16014 11.9817 6.16002 11.7217 6.32076 11.5613ZM6.61205 9.56269H8.06146V8.83997H6.61205V9.56269ZM15.3085 9.56269H10.2356V8.83997H15.3085V9.56269ZM10.2356 12.4536H15.3085V11.7308H10.2356V12.4536ZM15.3085 15.3444H10.2356V14.6217H15.3085V15.3444ZM6.61205 15.3444H8.06146V14.6217H6.61205V15.3444ZM3.84534 1.12462L3.92229 1.19219C4.33355 1.60181 4.2427 2.41549 3.65556 3.00044C3.06841 3.58598 2.25318 3.67652 1.84204 3.266C1.43045 2.85554 1.52108 2.04238 2.10783 1.45725C2.66102 0.906659 3.41587 0.793918 3.84534 1.12462Z"></path>
+															</svg>
+															<span class="subcategory-header-label"><span data-cy="category-menu-subcategory-header-link-label">Skill plans</span></span>
+														</a>
+													</div>
+													<ul class="subcategory-list">
+														<li class="subcategory-item">
+															<a href="/skill-plans#spotlight-skill-plans" class="subcategory-item-link category-menu-link category-menu-page-ixl-plans" data-google-analytics="Main navigation.Link in hover menu clicked.Skill plans - IXL plans" data-cy="category-menu-subcategory-item-link">
+															IXL plans
+															</a>
+														</li>
+														<li class="subcategory-item">
+															<a href="/skill-plans#standards-skill-plans" class="subcategory-item-link category-menu-link category-menu-page-region-standards" data-google-analytics="Main navigation.Link in hover menu clicked.Skill plans - ${stateText}" data-cy="category-menu-subcategory-item-link">
+															${stateText}
+															</a>
+														</li>
+														<li class="subcategory-item">
+															<a href="/skill-plans#textbook-skill-plans" class="subcategory-item-link category-menu-link category-menu-page-textbooks" data-google-analytics="Main navigation.Link in hover menu clicked.Skill plans - Textbooks" data-cy="category-menu-subcategory-item-link">
+															Textbooks
+															</a>
+														</li>
+														<li class="subcategory-item">
+															<a href="/skill-plans#test-preparation-skill-plans" class="subcategory-item-link category-menu-link category-menu-page-test-prep" data-google-analytics="Main navigation.Link in hover menu clicked.Skill plans - Test prep" data-cy="category-menu-subcategory-item-link">
+															Test prep
+															</a>
+														</li>
+													</ul>
+												</li>
+											</div>
+											<div class="grid-item x-3 y-0" data-cy="category-menu-column">
+												<li class="menu-list-item" data-cy="category-menu-item">
+													<div class="subcategory-header">
+														<a href="/awards" class="subcategory-header-link category-menu-link category-menu-subcat-awards-educator-and-student" data-google-analytics="Main navigation.Header in hover menu clicked.Learning - Awards" data-cy="category-menu-subcategory-header-link">
+															<svg aria-hidden="true" class="subcategory-icon" width="20" height="18" viewBox="0 0 20 18" xmlns="http://www.w3.org/2000/svg">
+																<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M6.57888 7.34208C7.41312 6.73926 8.87818 7.75549 9.47029 8.38385C10.0624 9.0122 10.3729 9.9922 9.97677 10.7597C9.75441 11.1913 5.127 15.1401 4.11653 15.7849C3.49888 16.1777 2.73959 15.5584 3.01135 14.8782C4.049 12.2898 6.2643 7.6262 6.57888 7.34208Z"></path>
+																<path fill-rule="evenodd" clip-rule="evenodd" d="M10.5871 2.93802C11.3985 2.93802 12.0563 2.28052 12.0563 1.46884C12.0563 0.657735 11.3982 -0.000335693 10.5871 -0.000335693C9.77591 -0.000335693 9.1171 0.657818 9.1171 1.46884C9.1171 2.28044 9.77566 2.93802 10.5871 2.93802ZM1.03713 16.4368C1.06633 16.3611 1.12582 16.2078 1.2094 15.9933C1.34865 15.636 1.50453 15.2379 1.6733 14.8091C2.15555 13.584 2.64456 12.3589 3.11052 11.2152C3.17147 11.0656 3.23171 10.9182 3.29118 10.773C4.46756 7.903 5.21975 6.22398 5.52639 5.91693L5.79503 5.6483C6.07994 5.36379 6.54122 5.32839 7.1106 5.4947C7.78068 3.66441 7.68913 2.01936 6.63524 1.72231C5.76286 1.47625 5.15419 1.87247 5.15419 2.54503C5.15419 3.06917 5.81889 3.36459 6.11126 3.07222L6.57712 3.53808C5.86207 4.25313 4.49537 3.64571 4.49537 2.54503C4.49537 1.41094 5.5422 0.729486 6.81403 1.08821C8.39431 1.53363 8.533 3.56531 7.72766 5.73312C8.65142 6.16696 9.75463 6.99332 10.8272 8.06635C12.8905 10.1296 14.0412 12.3025 13.2451 13.0987L13.245 13.0988L13.2451 13.0988L13.2379 13.106C13.2004 13.1438 13.1224 13.222 12.9766 13.3671C12.6697 13.674 10.9912 14.4263 8.12186 15.6026C7.97645 15.6622 7.82872 15.7226 7.67879 15.7837C6.53516 16.2497 5.31012 16.7388 4.08512 17.221C3.6564 17.3898 3.2583 17.5457 2.90099 17.685C2.68654 17.7685 2.5333 17.828 2.45662 17.8576C2.02664 18.0324 1.53019 17.9657 1.22922 17.666C0.927929 17.3647 0.86084 16.8667 1.03713 16.4368ZM6.2608 6.11424C6.36524 6.01006 6.5782 6.00587 6.86839 6.08983C6.78618 6.27341 6.69673 6.45758 6.60023 6.64122L7.18345 6.94767C7.28957 6.74571 7.38829 6.5426 7.47924 6.33949C8.27611 6.7395 9.33857 7.509 10.3613 8.53216C12.1564 10.3273 13.1703 12.2417 12.7792 12.6328L12.7749 12.6372C12.3746 13.0161 10.4663 12.0027 8.67861 10.2151C6.88398 8.42048 5.87014 6.50562 6.26089 6.11433L6.2608 6.11424ZM5.6483 6.98851C5.95466 8.00776 6.89862 9.36683 8.21275 10.681C9.52661 11.9948 10.886 12.9389 11.9053 13.2453C11.1404 13.6202 9.71698 14.2366 7.87195 14.993C7.72698 15.0525 7.57968 15.1127 7.43018 15.1736C6.28924 15.6385 5.06653 16.1266 3.84378 16.608C3.41579 16.7765 3.01838 16.9321 2.66175 17.0711C2.44784 17.1545 2.29512 17.2138 2.21378 17.2452C2.00961 17.3281 1.79465 17.2993 1.6946 17.1996C1.59449 17.0995 1.56554 16.8846 1.64915 16.6806C1.68061 16.5992 1.73989 16.4465 1.82325 16.2326C1.96224 15.8759 2.11785 15.4785 2.28634 15.0504C2.7677 13.8276 3.25578 12.6048 3.72065 11.4638C3.78143 11.3146 3.84149 11.1676 3.90079 11.0229C4.65724 9.17737 5.27369 7.75357 5.6483 6.98851ZM11.3975 1.46884C11.3975 1.02159 11.0343 0.658488 10.5871 0.658488C10.1396 0.658488 9.77592 1.02182 9.77592 1.46884C9.77592 1.91636 10.1393 2.27919 10.5871 2.27919C11.0347 2.27919 11.3975 1.91659 11.3975 1.46884ZM13.4251 10.3108C13.3261 10.381 13.2578 10.4344 13.2246 10.4625L12.7995 9.95908C12.8462 9.91967 12.929 9.85505 13.0436 9.7736C13.2322 9.63968 13.4443 9.50609 13.6759 9.38129C14.614 8.8759 15.5823 8.65648 16.508 8.89961C16.7759 8.96998 17.034 9.07896 17.2802 9.22847C18.9627 10.2512 18.6499 12.2413 17.1289 12.4789C16.0372 12.6501 15.0845 11.7198 15.2695 10.953L15.9099 11.1074C15.8395 11.3996 16.3818 11.9292 17.027 11.828C17.9239 11.6879 18.11 10.5039 16.9382 9.79154C16.7467 9.67529 16.5475 9.59114 16.3406 9.53682C15.6051 9.34365 14.7934 9.5276 13.9884 9.96129C13.782 10.0725 13.5926 10.1918 13.4251 10.3108ZM18.5426 1.92688L18.0309 3.68483L19.1993 5.1406L17.2455 5.27194L16.2634 6.6951L15.5099 5.06418L13.8155 4.39192L15.245 3.32628L15.307 1.37232L16.8011 2.49425L18.5426 1.92688ZM15.9253 2.66049L16.6794 3.22679L17.5617 2.93934L17.3026 3.82986L17.8949 4.56797L16.8839 4.63593L16.3771 5.37041L15.9975 4.54887L15.1554 4.21478L15.8934 3.66465L15.9253 2.66049ZM10.4811 6.31148C12.3199 5.67746 13.2961 3.67135 12.6605 1.83301L13.2831 1.61773C14.0377 3.80013 12.8789 6.18161 10.6959 6.93432L10.4811 6.31148Z"></path>
+															</svg>
+															<span class="subcategory-header-label"><span data-cy="category-menu-subcategory-header-link-label">Awards</span></span>
+														</a>
+													</div>
+													<ul class="subcategory-list">
+														<li class="subcategory-item">
+															<a href="/awards/math" class="subcategory-item-link category-menu-link category-menu-page-math-awards" data-google-analytics="Main navigation.Link in hover menu clicked.Awards - Math awards" data-cy="category-menu-subcategory-item-link">
+															Math awards
+															</a>
+														</li>
+														<li class="subcategory-item">
+															<a href="/awards/ela" class="subcategory-item-link category-menu-link category-menu-page-ela-awards" data-google-analytics="Main navigation.Link in hover menu clicked.Awards - Language arts awards" data-cy="category-menu-subcategory-item-link">
+															Language arts awards
+															</a>
+														</li>
+														<li class="subcategory-item">
+															<a href="/awards/certificates" class="subcategory-item-link category-menu-link category-menu-page-certificates-center" data-google-analytics="Main navigation.Link in hover menu clicked.Awards - Certificates center" data-cy="category-menu-subcategory-item-link">
+															Certificates center
+															</a>
+														</li>
+													</ul>
+												</li>
+											</div>
+										</ul>
+									</nav>
+								</li>
+								<li class="ixl-nav-category-entry
+									no-category-menu" data-cy="assessment-category-entry">
+									<a data-cy="site-nav-category" class="site-nav-category
+										" href="/diagnostic/student-stats" data-google-analytics="Main navigation.Category clicked.Assessment">Assessment</a>
+								</li>
+								<li class="ixl-nav-category-entry
+									no-category-menu" data-cy="analytics-category-entry">
+									<a data-cy="site-nav-category" class="site-nav-category
+										" href="/analytics" data-google-analytics="Main navigation.Category clicked.Analytics">Analytics</a>
+								</li>
+							</ul>
+							<ul class="box-site-nav-categories-left hamburger category-list">
+								<li class="ixl-nav-category-entry" data-cy="hamburger-category-item">
+									<a class="category-hamburger link" href="/dashboard" data-google-analytics="Hamburger menu.Category link clicked.My IXL"><span class="link-text">My IXL</span></a>
+								</li>
+								<li class="ixl-nav-category-entry" data-cy="hamburger-category-item">
+									<button class="hamburger-button category-hamburger" aria-expanded="false" aria-controls="cat_learning-nav">
+										<span class="button-text">Learning</span>
+										<svg aria-hidden="true" class="right" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+											<path fill-rule="evenodd" clip-rule="evenodd" d="M0 1.29936L1.39726 0L10 8L1.39726 16L0 14.7006L7.2047 7.99908L0 1.29936Z"></path>
+										</svg>
+									</button>
+									<nav id="cat_learning-nav" class="category-nav hamburger-nav">
+										<button class="back-button category-hamburger" aria-expanded="true" aria-controls="cat_learning-nav" data-cy="hamburger-category-back-button">
+											<svg aria-hidden="true" class="left" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+												<path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.29936L8.60274 0L0 8L8.60274 16L10 14.7006L2.7953 7.99908L10 1.29936Z"></path>
+											</svg>
+											<span class="back-button-text">All</span>
+										</button>
+										<h2 class="category-hamburger-title">Learning</h2>
+										<ul class="subcategory-list hamburger-nav-list">
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_math" class="subcategory-hamburger link hamburger-subcat-math" href="/math" data-google-analytics="Hamburger menu.Subcategory link clicked.Learning - Math"><span class="link-text">Math</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_ela" class="subcategory-hamburger link hamburger-subcat-ela" href="/ela" data-google-analytics="Hamburger menu.Subcategory link clicked.Learning - Language arts"><span class="link-text">Language arts</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_recommendations" class="subcategory-hamburger link hamburger-subcat-recommendations" href="/recommendations" data-google-analytics="Hamburger menu.Subcategory link clicked.Learning - Recommendations"><span class="link-text">Recommendations</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<button class="hamburger-button subcategory-hamburger" aria-expanded="false" aria-controls="subcat_skill_plans-nav">
+													<span class="button-text">Skill plans</span>
+													<svg aria-hidden="true" class="right" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+														<path fill-rule="evenodd" clip-rule="evenodd" d="M0 1.29936L1.39726 0L10 8L1.39726 16L0 14.7006L7.2047 7.99908L0 1.29936Z"></path>
+													</svg>
+												</button>
+												<nav id="subcat_skill_plans-nav" class="hamburger-nav">
+													<button class="back-button subcategory-hamburger" aria-expanded="true" aria-controls="subcat_skill_plans-nav" data-cy="hamburger-subcategory-back-button">
+														<svg aria-hidden="true" class="left" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+															<path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.29936L8.60274 0L0 8L8.60274 16L10 14.7006L2.7953 7.99908L10 1.29936Z"></path>
+														</svg>
+														<span class="back-button-text">Learning</span>
+													</button>
+													<h2 class="category-hamburger-title">Skill plans</h2>
+													<ul class="pages-list hamburger-nav-list">
+														<li data-cy="hamburger-page-item">
+															<a class="link page-hamburger" href="/skill-plans#spotlight-skill-plans" data-google-analytics="Hamburger menu.Page link clicked.Skill plans - IXL plans"><span class="link-text">IXL plans</span></a>
+														</li>
+														<li data-cy="hamburger-page-item">
+															<a class="link page-hamburger" href="/skill-plans#standards-skill-plans" data-google-analytics="Hamburger menu.Page link clicked.Skill plans - ${stateText}"><span class="link-text">${stateText}</span></a>
+														</li>
+														<li data-cy="hamburger-page-item">
+															<a class="link page-hamburger" href="/skill-plans#textbook-skill-plans" data-google-analytics="Hamburger menu.Page link clicked.Skill plans - Textbooks"><span class="link-text">Textbooks</span></a>
+														</li>
+														<li data-cy="hamburger-page-item">
+															<a class="link page-hamburger" href="/skill-plans#test-preparation-skill-plans" data-google-analytics="Hamburger menu.Page link clicked.Skill plans - Test prep"><span class="link-text">Test prep</span></a>
+														</li>
+													</ul>
+												</nav>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<button class="hamburger-button subcategory-hamburger" aria-expanded="false" aria-controls="subcat_awards_educator_and_student-nav">
+													<span class="button-text">Awards</span>
+													<svg aria-hidden="true" class="right" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+														<path fill-rule="evenodd" clip-rule="evenodd" d="M0 1.29936L1.39726 0L10 8L1.39726 16L0 14.7006L7.2047 7.99908L0 1.29936Z"></path>
+													</svg>
+												</button>
+												<nav id="subcat_awards_educator_and_student-nav" class="hamburger-nav">
+													<button class="back-button subcategory-hamburger" aria-expanded="true" aria-controls="subcat_awards_educator_and_student-nav" data-cy="hamburger-subcategory-back-button">
+														<svg aria-hidden="true" class="left" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+															<path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.29936L8.60274 0L0 8L8.60274 16L10 14.7006L2.7953 7.99908L10 1.29936Z"></path>
+														</svg>
+														<span class="back-button-text">Learning</span>
+													</button>
+													<h2 class="category-hamburger-title">Awards</h2>
+													<ul class="pages-list hamburger-nav-list">
+														<li data-cy="hamburger-page-item">
+															<a class="link page-hamburger" href="/awards/math" data-google-analytics="Hamburger menu.Page link clicked.Awards - Math awards"><span class="link-text">Math awards</span></a>
+														</li>
+														<li data-cy="hamburger-page-item">
+															<a class="link page-hamburger" href="/awards/ela" data-google-analytics="Hamburger menu.Page link clicked.Awards - Language arts awards"><span class="link-text">Language arts awards</span></a>
+														</li>
+														<li data-cy="hamburger-page-item">
+															<a class="link page-hamburger" href="/awards/certificates" data-google-analytics="Hamburger menu.Page link clicked.Awards - Certificates center"><span class="link-text">Certificates center</span></a>
+														</li>
+													</ul>
+												</nav>
+											</li>
+										</ul>
+									</nav>
+								</li>
+								<li class="ixl-nav-category-entry" data-cy="hamburger-category-item">
+									<a class="category-hamburger link" href="/diagnostic/student-stats" data-google-analytics="Hamburger menu.Category link clicked.Assessment"><span class="link-text">Assessment</span></a>
+								</li>
+								<li class="ixl-nav-category-entry" data-cy="hamburger-category-item">
+									<button class="hamburger-button category-hamburger" aria-expanded="false" aria-controls="cat_analytics_student-nav">
+										<span class="button-text">Analytics</span>
+										<svg aria-hidden="true" class="right" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+											<path fill-rule="evenodd" clip-rule="evenodd" d="M0 1.29936L1.39726 0L10 8L1.39726 16L0 14.7006L7.2047 7.99908L0 1.29936Z"></path>
+										</svg>
+									</button>
+									<nav id="cat_analytics_student-nav" class="category-nav hamburger-nav">
+										<button class="back-button category-hamburger" aria-expanded="true" aria-controls="cat_analytics_student-nav" data-cy="hamburger-category-back-button">
+											<svg aria-hidden="true" class="left" width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+												<path fill-rule="evenodd" clip-rule="evenodd" d="M10 1.29936L8.60274 0L0 8L8.60274 16L10 14.7006L2.7953 7.99908L10 1.29936Z"></path>
+											</svg>
+											<span class="back-button-text">All</span>
+										</button>
+										<h2 class="category-hamburger-title">Analytics</h2>
+										<ul class="subcategory-list hamburger-nav-list">
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_usage_anl" class="subcategory-hamburger link hamburger-subcat-usage-anl" href="/analytics/student-usage" data-google-analytics="Hamburger menu.Subcategory link clicked.Analytics - Usage"><span class="link-text">Usage</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_trouble_spots_anl" class="subcategory-hamburger link hamburger-subcat-trouble-spots-anl" href="/analytics/trouble-spots" data-google-analytics="Hamburger menu.Subcategory link clicked.Analytics - Trouble Spots"><span class="link-text">Trouble Spots</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_scores_anl" class="subcategory-hamburger link hamburger-subcat-scores-anl" href="/analytics/score-grid" data-google-analytics="Hamburger menu.Subcategory link clicked.Analytics - Scores"><span class="link-text">Scores</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_questions_anl" class="subcategory-hamburger link hamburger-subcat-questions-anl" href="/analytics/questions-log" data-google-analytics="Hamburger menu.Subcategory link clicked.Analytics - Questions"><span class="link-text">Questions</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_progress_improvement_anl" class="subcategory-hamburger link hamburger-subcat-progress-improvement-anl" href="/analytics/progress-and-improvement" data-google-analytics="Hamburger menu.Subcategory link clicked.Analytics - Progress"><span class="link-text">Progress</span></a>
+											</li>
+											<li data-cy="hamburger-subcategory-item">
+												<a id="hamburger-subcat_student_summary" class="subcategory-hamburger link hamburger-subcat-student-summary" href="/analytics/student-summary" data-google-analytics="Hamburger menu.Subcategory link clicked.Analytics - Summary"><span class="link-text">Summary</span></a>
+											</li>
+										</ul>
+									</nav>
+								</li>
+							</ul>
+						</nav>
+						<div class="consolidated-rhs-container">
+							<div class="consolidated-search-trigger-container" id="consolidated-search-trigger" data-cy="search-popover-trigger-container">
+								<div class="skill-search-popover-container"></div>
+							</div>
+							<div id="student-live-messages-container-consolidated" class="student-live-messages-container">
+								<div></div>
+							</div>
+							<button aria-haspopup="true" class="user-nav-wrapper icon-and-name-button" href="#" id="user-nav-wrapper" data-cy="user-nav-wrapper">
+								<div class="user-avatar-container js-user-avatar-container custom-user-avatar-container">
+									<img alt="" class="user-avatar js-user-avatar" src="${profilePicUrl}" title="Drag award here" data-draggable="true">
+								</div>
+								<span class="display-name js-display-name" data-cy="${nameElement}">${name}</span>
+							</button>
+							<input type="hidden" name="" value="2" id="userType">
+						</div>
+						<nav class="box-site-nav-links">
+							<div aria-hidden="true" class="user-nav-popover-mask js-user-nav-popover-mask"></div>
+							<div id="user-nav-container" data-cy="user-nav-container" class="user-nav-container icon-and-name-button-container">
+								<button class="js-close-user-nav-button icon-and-name-button">
+									<div class="user-avatar-container js-user-avatar-container custom-user-avatar-container">
+										<img alt="" class="user-avatar js-user-avatar" src="${profilePicUrl}" title="Drag award here" data-draggable="true">
+									</div>
+									<span class="display-name js-display-name">${name}</span>
+								</button>
+								<div class="user-nav-box" id="user-nav">
+									<div class="user-nav-arrow-up"></div>
+									<ul class="user-nav-group mobile-layout-only" data-for-dev="display block in mobile layout; a flag in UserNav.js">
+										<li class="user-nav-item current-user">
+											<span class="user-nav-current-user mobile">
+											Welcome, ${name}!
+											</span>
+										</li>
+									</ul>
+									<ul class="user-nav-group" role="none">
+										<li class="user-nav-item" role="none">
+											<a class="user-nav-item-link" id="profileLink" data-cy="profile-settings-link" href="/profile" name="Profile">Profile &amp; settings</a>
+										</li>
+									</ul>
+									<ul class="user-nav-group user-nav-group-last" role="none">
+										<li class="user-nav-item signout" role="none">
+											<a class="user-nav-item-link" href="/signout" data-cy="sign-out-link">
+											Sign out</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</nav>
+					</div>
+				</div>
+				<nav class="sub-navigation js-sub-navigation" role="navigation" aria-label="Learning Navigation" data-cy="sub-navigation">
+					<ul class="sub-nav-subcategories">
+						<li class="sub-nav-subcategory hover-active" data-cy="subnav-subcategory">
+							<a class="subcategory-link sub-nav-subcat-math
+								" href="/math" data-google-analytics="Subnavigation.Header clicked.Math">
+								<svg aria-hidden="true" class="subcategory-icon" width="21" height="19" viewBox="0 0 21 19" xmlns="http://www.w3.org/2000/svg">
+									<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M9.34502 17.8062C9.94256 17.6134 19.0496 14.5511 19.0496 14.5511C19.0496 14.5511 11.359 10.3532 11.261 10.3829C9.40807 10.9511 1.27571 12.8535 1.08301 12.8535L9.34502 17.8062Z"></path>
+									<path fill-rule="evenodd" clip-rule="evenodd" d="M9.5407 0.326042L9.81481 0.00167847L10.0583 0.348429C10.0597 0.350447 10.0612 0.352482 10.0626 0.354534L20.1478 14.7174L9.47294 18.146C9.46815 18.1476 9.4633 18.1492 9.45841 18.1506L9.3256 18.1933L9.20427 18.1223C9.20063 18.1203 9.19703 18.1182 9.19348 18.116L0.118164 12.808L0.341253 12.5123L0.735778 11.9893L1.77593 10.6107L4.93261 6.4271C7.80505 2.62064 9.34189 0.585122 9.52164 0.350451C9.52762 0.342011 9.53398 0.333866 9.5407 0.326042ZM9.43622 1.55449C8.67112 2.56733 7.23777 4.46612 5.46051 6.82129L2.30186 11.0075L1.26172 12.3861L1.18249 12.4911L9.21415 10.5749L9.43622 1.55449ZM9.19738 11.2562L1.7911 13.0233L9.04936 17.2685L9.19738 11.2562ZM9.70566 17.3793L9.86029 11.098L11.3929 10.7324L18.5818 14.5284L9.70566 17.3793ZM9.87707 10.4167L10.0565 3.12804C10.109 3.14776 10.1672 3.15433 10.2265 3.14441C10.4059 3.11439 10.527 2.94459 10.497 2.76515L10.3552 1.91772L18.7489 13.8716L11.7358 10.1684L11.5517 9.0681C11.5217 8.88867 11.3519 8.76755 11.1724 8.79758C10.993 8.8276 10.8719 8.9974 10.9019 9.17684L11.0621 10.134L9.87707 10.4167ZM11.3408 7.80751L11.1298 6.54692C11.0998 6.36749 10.93 6.24637 10.7506 6.2764C10.5711 6.30642 10.45 6.47622 10.48 6.65566L10.691 7.91625C10.721 8.09568 10.8908 8.2168 11.0702 8.18677C11.2497 8.15675 11.3708 7.98695 11.3408 7.80751ZM10.7079 4.02574L10.9189 5.28633C10.9489 5.46577 10.8278 5.63557 10.6484 5.66559C10.4689 5.69562 10.2991 5.5745 10.2691 5.39507L10.0582 4.13448C10.0281 3.95504 10.1492 3.78524 10.3287 3.75521C10.5081 3.72519 10.6779 3.84631 10.7079 4.02574Z"></path>
+								</svg>
+								<span class="subcategory-name">Math</span>
+							</a>
+						</li>
+						<li class="sub-nav-subcategory active hover-active" data-cy="subnav-subcategory">
+							<a class="subcategory-link sub-nav-subcat-ela
+								" href="/ela" data-google-analytics="Subnavigation.Header clicked.Language arts">
+								<svg aria-hidden="true" class="subcategory-icon" width="20" height="19" viewBox="0 0 20 19" xmlns="http://www.w3.org/2000/svg">
+									<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M16.2289 5.28529V4.39341H13.4371C13.1135 4.39341 12.8491 4.70882 12.8491 5.09753V12.3932C12.8491 12.7819 13.1135 13.0973 13.4371 13.0973C13.7624 13.0973 14.0251 13.4119 14.0251 13.8006V15.3348C14.0251 15.7235 14.2887 16.0381 14.6131 16.0381H17.8446C18.1691 16.0381 18.4326 15.7235 18.4326 15.3348V5.98859C18.4326 5.59988 18.1691 5.28529 17.8446 5.28529H16.2289Z"></path>
+									<path fill-rule="evenodd" clip-rule="evenodd" d="M4.71714 3.86314V11.4263C4.71714 11.5915 4.84709 11.7274 5.01209 11.7349C7.97259 11.8679 9.54651 13.0898 9.87322 14.8762C9.7533 14.7791 9.63279 14.6978 9.50043 14.6247C8.92506 14.3063 8.22317 14.2405 7.43783 14.3671C7.14683 14.4136 6.91482 14.4673 6.4215 14.594C5.98865 14.7051 5.80181 14.7496 5.56973 14.7924C4.74153 14.9441 3.9076 14.9365 3.12829 14.7643V3.86314H4.71714ZM4.71714 3.23396H2.81371H2.79917C2.63332 3.23396 2.49887 3.37481 2.49887 3.54855L2.49912 3.56143V4.28989H1.86574C1.35518 4.28989 0.940918 4.70415 0.940918 5.21471V16.2311C0.940918 16.7416 1.35515 17.1551 1.86574 17.1551H8.27822C8.35721 17.6708 8.77951 18.0412 9.28739 18.0412H11.058C11.5765 18.0412 12.0058 17.6551 12.0739 17.1551H18.4788C18.99 17.1551 19.4044 16.7418 19.4044 16.2311V5.21471C19.4044 4.70396 18.99 4.28989 18.4788 4.28989H18.0901V3.44075C18.0901 3.42757 18.0893 3.41458 18.0877 3.40182C18.0887 3.37174 18.0853 3.34101 18.0771 3.31044C18.0322 3.1426 17.8597 3.04294 17.6919 3.08785C16.8466 3.31403 15.9281 3.33984 15.017 3.17212C14.7835 3.12943 14.596 3.08484 14.1727 2.97633C13.6694 2.84733 13.4396 2.79412 13.1485 2.74758C12.3636 2.62104 11.6617 2.68692 11.0862 3.00531C10.8202 3.15233 10.602 3.33224 10.3404 3.60742C9.41583 1.91125 7.16852 0.137718 5.02596 0.137718C4.8554 0.137718 4.71714 0.275983 4.71714 0.446542V3.23396ZM10.5554 4.30681V15.0136C10.7301 14.8519 10.8959 14.7299 11.0862 14.6247C11.6617 14.3063 12.3636 14.2405 13.1485 14.367C13.4399 14.4136 13.6719 14.4673 14.1769 14.597C14.5981 14.7051 14.7849 14.7496 15.0167 14.7923C15.8935 14.9529 16.7148 14.963 17.4609 14.8032V3.78711C16.6363 3.95045 15.7653 3.94961 14.9034 3.79097C14.6511 3.74482 14.454 3.69796 14.0089 3.58387C13.5318 3.46158 13.3148 3.41134 13.0488 3.3688C12.3903 3.26264 11.8248 3.31572 11.3907 3.5559C11.1246 3.70295 10.9018 3.91087 10.5595 4.30216L10.5554 4.30681ZM17.8342 15.3608C16.9354 15.5975 15.9495 15.6028 14.903 15.4111C14.6519 15.3649 14.4557 15.3181 14.0088 15.2034C13.5341 15.0815 13.3151 15.0308 13.0488 14.9882C12.3903 14.8821 11.8248 14.9351 11.3907 15.1753C11.1246 15.3224 10.9018 15.5303 10.5595 15.9216C10.4904 16.0006 10.3905 16.0367 10.2934 16.0277C10.1963 16.0367 10.0963 16.0006 10.0272 15.9216C9.68498 15.5303 9.4621 15.3224 9.19595 15.1753C8.76193 14.9351 8.19648 14.8821 7.53756 14.9883C7.27163 15.0308 7.05261 15.0815 6.56633 15.2064C6.13105 15.3181 5.9348 15.3649 5.6834 15.4112C4.68526 15.594 3.67582 15.5661 2.74062 15.3173C2.60212 15.2844 2.49912 15.1598 2.49912 15.0113V4.91907H1.86574C1.70266 4.91907 1.57009 5.05163 1.57009 5.21471V16.2311C1.57009 16.3939 1.70237 16.5259 1.86574 16.5259H8.60056C8.79117 16.5259 8.93799 16.6941 8.91228 16.8829L8.89127 17.0159C8.89127 17.2341 9.06913 17.412 9.28739 17.412H11.058C11.2762 17.412 11.4541 17.2341 11.4568 16.9749L11.4798 16.7995C11.5004 16.6429 11.6338 16.5259 11.7917 16.5259H18.4788C18.6429 16.5259 18.7753 16.3939 18.7753 16.2311V5.21471C18.7753 5.05157 18.6426 4.91907 18.4788 4.91907L18.0901 4.8984V15.0517C18.0901 15.2054 17.9799 15.3333 17.8342 15.3608ZM9.93772 13.3573V4.18445C9.26793 2.68236 7.25085 0.943558 5.33478 0.769578V11.1349C7.61639 11.2968 9.15179 12.1186 9.93772 13.3573ZM12.7824 6.25416C12.4232 6.16227 12.0258 6.22362 11.7131 6.41929C11.5904 6.49599 11.4288 6.45877 11.3521 6.33615C11.2754 6.21353 11.3127 6.05195 11.4353 5.97525C11.8697 5.70349 12.4144 5.61939 12.9134 5.74703C13.1019 5.79615 13.2427 5.85495 13.5423 5.9972C13.6634 6.05467 13.7174 6.07975 13.7835 6.10826C14.4338 6.38827 15.1734 6.46189 15.8676 6.31571C16.0091 6.28591 16.148 6.37648 16.1778 6.51801C16.2076 6.65954 16.1171 6.79843 15.9755 6.82824C15.1757 6.99667 14.3259 6.91209 13.5762 6.58924C13.5022 6.55735 13.4444 6.5305 13.3116 6.46747C13.0475 6.34211 12.9274 6.29195 12.7824 6.25416ZM11.7372 9.28921C12.0501 9.09349 12.4472 9.03233 12.8052 9.12475C12.953 9.16276 13.0727 9.21264 13.3413 9.34007C13.4698 9.40102 13.527 9.42752 13.6003 9.45916C14.3501 9.782 15.1998 9.86661 15.9989 9.69814C16.1404 9.66831 16.231 9.52939 16.2011 9.38787C16.1713 9.24635 16.0324 9.15581 15.8909 9.18564C15.1975 9.33181 14.4579 9.25817 13.8076 8.97818C13.7421 8.94989 13.6887 8.92514 13.5681 8.86797C13.267 8.72512 13.1266 8.66659 12.9358 8.61755C12.4391 8.48929 11.8942 8.57321 11.4594 8.84516C11.3368 8.92187 11.2996 9.08345 11.3763 9.20607C11.453 9.32869 11.6146 9.36591 11.7372 9.28921ZM12.782 12.1366C12.4232 12.0441 12.026 12.1053 11.7131 12.301C11.5904 12.3777 11.4288 12.3405 11.3521 12.2179C11.2754 12.0953 11.3127 11.9337 11.4353 11.857C11.8701 11.585 12.4149 11.5011 12.9127 11.6294C13.1016 11.6781 13.2434 11.7372 13.5362 11.876L13.5441 11.8798C13.6641 11.9367 13.7179 11.9617 13.7835 11.99C14.4338 12.27 15.1734 12.3436 15.8676 12.1974C16.0091 12.1676 16.148 12.2582 16.1778 12.3997C16.2076 12.5413 16.1171 12.6802 15.9755 12.71C15.1757 12.8784 14.3259 12.7938 13.5762 12.471C13.5028 12.4393 13.4452 12.4126 13.3195 12.353L13.3116 12.3492C13.0487 12.2245 12.928 12.1742 12.782 12.1366Z"></path>
+								</svg>
+								<span class="subcategory-name">Language arts</span>
+							</a>
+						</li>
+						<li class="sub-nav-subcategory hover-active" data-cy="subnav-subcategory">
+							<a class="subcategory-link sub-nav-subcat-recommendations
+								has-divider " href="/recommendations" data-google-analytics="Subnavigation.Header clicked.Recommendations">
+								<svg aria-hidden="true" class="subcategory-icon" width="21" height="18" viewBox="0 0 21 18" xmlns="http://www.w3.org/2000/svg">
+									<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M12.6455 14.6454H2.91876C2.86688 14.6454 2.81829 14.6207 2.7837 14.577L0.672171 12.9399C0.61123 12.8625 0.61123 12.7455 0.672171 12.6689L2.7837 11.0309C2.81829 10.9881 2.86688 10.9626 2.91876 10.9626H12.6117"></path>
+									<path fill-rule="evenodd" clip-rule="evenodd" d="M11.6698 1.63701C11.6698 2.4034 11.1431 3.04649 10.4321 3.22446V4.09113H17.768C17.8612 4.09113 17.9505 4.12873 18.0156 4.19541L20.1642 6.39671C20.2968 6.53257 20.2951 6.74994 20.1604 6.88372L18.0118 9.01749C17.947 9.08184 17.8594 9.11795 17.768 9.11795H10.4321V9.72786H12.6292C12.8202 9.72786 12.9751 9.88271 12.9751 10.0737V14.4648C12.9751 14.6558 12.8202 14.8107 12.6292 14.8107H10.4316L10.4241 17.294H15.2373C15.4284 17.294 15.5832 17.4489 15.5832 17.6399C15.5832 17.8309 15.4284 17.9858 15.2373 17.9858H5.32699C5.13596 17.9858 4.9811 17.8309 4.9811 17.6399C4.9811 17.4489 5.13596 17.294 5.32699 17.294H9.73235L9.73986 14.8107H2.65875C2.56738 14.8107 2.47972 14.7745 2.41491 14.7101L0.220208 12.5286C0.0847606 12.3939 0.0840626 12.175 0.218649 12.0395L2.41335 9.82999C2.47829 9.76462 2.56662 9.72786 2.65875 9.72786H9.74036V9.11795H6.93287C6.74184 9.11795 6.58699 8.96309 6.58699 8.77207V4.43701C6.58699 4.24598 6.74184 4.09113 6.93287 4.09113H9.74036V3.24727C8.97559 3.10937 8.39628 2.44137 8.39628 1.63701C8.39628 0.732556 9.12868 -0.000167847 10.0335 -0.000167847C10.937 -0.000167847 11.6698 0.732968 11.6698 1.63701ZM10.0335 0.691597C10.5549 0.691597 10.978 1.11495 10.978 1.63701C10.978 2.15884 10.5551 2.5816 10.0335 2.5816C9.51058 2.5816 9.08805 2.15925 9.08805 1.63701C9.08805 1.11454 9.5108 0.691597 10.0335 0.691597ZM19.4296 6.63451L17.6255 8.42618H15.5736L17.6213 6.56634L15.5839 4.78289H17.6223L19.4296 6.63451ZM14.8398 8.15813C14.7615 8.22927 14.7233 8.32812 14.7267 8.42618H7.27875V4.78289H14.7276C14.7239 4.88332 14.7639 4.98448 14.8454 5.05583L16.5819 6.57587L14.8398 8.15813ZM12.2833 10.4196V14.1189H5.6147C5.61232 14.0278 5.57419 13.9379 5.50141 13.8718L3.72964 12.2635L5.49318 10.7522C5.59212 10.6674 5.6314 10.5388 5.60691 10.4196H12.2833ZM4.81815 10.4196L2.68398 12.2485L4.74443 14.1189H2.80141L0.953109 12.2817L2.8027 10.4196H4.81815ZM2.24699 17.294H3.05322C3.24425 17.294 3.39911 17.4489 3.39911 17.6399C3.39911 17.8309 3.24425 17.9858 3.05322 17.9858H2.24699C2.05596 17.9858 1.9011 17.8309 1.9011 17.6399C1.9011 17.4489 2.05596 17.294 2.24699 17.294Z"></path>
+								</svg>
+								<span class="subcategory-name">Recommendations</span>
+							</a>
+						</li>
+						<li class="sub-nav-subcategory hover-active" data-cy="subnav-subcategory">
+							<a class="subcategory-link sub-nav-subcat-skill-plans
+								has-divider " href="/skill-plans" data-google-analytics="Subnavigation.Header clicked.Skill plans">
+								<svg aria-hidden="true" class="subcategory-icon" width="18" height="19" viewBox="0 0 18 19" xmlns="http://www.w3.org/2000/svg">
+									<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M13.5014 16.7859H13.3934C12.4237 16.7827 11.6384 15.9974 11.6353 15.0277V6.948C11.6384 5.97845 12.4238 5.19337 13.3934 5.19059H13.5014C14.4708 5.19338 15.256 5.97857 15.2588 6.948V15.0277C15.256 15.9973 14.4709 16.7827 13.5014 16.7859Z"></path>
+									<path fill-rule="evenodd" clip-rule="evenodd" d="M4.59536 0.709472C4.77777 0.923166 4.89676 1.1734 4.95565 1.44146C5.90259 1.10649 6.90209 1.18961 7.63612 1.73969L7.76049 1.8396H7.77047L7.89109 1.95998C8.3786 2.44653 8.61189 3.09487 8.61013 3.78095H16.7572C17.158 3.78095 17.4826 4.1228 17.4834 4.54486V17.4707C17.4834 17.8927 17.1587 18.2353 16.7579 18.2353H5.16336C4.7626 18.2353 4.43793 17.8927 4.43793 17.4707V7.47459C3.91481 7.39627 3.43168 7.17081 3.04906 6.78895C2.41322 6.15583 2.20948 5.24686 2.39515 4.33753C1.96891 4.31453 1.56822 4.15476 1.25954 3.84655C0.494348 3.08346 0.642149 1.75745 1.52579 0.876234C2.37352 0.0324977 3.62964 -0.138522 4.40596 0.520591L4.50443 0.611283L4.59536 0.709472ZM4.23774 3.58131C4.1205 3.69823 3.9954 3.80224 3.86481 3.89292L4.16732 4.1944C4.37616 4.40146 4.71348 4.40146 4.92233 4.1944L5.03948 4.07683C5.24712 3.86856 5.24712 3.53289 5.04023 3.32537L4.69396 2.97982C4.57512 3.19366 4.4225 3.39724 4.23774 3.58131ZM3.63127 6.20812C3.18987 5.76861 3.05713 5.09817 3.22129 4.41265L3.58594 4.77606C4.08553 5.27139 4.8733 5.30053 5.40616 4.86409L5.50468 4.77508L5.62354 4.65583C6.15049 4.12726 6.15049 3.27419 5.6235 2.74559L5.12952 2.25263C5.94102 1.9309 6.78678 2.02047 7.30782 2.54049L7.33619 2.5688L7.41981 2.66435C8.05412 3.453 7.85793 4.81105 6.88253 5.78377C5.85464 6.80884 4.39504 6.97038 3.63127 6.20812ZM5.1235 17.4707V7.4953C5.82095 7.43741 6.54158 7.14608 7.15942 6.64062L8.16091 7.63937L8.74324 7.05864L7.74177 6.05992C8.1342 5.58303 8.39799 5.04494 8.52419 4.50367H16.7572C16.7789 4.50367 16.7963 4.52246 16.7963 4.54486V17.4707C16.7963 17.4945 16.7789 17.5126 16.7572 17.5126H5.16263C5.14162 17.5126 5.1235 17.4945 5.1235 17.4707ZM6.32076 11.5613C6.48149 11.4009 6.74221 11.4008 6.90308 11.561L7.45765 12.1136L8.85736 10.7178C9.01816 10.5574 9.27888 10.5574 9.43968 10.7178C9.60048 10.8781 9.60048 11.1381 9.43968 11.2985L7.4579 13.2748L6.32101 12.142C6.16014 11.9817 6.16002 11.7217 6.32076 11.5613ZM6.61205 9.56269H8.06146V8.83997H6.61205V9.56269ZM15.3085 9.56269H10.2356V8.83997H15.3085V9.56269ZM10.2356 12.4536H15.3085V11.7308H10.2356V12.4536ZM15.3085 15.3444H10.2356V14.6217H15.3085V15.3444ZM6.61205 15.3444H8.06146V14.6217H6.61205V15.3444ZM3.84534 1.12462L3.92229 1.19219C4.33355 1.60181 4.2427 2.41549 3.65556 3.00044C3.06841 3.58598 2.25318 3.67652 1.84204 3.266C1.43045 2.85554 1.52108 2.04238 2.10783 1.45725C2.66102 0.906659 3.41587 0.793918 3.84534 1.12462Z"></path>
+								</svg>
+								<span class="subcategory-name">Skill plans</span>
+							</a>
+							<ul class="sub-nav-dropdown">
+								<li class="sub-nav-page" data-cy="subnav-page">
+									<a class="sub-nav-page-link" href="/skill-plans#spotlight-skill-plans" data-google-analytics="Subnavigation.Link in dropdown clicked.Skill plans - IXL plans">
+									IXL plans
+									</a>
+								</li>
+								<li class="sub-nav-page" data-cy="subnav-page">
+									<a class="sub-nav-page-link" href="/skill-plans#standards-skill-plans" data-google-analytics="Subnavigation.Link in dropdown clicked.Skill plans - ${stateText}">
+									${stateText}
+									</a>
+								</li>
+								<li class="sub-nav-page" data-cy="subnav-page">
+									<a class="sub-nav-page-link" href="/skill-plans#textbook-skill-plans" data-google-analytics="Subnavigation.Link in dropdown clicked.Skill plans - Textbooks">
+									Textbooks
+									</a>
+								</li>
+								<li class="sub-nav-page" data-cy="subnav-page">
+									<a class="sub-nav-page-link" href="/skill-plans#test-preparation-skill-plans" data-google-analytics="Subnavigation.Link in dropdown clicked.Skill plans - Test prep">
+									Test prep
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li class="sub-nav-subcategory hover-active" data-cy="subnav-subcategory">
+							<a class="subcategory-link sub-nav-subcat-awards-educator-and-student
+								has-divider " href="/awards" data-google-analytics="Subnavigation.Header clicked.Awards">
+								<svg aria-hidden="true" class="subcategory-icon" width="20" height="18" viewBox="0 0 20 18" xmlns="http://www.w3.org/2000/svg">
+									<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M6.57888 7.34208C7.41312 6.73926 8.87818 7.75549 9.47029 8.38385C10.0624 9.0122 10.3729 9.9922 9.97677 10.7597C9.75441 11.1913 5.127 15.1401 4.11653 15.7849C3.49888 16.1777 2.73959 15.5584 3.01135 14.8782C4.049 12.2898 6.2643 7.6262 6.57888 7.34208Z"></path>
+									<path fill-rule="evenodd" clip-rule="evenodd" d="M10.5871 2.93802C11.3985 2.93802 12.0563 2.28052 12.0563 1.46884C12.0563 0.657735 11.3982 -0.000335693 10.5871 -0.000335693C9.77591 -0.000335693 9.1171 0.657818 9.1171 1.46884C9.1171 2.28044 9.77566 2.93802 10.5871 2.93802ZM1.03713 16.4368C1.06633 16.3611 1.12582 16.2078 1.2094 15.9933C1.34865 15.636 1.50453 15.2379 1.6733 14.8091C2.15555 13.584 2.64456 12.3589 3.11052 11.2152C3.17147 11.0656 3.23171 10.9182 3.29118 10.773C4.46756 7.903 5.21975 6.22398 5.52639 5.91693L5.79503 5.6483C6.07994 5.36379 6.54122 5.32839 7.1106 5.4947C7.78068 3.66441 7.68913 2.01936 6.63524 1.72231C5.76286 1.47625 5.15419 1.87247 5.15419 2.54503C5.15419 3.06917 5.81889 3.36459 6.11126 3.07222L6.57712 3.53808C5.86207 4.25313 4.49537 3.64571 4.49537 2.54503C4.49537 1.41094 5.5422 0.729486 6.81403 1.08821C8.39431 1.53363 8.533 3.56531 7.72766 5.73312C8.65142 6.16696 9.75463 6.99332 10.8272 8.06635C12.8905 10.1296 14.0412 12.3025 13.2451 13.0987L13.245 13.0988L13.2451 13.0988L13.2379 13.106C13.2004 13.1438 13.1224 13.222 12.9766 13.3671C12.6697 13.674 10.9912 14.4263 8.12186 15.6026C7.97645 15.6622 7.82872 15.7226 7.67879 15.7837C6.53516 16.2497 5.31012 16.7388 4.08512 17.221C3.6564 17.3898 3.2583 17.5457 2.90099 17.685C2.68654 17.7685 2.5333 17.828 2.45662 17.8576C2.02664 18.0324 1.53019 17.9657 1.22922 17.666C0.927929 17.3647 0.86084 16.8667 1.03713 16.4368ZM6.2608 6.11424C6.36524 6.01006 6.5782 6.00587 6.86839 6.08983C6.78618 6.27341 6.69673 6.45758 6.60023 6.64122L7.18345 6.94767C7.28957 6.74571 7.38829 6.5426 7.47924 6.33949C8.27611 6.7395 9.33857 7.509 10.3613 8.53216C12.1564 10.3273 13.1703 12.2417 12.7792 12.6328L12.7749 12.6372C12.3746 13.0161 10.4663 12.0027 8.67861 10.2151C6.88398 8.42048 5.87014 6.50562 6.26089 6.11433L6.2608 6.11424ZM5.6483 6.98851C5.95466 8.00776 6.89862 9.36683 8.21275 10.681C9.52661 11.9948 10.886 12.9389 11.9053 13.2453C11.1404 13.6202 9.71698 14.2366 7.87195 14.993C7.72698 15.0525 7.57968 15.1127 7.43018 15.1736C6.28924 15.6385 5.06653 16.1266 3.84378 16.608C3.41579 16.7765 3.01838 16.9321 2.66175 17.0711C2.44784 17.1545 2.29512 17.2138 2.21378 17.2452C2.00961 17.3281 1.79465 17.2993 1.6946 17.1996C1.59449 17.0995 1.56554 16.8846 1.64915 16.6806C1.68061 16.5992 1.73989 16.4465 1.82325 16.2326C1.96224 15.8759 2.11785 15.4785 2.28634 15.0504C2.7677 13.8276 3.25578 12.6048 3.72065 11.4638C3.78143 11.3146 3.84149 11.1676 3.90079 11.0229C4.65724 9.17737 5.27369 7.75357 5.6483 6.98851ZM11.3975 1.46884C11.3975 1.02159 11.0343 0.658488 10.5871 0.658488C10.1396 0.658488 9.77592 1.02182 9.77592 1.46884C9.77592 1.91636 10.1393 2.27919 10.5871 2.27919C11.0347 2.27919 11.3975 1.91659 11.3975 1.46884ZM13.4251 10.3108C13.3261 10.381 13.2578 10.4344 13.2246 10.4625L12.7995 9.95908C12.8462 9.91967 12.929 9.85505 13.0436 9.7736C13.2322 9.63968 13.4443 9.50609 13.6759 9.38129C14.614 8.8759 15.5823 8.65648 16.508 8.89961C16.7759 8.96998 17.034 9.07896 17.2802 9.22847C18.9627 10.2512 18.6499 12.2413 17.1289 12.4789C16.0372 12.6501 15.0845 11.7198 15.2695 10.953L15.9099 11.1074C15.8395 11.3996 16.3818 11.9292 17.027 11.828C17.9239 11.6879 18.11 10.5039 16.9382 9.79154C16.7467 9.67529 16.5475 9.59114 16.3406 9.53682C15.6051 9.34365 14.7934 9.5276 13.9884 9.96129C13.782 10.0725 13.5926 10.1918 13.4251 10.3108ZM18.5426 1.92688L18.0309 3.68483L19.1993 5.1406L17.2455 5.27194L16.2634 6.6951L15.5099 5.06418L13.8155 4.39192L15.245 3.32628L15.307 1.37232L16.8011 2.49425L18.5426 1.92688ZM15.9253 2.66049L16.6794 3.22679L17.5617 2.93934L17.3026 3.82986L17.8949 4.56797L16.8839 4.63593L16.3771 5.37041L15.9975 4.54887L15.1554 4.21478L15.8934 3.66465L15.9253 2.66049ZM10.4811 6.31148C12.3199 5.67746 13.2961 3.67135 12.6605 1.83301L13.2831 1.61773C14.0377 3.80013 12.8789 6.18161 10.6959 6.93432L10.4811 6.31148Z"></path>
+								</svg>
+								<span class="subcategory-name">Awards</span>
+							</a>
+							<ul class="sub-nav-dropdown">
+								<li class="sub-nav-page" data-cy="subnav-page">
+									<a class="sub-nav-page-link" href="/awards/math" data-google-analytics="Subnavigation.Link in dropdown clicked.Awards - Math awards">
+									Math awards
+									</a>
+								</li>
+								<li class="sub-nav-page" data-cy="subnav-page">
+									<a class="sub-nav-page-link" href="/awards/ela" data-google-analytics="Subnavigation.Link in dropdown clicked.Awards - Language arts awards">
+									Language arts awards
+									</a>
+								</li>
+								<li class="sub-nav-page" data-cy="subnav-page">
+									<a class="sub-nav-page-link" href="/awards/certificates" data-google-analytics="Subnavigation.Link in dropdown clicked.Awards - Certificates center">
+									Certificates center
+									</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</nav>
+			</div>
+			<label for="header-menu-state" class="site-nav-header-mask header-menu"></label>
+			<label for="mobile-search-state" class="site-nav-header-mask mobile-search"></label>
+		</div>
+		<div id="student-same-question-mode-container" class="student-same-question-mode-container">
+			<div class="same-q-mode-banners"></div>
+		</div>
+		<div id="student-focus-session-container" class="student-focus-session-container"></div>
+		<div id="general-notifications-container"></div>
+		<script>var rc={"navigationRuntimeContext":{"generalNotification":{"token":"eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDcyNDQyMzEsImV4cCI6MTc0NzI1ODYzMSwicGF5bG9hZCI6IntcImNoYW5uZWxcIjpcIiNub3RpZmljYXRpb25fMTY0MTc5MjAxXCJ9In0.tB2M4lT3dJbhvhdDMXo2YcqGhUfw_LT8IHWpMGJQkjo","pubsubEndpoint":"https://pubsub.ixl.com","liveMessageSystemModel":{"isEligibleToReceiveMessages":true,"onMultipleActiveRosters":true,"expirationMilliseconds":3600000},"studentInvitationsModel":{"userIsStudent":true,"invitations":[],"timerDurationMs":1200000}},"isSkipToContentEnabled":true,"isUserSignedIn":true,"userType":2,"assessmentBannerModel":{"mathInProgress":false,"elaInProgress":false},"isUserEligibleForFocusMode":true,"hasSparkStudioAccess":false,"hasSharedAnalyticsAccess":false},"bannersRuntimeContext":{"banners":[],"isSingleBanner":false},"shouldShowBannerCarousel":true};if (!window.RUNTIME_CONTEXT) { window.RUNTIME_CONTEXT={}; }window.RUNTIME_CONTEXT.header=rc;</script>
+		<script type="text/javascript" src="/frontend/resources/header/header_en.346286e485a6fa7262cc.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js.2e3196cd73053f26dc7b.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_array_-573b95/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_array_-573b95.fdbbaeb7cb49a2e7211d.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_react-dom_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_react-dom_index_js.a9b588f269ce80eede40.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_utils_i18n_index_js/commons-ixl_utils_i18n_index_js.4e80f16df5163a2a000a.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_content_util_YUA_js/commons-yui3_ixl_content_util_YUA_js.5c5e0c8477d7e422a7f7.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_utils_FetchUtils_js/commons-ixl_utils_FetchUtils_js.825966791d5a43dbb884.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_util-commonjs_ErrorTracking_js/commons-yui3_ixl_util-commonjs_ErrorTracking_js.53cd621e4fbaeaf8b92b.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_resize-observer-polyfill_-e7d454/commons-build_output_build_work_client-js-dependencies_node_modules_resize-observer-polyfill_-e7d454.aec7d12b32d4ee5d744e.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_external_react_prop-types_js/commons-yui3_ixl_external_react_prop-types_js.391cd4093d7a33881945.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_utils_IxlModal_jsx/commons-ixl_utils_IxlModal_jsx.12600db747c901aef647.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_typed--1cab5f/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_typed--1cab5f.bd9b66e2ddd46ecacfbf.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-31c7d6/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-31c7d6.bb702608ed06791e8727.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_analytics-commonjs_shared_utils_constants_js/commons-yui3_ixl_analytics-commonjs_shared_utils_constants_js.46b538f74e637ecc3537.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-16a4e6/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-16a4e6.d32b342e5e939cd9d2ee.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_analytics-commonjs_shared_utils_UrlBuildingUtils_js/commons-yui3_ixl_analytics-commonjs_shared_utils_UrlBuildingUtils_js.b31f7f165b9cbd385346.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_redux_lib_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_redux_lib_index_js.407b8449553f6bd4061e.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-4c2565/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-4c2565.71572da54aeb5307409b.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_aria-hidden_dist_es2015_in-7986a1/vendor-build_output_build_work_client-js-dependencies_node_modules_aria-hidden_dist_es2015_in-7986a1.b009cada316985f311d7.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_react-redux_es_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_react-redux_es_index_js.8e8b75885d0acaa31b15.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_js-joda_core_dist_js-joda-260bf3/commons-build_output_build_work_client-js-dependencies_node_modules_js-joda_core_dist_js-joda-260bf3.cc2d17e6e37c372c47f5.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_ixl-node-build_node_modules_buffer_index_js/commons-build_output_build_work_ixl-node-build_node_modules_buffer_index_js.0bed6b297847b7f30ef3.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_header_navigation_quickLoginForm_features_signin_signinSlice_js/commons-ixl_header_navigation_quickLoginForm_features_signin_signinSlice_js.6eed882c7300a96d8953.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_utils_ixlModal_IxlModal_jsx/commons-ixl_utils_ixlModal_IxlModal_jsx.f090498000e6cac28df8.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_utils_Websocket_js-ixl_utils_hooks_useMountEffect_js/commons-ixl_utils_Websocket_js-ixl_utils_hooks_useMountEffect_js.f101d2f1b6147d107c9e.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_analytics-commonjs_teacher_selectors_utils_TypeableDropdownUtils_jsx-yui3_ix-9a2f66/commons-yui3_ixl_analytics-commonjs_teacher_selectors_utils_TypeableDropdownUtils_jsx-yui3_ix-9a2f66.0485024c8f4ea60f9814.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_react-beautiful-dnd_dist_-7affe9/commons-build_output_build_work_client-js-dependencies_node_modules_react-beautiful-dnd_dist_-7affe9.e7562269ab69fc565d75.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_utils_SkillPickerUtils_jsx/commons-ixl_utils_SkillPickerUtils_jsx.e680b6284aa7cbbb311f.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_radix-ui_react-dropdown-me-83c60d/vendor-build_output_build_work_client-js-dependencies_node_modules_radix-ui_react-dropdown-me-83c60d.51c2fd07a5b3947d94a4.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_sameQuestionMode_components_StudentAvatar_jsx-ixl_sameQuestionMode_components_Stu-e1b3fd/commons-ixl_sameQuestionMode_components_StudentAvatar_jsx-ixl_sameQuestionMode_components_Stu-e1b3fd.b9d5258ffb2e84237a54.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_newsfeed_external_shared_Newsfeed_Newsfeed_jsx-ixl_newsfeed_external_shared_toast-2b40ee/commons-ixl_newsfeed_external_shared_Newsfeed_Newsfeed_jsx-ixl_newsfeed_external_shared_toast-2b40ee.932b944bb230f8796492.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_componentLibrary_atoms_CtaBtn_jsx-ixl_componentLibrary_molecules_SubSectionParagr-436b77/commons-ixl_componentLibrary_atoms_CtaBtn_jsx-ixl_componentLibrary_molecules_SubSectionParagr-436b77.11ba42da8a41f164b841.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_react-slick_lib_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_react-slick_lib_index_js.dd51df916f0f1df32a07.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/commons-ixl_componentLibrary_atoms_InlineSvg_jsx-ixl_header_navigation_portalProviders_modalP-b4ed1f/commons-ixl_componentLibrary_atoms_InlineSvg_jsx-ixl_header_navigation_portalProviders_modalP-b4ed1f.e3d56663d486dce777f1.bundle.js" defer=""></script><script type="text/javascript" src="/frontend/header/header.15039589829b784ff79c.bundle.js" defer=""></script>
+		<script src="/v2/mwrOtIK-dD6TAH34XK29_8II7DM/yui3/browser/config.js"></script>
+		<script src="/vendor/yui/3.18.1/yui/yui-min.js"></script>
+		<div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important" class=""></div>
+		<script src="/combo/dv3/zeyzJp_xIi5ITRc4JU9PrloOEik/yui3/prepage/?modules=yuiPerf-min.js,quire-min.js"></script>
+		<script src="/dv3/ON4OXH_9QzrTZ2-imMQLUcRGNfc/yui3/intl/Intl-min.js"></script>
+		<script src="/dv3/ON4OXH_9QzrTZ2-imMQLUcRGNfc/yui3/intl/en-US-min.js"></script>
+		<main id="practice-page-container">
+			<article class="practice-page us has-mobile-view has-summary">
+				<nav class="breadcrumb-nav site-nav-breadcrumb unzoom practice-breadcrumb responsive">
+					<section class="breadcrumb-content site-nav-breadcrumb-content" data-cy="breadcrumb-content">
+						<a href="/ela/level-a" class="breadcrumb-link breadcrumb-element">${grade}</a><img class="breadcrumb-sep breadcrumb-element" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAASCAMAAABVab95AAAAdVBMVEV/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39drN8cAAAAJ3RSTlMAswEEB4eWBm1bbggCfml4ZnpfhW+IgFZiXokKYWWEaIFrf4J8eXAFIvj3AAAAW0lEQVR4Xj3ORRLFMAwD0CgNNWXGz3D/I3Zhx1q90Wgh5cZScQKajKkDOnGNStxi9my14mOSewziHFORvMBKLdywH6QTlqb6hrshPfBkvfD2pIgvX4j4sZT7J10qIANZobzyMQAAAABJRU5ErkJggg==" alt=""><span data-skill="2020696417" class="suggestion-toggle-icon hidden"></span>
+						<div class="breadcrumb-selected">${skillCode} <h1 class="breadcrumb-skill-name" data-cy="breadcrumb-skill-name">${skillName}</h1>
+						</div>
+						<h1 class="grades-landing-permacode">${permacode}</h1>
+					</section>
+				</nav>
+				<section class="summary-container snow-capped-mountain responsive">
+					<div class="summary-body">
+						<aside class="practice-summary-box" aria-hidden="true">
+							<article class="practice-stats-summary" aria-label="practice statistics summary">
+								<section class="time-spent practice-stats-row">
+									<h3 class="hdr-time-spent">Time spent</h3>
+									<span class="practice-stats-value">${time} min ${SECrandomNumber} sec</span><span class="practice-stats-children"></span>
+								</section>
+								<section class="smart-score practice-stats-row">
+									<h3 class="hdr-smart-score">SmartScore</h3>
+									<span class="practice-stats-value">100</span><span class="practice-stats-children"></span>
+								</section>
+								<section class="problems-correct practice-stats-row">
+									<h3 class="hdr-problems-correct">Questions correct</h3>
+									<span class="practice-stats-value"><a class="lk-problems-correct" href="/analytics/questions-log#skill=2020696417">${rightQrandomNumber} / ${totalQrandomNumber}</a></span><span class="practice-stats-children"></span>
+								</section>
+							</article>
+						</aside>
+						<section class="mastery-box">
+							<h2 class="mastery-header">Spectacular!</h2>
+							<p class="mastery-message">You have mastered the skill and earned a gold medal.</p>
+						</section>
+						<section class="keep-practice-container">
+							<div class="gold-medal "></div>
+							<p class="keep-practice-message">Win more prizes!</p>
+							<aside class="dv-keep-practice-lk"><a class="keep-practicing-lk" href="/ela/level-a"><em>Keep practicing</em><span class="continue-symbol">&gt;&gt;</span></a></aside>
+						</section>
+					</div>
+					<div class="dv-bottom-trim"></div>
+				</section>
+			</article>
+		</main>
+		<script>
+			var signedIn = true;
+			window.__JS_ERROR_TRACKING_CONFIG__ = {"failToReportTolerance":5,"isReportingEnabled":false,"maxDuplicateErrorPerPageLoad":5,"samplingOneOf":100,"sendIntervalMs":1000};;
+			(function() {
+			var Y = PROD_YUI;
+			Y.use(["node","io","transfer-rosters-TransferRosters","util-StaticResources","util-DateTimeFormat","util-NumberFormat","util-GrammarFunctions","util-PluralRules","util-ErrorTracking","ixl_signin-commonjs_utils_recordSignin"]);
+			Y.Get.js(["/yui2.9.0/yuiloader/yuiloader-min.js","/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static/math/common/ixlloader.js"], {
+			onSuccess: function() {
+			  Y.use(["util-StaticResources"], function() {
+			    var loader = YAHOO.util.IXLLoader.makeDefaultLoader(true,false,"/dv3/vA1RNBjy2gCOdgvKDn9smpmtEKU/static",Y);
+			
+			   loader.insert({
+			     onSuccess: function() {
+			       this.defaultSuccess();
+			     }
+			   });
+			
+			    });
+			 }
+			});
+			}());
+			
+			var smartScoreToolTipLink = "/resources/IXL_SmartScore_guide.pdf";
+			var hasRefererLink = false;
+			window.__PRACTICE_MODEL__ = {
+			  pesId: 'b40d7dd33ea802467bcde4386e4517a9_mao83p5r_4u55',
+			  initialQuestionKey: 'TyQ4gv8B4WesMkDiTouN',
+			  practiceStatistics: {"prevQuestionNumber" : null, "score" : 0, "recordedSecondsSpent" : 0, "prevScore" : 100, "lastCorrect" : false, "lastResponseDate" : {"objectType" : "Date"}, "highScore" : 0, "problemsAttempted" : 0, "hasPrevQuestion" : true, "lastBonusRoundQuestion" : null, "prizesToReveal" : true},
+			  initialTimeElapsed: 0,
+			  maxTimePerQuestion: 120000,
+			  numMedals: 3,
+			  isMastered: true,
+			  showTakeABreakLink: true,
+			  takeABreakLink: '/recommendations/',
+			  scoringType: 'TRADITIONAL_SMART_SCORE',
+			  isParent: false,
+			  practiceLimited: false,
+			  practiceLimitReached: false,
+			  practiceRecorded: true,
+			  subjectWarningMessage: "",
+			  smartScoreToolTipLink: smartScoreToolTipLink,
+			  incompleteAnswerPopoverPaths: {"buttonAudioPaths":{"SUBMIT":{"OPUS":"/media/0/practice/submit_button.opus","AAC":"/media/0/practice/submit_button.m4a"},"GO_BACK":{"OPUS":"/media/0/practice/go_back_button.opus","AAC":"/media/0/practice/go_back_button.m4a"}},"warningMessageAudioPaths":{"MULTIPLE_SELECT":{"OPUS":"/media/0/practice/warning_message_multiple_select.opus","AAC":"/media/0/practice/warning_message_multiple_select.m4a"},"DEFAULT":{"OPUS":"/media/0/practice/warning_message_default.opus","AAC":"/media/0/practice/warning_message_default.m4a"},"FILL_IN":{"OPUS":"/media/0/practice/warning_message_fill_in.opus","AAC":"/media/0/practice/warning_message_fill_in.m4a"},"MULTIPLE_CHOICE":{"OPUS":"/media/0/practice/warning_message_multiple_choice.opus","AAC":"/media/0/practice/warning_message_multiple_choice.m4a"}}},
+			  diagnosePracticeUrl: '/practice-help',
+			  cutoff: 
+			
+			
+			
+			
+			
+			
+			{"cutoffType":"PRACTICE_LIMIT","cutoffMessage":"","popover":{"header":"","dialogType":"signedOutPracticeLimit","functionalLayoutData":"","body":"<h3 class=\"dailyLimitHeader logged-in\"><\/h3>\n        <div id=\"dailylimit\" class=\"logged-in\">\n          <p>\n            \n            \n          <\/p>\n      \n          <div class=\"becomemember\">\n            \n          <\/div>\n\n          \n\n          \n\n        <\/div>\n        \n          <div class=\"practice-limit-image-location-small skill-subject-1\"><\/div>","buttons":[],"signedInStatus":"1","width":"545px"}}
+			,
+			  teacherPreviewBoxEnabled: false,
+			  isSpanishSkill: false,
+			  isSkillStepJumpsEnabled: true,
+			  hasNeutralAccolades: false,
+			  
+			  sampleAvailableInitially: true,
+			  isLoggedIn: !false,
+			  returnTargetInfo: {
+			    returnsToSkillPlan: false,
+			    returnUrl: "/ela/level-a",
+			    returnPhrase: "Level A",
+			  },
+			  selectedSummaryTheme: JSON.parse("{\"themeId\":\"snow-capped-mountain\",\"cssSettings\":{\"cssModule\":\"practice-css-snow-capped-mountain\",\"cssClassname\":\"snow-capped-mountain\"}}"),
+			  edition: "US",
+			  subject: "LANGUAGE_ARTS",
+			  grade: "US_PRE_K",
+			  isCheckpointSkill: false,
+			  shareConfig: {
+			    name: "IXL language arts practice - Choose the short o word that matches the picture: lowercase (Level A)",
+			    link: "https://www.ixl.com/ela/level-a/choose-the-short-o-word-that-matches-the-picture-lowercase",
+			    tweetLink: "https://www.ixl.com/ela/level-a/choose-the-short-o-word-that-matches-the-picture-lowercase",
+			    picture: "https://www.ixl.com/static/ixl/socialSharing/images/square-og-icon.png",
+			    fbDescription: "Boost your vocabulary and sharpen your grammar skills with IXL language arts! Try free exercises on 'Choose the short o word that matches the picture: lowercase' and hundreds of other skills for grades P-12.",
+			    tweetDescription: "Check+out+this+fun+language+arts+skill+from+%23IXLLearning%21",
+			    customDomainUrl: "https://www.ixl.com/signin/harrisoncsd",
+			    emailTitle: "IXL language arts practice - Choose the short o word that matches the picture: lowercase (Level A)",
+			    emailSummary: "Explore the wonderful world of words with IXL! Language arts comes to life for grades P-12, in hundreds of different skills. Try it today!",
+			    shouldShowCopyLink: true,
+			    pageType: 'skill',
+			    showGoogleClassroomButton: false,
+			    showShowCopyLink: true,
+			    loadOnly: false,
+			  },
+			  showRecommendations: true,
+			  showPracticeTimer: true,
+			  enableScratchpad: false,
+			  userId: signedIn ? 164179201 : null,
+			  refererUrl: hasRefererLink ? "" : null,
+			  showPermacodes: true,
+			  breadCrumbConfig: {
+			    showSocialSharing: false,
+			    breadcrumbLink: {
+			      linkTitle: "Level A",
+			      url: "/ela/level-a",
+			    },
+			    suggestedState: 1,
+			    skillStarIsDisabled: false,
+			    skillHasBeenSuggestedByCoteachers: false,
+			    hasSuggestedSkillStar: true,
+			    shouldShowSkillAnalysisIcon: false,
+			    isTeacher: false,
+			    currSkillId: 2020696417,
+			    skillHasLimitedAccess: false,
+			    skillNumber: "M.2",
+			    skillName: "Choose the short o word that matches the picture: lowercase",
+			    showPermacodes: true,
+			    skillPermacode: "P7B",
+			  },
+			  stageStatistics: {"state" : null, "stageNumber" : 1, "numStages" : 2},
+			  isResponsive: true,
+			  rootDomain: "ixl.com",
+			  prizesText: JSON.parse("{\"prizeTypeSingular\":\"animal\",\"prizeTypePlural\":\"animals\",\"prizeLocation\":\"collection\",\"prizeLocationSummary\":\"the awards tab\"}"),
+			  prizeUrl: '/awards/ela/level-a#/ela/level-a/choose-the-short-o-word-that-matches-the-picture-lowercase',
+			  skillId: 2020696417,
+			  skillName: "Choose the short o word that matches the picture: lowercase",
+			  canSetUpSameQuestionMode: false,
+			  isFromExpiredSameQuestionMode: false,
+			  videoDisplayContainer: JSON.parse("{\"videoId\":\"1_f7qpnh3c\",\"skillVideoProvider\":\"KALTURA\",\"thumbnailUrl\":\"https://cfvod.kaltura.com/p/4764982/sp/476498200/thumbnail/entry_id/1_f7qpnh3c/version/100011\",\"playerId\":\"50822372\",\"partnerId\":\"4764982\"}"),
+			  navigatedFromGc: false,
+			  accountHeaderId: 3686437,
+			  <!-- calls wyzant action due to legacy code -->
+			  <!-- see resources-navigation-banner.jsp for more information -->
+			  resourcesBannerModel: JSON.parse("{\"bannerTitleKeyword\":\"learning\",\"keyword\":\"preschool english language arts\",\"userType\":-1,\"wyzantBaseUrl\":\"https://wyzant.com/match/search?\"}"),
+			  showResourcesBanner: false,
+			  showVideoDirectly: false,
+			  userKalturaSession: "djJ8NDc2NDk4MnxM6LIz7BtBWdg6OtZV8aI1h0k2so2TtxGFzPWrvcM5NetllKimDVXJUvmL6-QiDvfefu65c-qwtC6wOJAWIaScCO96tosjM0X7Y_yPRUmN8A==",
+			  hasSpanishTranslations: false,
+			  isLMEdition: false,
+			  ravenLanguage: null,
+			  ravenWithoutOptionalAudio: JSON.parse("false"),
+			  botDetectionExecutionProbability: JSON.parse("0.05"),
+			  <!-- Recaptcha related fields for script loading and token generation -->
+			  recaptchaSiteKey: '6Lcq04AUAAAAAGSiB3-3J5ZSQZSTARc4GfabojnP',
+			  recaptchaScriptSrc: 'https://www.recaptcha.net/recaptcha/api.js?render=6Lcq04AUAAAAAGSiB3-3J5ZSQZSTARc4GfabojnP&hl=en',
+			  <!-- Fields related to Takeoff lesson alignments to this particular skill -->
+			  showTakeoffLessonAlignmentLink: false,
+			  takeoffLessonAlignmentUrl: '',
+			  alignedLessonId: -1,
+			  teacherEngagementToolsModel: null,
+			  pubsubEndpoint: "https://pubsub.ixl.com",
+			  pubsubToken: "eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDcyNDQyMzEsImV4cCI6MTc0NzI1ODYzMSwicGF5bG9hZCI6IntcImNoYW5uZWxcIjpcIiNub3RpZmljYXRpb25fMTY0MTc5MjAxXCJ9In0.tB2M4lT3dJbhvhdDMXo2YcqGhUfw_LT8IHWpMGJQkjo",
+			  focusSession: null,
+			  smartScoreGoal: "NOT_SET",
+			  shouldShowEditSettingsLink: false,
+			};
+		</script>
+		<script>var rc={"googleAnalyticsConfiguration":{"sessionUserType":"C","shouldSendHits":true,"subscriptionStatus":"A","scriptUrl":"//www.google-analytics.com/analytics.js","gaTrackingId":"UA-18268683-1","userType":"SS"},"googleTagManagerConfiguration":{"gtmAccountId":"GTM-MQKK9F","auth":"rVfbE8en3IxbGbyIWqZqog","preview":"env-36","country":"US","debugId":"5590fa37-3799-4943-85ce-af867215ee95","hashedAccntHeaderId":"null","region":""},"isUserSignedIn":true};if (!window.RUNTIME_CONTEXT) { window.RUNTIME_CONTEXT={}; }window.RUNTIME_CONTEXT.sunshine=rc;</script>
+		<script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js.2e3196cd73053f26dc7b.bundle.js"></script><script type="text/javascript" src="/frontend/vendor-yui3_ixl_external_fetch_js/vendor-yui3_ixl_external_fetch_js.373552881c0b155bb27b.bundle.js"></script><script type="text/javascript" src="/frontend/sunshine/sunshine.e6bc2ba769acf0185d4b.bundle.js"></script>
+		<script type="text/javascript" src="/frontend/resources/snow-capped-mountain/snow-capped-mountain_en.921646bd1c6c0bb5ef9d.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js.2e3196cd73053f26dc7b.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_array_-573b95/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_array_-573b95.fdbbaeb7cb49a2e7211d.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_react-dom_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_react-dom_index_js.a9b588f269ce80eede40.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_utils_i18n_index_js/commons-ixl_utils_i18n_index_js.4e80f16df5163a2a000a.bundle.js"></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_content_util_YUA_js/commons-yui3_ixl_content_util_YUA_js.5c5e0c8477d7e422a7f7.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_utils_FetchUtils_js/commons-ixl_utils_FetchUtils_js.825966791d5a43dbb884.bundle.js"></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_util-commonjs_ErrorTracking_js/commons-yui3_ixl_util-commonjs_ErrorTracking_js.53cd621e4fbaeaf8b92b.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_resize-observer-polyfill_-e7d454/commons-build_output_build_work_client-js-dependencies_node_modules_resize-observer-polyfill_-e7d454.aec7d12b32d4ee5d744e.bundle.js"></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_external_react_prop-types_js/commons-yui3_ixl_external_react_prop-types_js.391cd4093d7a33881945.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_utils_IxlModal_jsx/commons-ixl_utils_IxlModal_jsx.12600db747c901aef647.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_typed--1cab5f/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_typed--1cab5f.bd9b66e2ddd46ecacfbf.bundle.js"></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-31c7d6/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-31c7d6.bb702608ed06791e8727.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_lodash_lodash_js/commons-build_output_build_work_client-js-dependencies_node_modules_lodash_lodash_js.847f4b45d12eb7e10077.bundle.js"></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_analytics-commonjs_shared_utils_constants_js/commons-yui3_ixl_analytics-commonjs_shared_utils_constants_js.46b538f74e637ecc3537.bundle.js"></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-16a4e6/vendor-build_output_build_work_client-js-dependencies_node_modules_tanstack_query-core_build_-16a4e6.d32b342e5e939cd9d2ee.bundle.js"></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_analytics-commonjs_shared_utils_UrlBuildingUtils_js/commons-yui3_ixl_analytics-commonjs_shared_utils_UrlBuildingUtils_js.b31f7f165b9cbd385346.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_redux_lib_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_redux_lib_index_js.407b8449553f6bd4061e.bundle.js"></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_aria-hidden_dist_es2015_in-7986a1/vendor-build_output_build_work_client-js-dependencies_node_modules_aria-hidden_dist_es2015_in-7986a1.b009cada316985f311d7.bundle.js"></script><script type="text/javascript" src="/frontend/commons-yui3_ixl_product-components_IxlModal_jsx-ixl_utils_ClassNameUtils_js/commons-yui3_ixl_product-components_IxlModal_jsx-ixl_utils_ClassNameUtils_js.767b23b463a1e10332d9.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_utils_videos_KalturaPlayer_jsx/commons-ixl_utils_videos_KalturaPlayer_jsx.c2cbfee268d94a9bb61a.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_practice_components_views_IndicatorContainer_jsx-ixl_practice_util_UseYUIPractice-3839e0/commons-ixl_practice_components_views_IndicatorContainer_jsx-ixl_practice_util_UseYUIPractice-3839e0.17ba7f9cd808366b0bef.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_ixl-node-build_node_modules_buffer_index_js/commons-build_output_build_work_ixl-node-build_node_modules_buffer_index_js.0bed6b297847b7f30ef3.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_radix-ui_react-dialog_dis-75c5cd/commons-build_output_build_work_client-js-dependencies_node_modules_radix-ui_react-dialog_dis-75c5cd.032403e1b5c7275d9304.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_header_navigation_quickLoginForm_features_signin_signinSlice_js/commons-ixl_header_navigation_quickLoginForm_features_signin_signinSlice_js.6eed882c7300a96d8953.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_utils_PlainTooltip_jsx-ixl_utils_crispButton_CrispButton_jsx-ixl_utils_hooks_UseO-ba2055/commons-ixl_utils_PlainTooltip_jsx-ixl_utils_crispButton_CrispButton_jsx-ixl_utils_hooks_UseO-ba2055.3dac4c30d140def5ed09.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_practice_components_popovers_incompleteAnswerPopover_AudioWrapperGenerationUtils_jsx/commons-ixl_practice_components_popovers_incompleteAnswerPopover_AudioWrapperGenerationUtils_jsx.f6bc0c4dab5735922a07.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_practice_components_widgets_Question_jsx-ixl_scratchPad_components_Scratchpad_jsx-c0668a/commons-ixl_practice_components_widgets_Question_jsx-ixl_scratchPad_components_Scratchpad_jsx-c0668a.9e2f2628a0b26a851b3e.bundle.js"></script><script type="text/javascript" src="/frontend/vendor-build_output_build_work_client-js-dependencies_node_modules_radix-ui_react-tabs_dist_i-818ef8/vendor-build_output_build_work_client-js-dependencies_node_modules_radix-ui_react-tabs_dist_i-818ef8.a82cee58865209b54864.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_practice_components_core_PracticeViewManager_jsx-ixl_practice_components_core_wit-0d482c/commons-ixl_practice_components_core_PracticeViewManager_jsx-ixl_practice_components_core_wit-0d482c.3b2b7cff8d48b2620933.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_utils_Websocket_js-ixl_utils_hooks_useMountEffect_js/commons-ixl_utils_Websocket_js-ixl_utils_hooks_useMountEffect_js.f101d2f1b6147d107c9e.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_componentLibrary_atoms_AfterArrowRight_jsx-ixl_practice_index_jsx-ixl_utils_Creat-48e34c/commons-ixl_componentLibrary_atoms_AfterArrowRight_jsx-ixl_practice_index_jsx-ixl_utils_Creat-48e34c.a3ce96e71be3b3b5acbe.bundle.js"></script><script type="text/javascript" src="/frontend/snow-capped-mountain/snow-capped-mountain.c1416da445c2c70fca0d.bundle.js"></script>
+		<div id="footer-spacer"></div>
+		<footer class="site-nav-footer">
+			<div id="ft" class="site-nav-fixed-width content-width-1200">
+				<div class="utility-links">
+					<a href="/company" target="_blank">Company</a> |
+					<a href="https://blog.ixl.com">Blog</a> |
+					<a href="/help-center">Help center</a> |
+					<a href="/userguides">User guides</a> |
+					<a href="/feedback">Tell us what you think</a> |
+					<a href="/testimonials">Testimonials</a> |
+					<a href="/contact">Contact us</a> |
+					<a href="/termsofservice">Terms of service</a> |
+					<a href="/privacypolicy"> <b>Privacy policy</b></a>
+				</div>
+				<div class="copyright">
+					<a href="/company/"><img src="/dv3/azcD4z-wFIWQxMYPTXtL0blCgBs/yui3/site-nav/assets/footer-logo.svg" class="copyright-ixl-logo" alt="IXL Learning" title="IXL Learning"></a>
+					© 2025 IXL Learning. All rights reserved.
+				</div>
+			</div>
+		</footer>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			const handleClick = (e) => {
+			  const {innerText, href} = e.currentTarget;
+			  let buttonText = innerText.trim();
+			  let clickText = innerText.trim();
+			  if (e.currentTarget.getAttribute('data-ga-social')){
+			    clickText = href;
+			    buttonText = e.currentTarget.getAttribute('data-ga-social')
+			  }
+			  window.dataLayer.push({
+			    event: 'click_button',
+			    feature: 'Footer',
+			    module: 'Footer',
+			    button: buttonText,
+			    click_text: clickText,
+			    click_url: href,
+			    outbound: e.currentTarget.getAttribute('data-ga-outbound') || false,
+			  })
+			}
+			
+			const footerLinks = document.querySelectorAll('.site-nav-footer a')
+			for (let i=0; i < footerLinks.length; i++) {
+			  footerLinks[i].addEventListener('click', handleClick, false)
+			}
+		</script>
+		<div id="loginDialog" class="" style="visibility: hidden;"></div>
+		<script>
+			PROD_YUI.use('marketing-mobileAppBanner', function(Y) {
+			  Y.IXL.setupMobileAppBanner('mobile_app_banner_dismissed', 'Skill');
+			});
+		</script>
+		<link rel="stylesheet" href="/dv3/0vf-Fix6RE4FqmyrjyYOec5HHAM/yui3/suggested-skills/css/SuggestedSkillsPracticePage-min.css">
+		<script>
+			PROD_YUI.use("ixl_suggested-skills_utils_SuggestionIconTooltipUtils", "customizable-delay-tooltips-Tooltip", "selector-css3", function(Y) {
+			  var tooltipContainerClassName = ".site-nav-breadcrumb";
+			  var suggestingTeachers = {"2020696417":{"teacherLastNames":"","numSuggestingTeachers":0,"numRosters":8,"teacherDisplayNames":""}};
+			  var offsetX = 15;
+			  var offsetY = 11;
+			  var tooltip = new Y.IXL.CustomizableDelayTooltip({
+			    triggerNodes: ".suggestion-toggle-icon",
+			    delegate: tooltipContainerClassName,
+			    autoHide: false,
+			    showDelay: 700,
+			    offsetXY: [offsetX, offsetY],
+			    zIndex: 26,
+			    maxWidth: 600
+			  });
+			  tooltip.render(tooltipContainerClassName);
+			
+			  // When the star is clicked, hide the tooltip.
+			  
+			
+			  // Set tooltip content
+			  var TooltipTextUtils = require('ixl/suggested-skills/utils/SuggestionIconTooltipUtils');
+			  tooltip.on("triggerEnter", function (e) {
+			    var star = e.node;
+			    if (star && star.hasClass('suggestion-toggle-icon')) {
+			      var tooltipText = '';
+			      // boolean indicates whether the skill is suggested (includes half suggested for instructor).
+			      var isSkillSuggested = !star.hasClass('not-suggested');
+			      var currSkillId = star.getAttribute("data-skill");
+			      
+			      
+			      
+			        if (suggestingTeachers[currSkillId]) {
+			          tooltipText = TooltipTextUtils.getStudentTooltipText(
+			            suggestingTeachers[currSkillId]["teacherDisplayNames"],
+			            suggestingTeachers[currSkillId]["numRosters"],
+			            suggestingTeachers[currSkillId]["numSuggestingTeachers"]);
+			        }
+			      
+			      
+			    }
+			
+			    this.setTriggerContent(tooltipText);
+			  });
+			
+			  
+			    tooltip.on("triggerEnter", function(e) {
+			      var star = e.node;
+			
+			      // For students/children, don't show tooltip on hidden stars.
+			      if (star && star.hasClass('suggestion-toggle-icon') && star.hasClass('hidden')) {
+			        e.preventDefault();
+			      }
+			    });
+			  
+			  }
+			);
+			
+		</script>
+		<link rel="stylesheet" href="/dv3/h5rFbjb3hF6ZG8uMtkCG2TDWMXI/yui3/sticky-overlay/sticky-overlay-css-base-min.css">
+		<script>window.COMMON_PAGE_END_MODEL={"googleRecaptchaModel":{"siteKey":"6Lcq04AUAAAAAGSiB3-3J5ZSQZSTARc4GfabojnP","scriptSrc":"https://www.recaptcha.net/recaptcha/api.js?render=6Lcq04AUAAAAAGSiB3-3J5ZSQZSTARc4GfabojnP&hl=en","tokenInputName":"recaptchaModel.recaptchaToken","protectedByRecaptchaMsg":"This site is protected by reCAPTCHA and the Google <a href='https://policies.google.com/privacy?hl=en' target='_blank' tabindex='-1' class='recaptcha-msg-privacy-link'>Privacy&nbsp;Policy</a> and <a href='https://policies.google.com/terms?hl=en' target='_blank' tabindex='-1' class='recaptcha-msg-tos-link'>Terms&nbsp;of&nbsp;Service</a> apply.","protectedByRecaptchaBadgeText":"protected by reCAPTCHA","privacyLinkText":"Privacy","privacyLinkHref":"https://policies.google.com/privacy?hl=en","termsLinkText":"Terms","termsLinkHref":"https://policies.google.com/terms?hl=en","scoreThreshold":0.5,"whitelistIps":["209.237.27.128/27","96.45.197.222/30","12.216.73.226/27"],"verificationFailedMsg":"reCAPTCHA verification failed. Please try again.","enabled":false,"checkingHsi":true,"backgroundScriptEnabled":true}};</script>
+		<script>
+			// Check UserAgent to see if the browser is Internet Explorer.
+			var isInternetExplorer = PROD_YUI && PROD_YUI.UA.ie > 0;
+			
+			var isRecaptchaBackgroundScriptEnabled = window.COMMON_PAGE_END_MODEL
+			  && window.COMMON_PAGE_END_MODEL.googleRecaptchaModel
+			  && window.COMMON_PAGE_END_MODEL.googleRecaptchaModel.backgroundScriptEnabled;
+			
+			var modules = [
+			  'ixl_site-nav-commonjs_set-up-site-nav-banner',
+			  'ixl_ab-testing-commonjs_FirstTimeOnIXLCookieHelper',
+			  'ixl_util-commonjs_Websocket',
+			];
+			
+			if (isInternetExplorer) {
+			  modules.push('ixl_common-commonjs_js_setUpIEBanner');
+			}
+			
+			if (isRecaptchaBackgroundScriptEnabled) {
+			  modules.push('ixl_recaptcha-commonjs_GoogleRecaptchaClient');
+			}
+			
+			PROD_YUI.use(modules, function(Y) {
+			  var setUpSiteNavBanner = require('ixl/site-nav-commonjs/set-up-site-nav-banner');
+			  setUpSiteNavBanner();
+			
+			  var firstTimeOnIXLCookieHelper = require('ixl/ab-testing-commonjs/FirstTimeOnIXLCookieHelper');
+			  firstTimeOnIXLCookieHelper();
+			
+			  if (isInternetExplorer) {
+			    var setUpIEBanner = require('ixl/common-commonjs/js/setUpIEBanner');
+			    setUpIEBanner();
+			  }
+			
+			  if (isRecaptchaBackgroundScriptEnabled) {
+			    var GoogleRecaptchaClient = require("ixl/recaptcha-commonjs/GoogleRecaptchaClient");
+			    GoogleRecaptchaClient.getRecaptchaChecker(
+			      window.COMMON_PAGE_END_MODEL.googleRecaptchaModel.siteKey,
+			      window.COMMON_PAGE_END_MODEL.googleRecaptchaModel.scriptSrc
+			    );
+			  }
+			
+			});
+		</script>
+		<div id="user-welcome-modal-container" class="user-welcome-modal-container"></div>
+		<script>
+			var rosterPopoverModel = window.COMMON_PAGE_END_MODEL &&
+			  window.COMMON_PAGE_END_MODEL.rosterPopoverModel;
+			if (rosterPopoverModel !== undefined) {
+			  window.USE_NEW_ROSTER_POPOVER = true;
+			  PROD_YUI.use('ixl_user-welcome_user-welcome-modal', function(Y) {
+			
+			    var durationDays = rosterPopoverModel.durationDays;
+			    var UserWelcomeModalSetup = require('ixl/user-welcome/user-welcome-modal');
+			
+			    UserWelcomeModalSetup({
+			      selector: "#user-welcome-modal-container",
+			      props: {
+			        durationDays: durationDays,
+			        isNewTrialAccount: rosterPopoverModel.isNewTrial,
+			        isTrialAccount: rosterPopoverModel.isTrial
+			      },
+			    });
+			  });
+			}
+		</script>
+		<div id="merge-invite-popover-root" class="merge-invite-popover-container"></div>
+		<script>
+			var mergeInvitePopoverModel = window.COMMON_PAGE_END_MODEL &&
+			  window.COMMON_PAGE_END_MODEL.mergeInvitePopoverModel;
+			
+			if (mergeInvitePopoverModel) {
+			  PROD_YUI.use('ixl_merge-invite_merge-invite-popover', function(Y) {
+			    var MergeInvitePopoverSetup = require('ixl/merge-invite/merge-invite-popover');
+			
+			    MergeInvitePopoverSetup({
+			      selector: "#merge-invite-popover-root",
+			      props: {
+			        token: mergeInvitePopoverModel.token,
+			        siteAccountName: mergeInvitePopoverModel.siteAccountName,
+			        teacherId: mergeInvitePopoverModel.teacherId,
+			        isDistrict: mergeInvitePopoverModel.isDistrict
+			      }
+			    });
+			  });
+			}
+		</script>
+		<section class="translation-popover-container" id="translation-popover-container"></section>
+		<script type="text/javascript" src="/frontend/resources/translationPopover/translationPopover_en.3c91d71567ee1b3cf8b5.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_internals_export_js.2e3196cd73053f26dc7b.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_array_-573b95/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_array_-573b95.fdbbaeb7cb49a2e7211d.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_react-dom_index_js/commons-build_output_build_work_client-js-dependencies_node_modules_react-dom_index_js.a9b588f269ce80eede40.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_utils_i18n_index_js/commons-ixl_utils_i18n_index_js.4e80f16df5163a2a000a.bundle.js"></script><script type="text/javascript" src="/frontend/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_typed--1cab5f/commons-build_output_build_work_client-js-dependencies_node_modules_core-js_modules_es_typed--1cab5f.bd9b66e2ddd46ecacfbf.bundle.js"></script><script type="text/javascript" src="/frontend/commons-ixl_practice_components_popovers_incompleteAnswerPopover_AudioWrapperGenerationUtils_jsx/commons-ixl_practice_components_popovers_incompleteAnswerPopover_AudioWrapperGenerationUtils_jsx.f6bc0c4dab5735922a07.bundle.js"></script><script type="text/javascript" src="/frontend/translationPopover/translationPopover.5c07e5cb2d7ade9e995e.bundle.js"></script>
+		<meta name="p:domain_verify" content="5ef3a8f63f9211d339e14ef7a49db35b">
+		<div>
+			<div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;">
+				<div class="grecaptcha-logo"><iframe title="reCAPTCHA" width="256" height="60" role="presentation" name="a-5gbjaogf5tup" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&amp;k=6Lcq04AUAAAAAGSiB3-3J5ZSQZSTARc4GfabojnP&amp;co=aHR0cHM6Ly93d3cuaXhsLmNvbTo0NDM.&amp;hl=en&amp;v=Hi8UmRMnhdOBM3IuViTkapUP&amp;size=invisible&amp;cb=btectgd7hhw7"></iframe></div>
+				<div class="grecaptcha-error"></div>
+				<textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea>
+			</div>
+			<iframe style="display: none;"></iframe>
+		</div>
+		<iframe style="position: absolute; top: 0; height: 0; width: 100%; border: 0px;" id="responsive-info-higher-order-component-iframe" aria-hidden="true"></iframe>
+	</body>
 </html>`
+
 
     ];
 
