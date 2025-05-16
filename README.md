@@ -33,5 +33,3 @@ For Ipad - Safari
 ### Need Help?
 
 If you need assistance, feel free to add me on Discord: **killerqueen2007**
-"# IXL-Fake-Completion-Page-Bookmark" 
-"# IXL-Fake-Completion-Page-Bookmark" 
